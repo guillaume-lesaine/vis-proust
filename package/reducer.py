@@ -10,7 +10,10 @@ word = None
 
 for line in sys.stdin:
     line = line.strip()
-    word, count = line.split("===")
+    try:
+        word, count = line.split("===")
+    except:
+        continue
 
     try :
         count = int(count)

@@ -3,9 +3,17 @@
 import sys
 import nltk
 
-#with open("frankenstein.txt") as textfile:
 for line in sys.stdin:
     line = line.strip()
+    # Handling of paragraphs and thoughts
+    if "»--«" in line:
+        line = line.replace("»--«"," ")
+    if "--" in line:
+        line = line.replace("--"," ")
+    if "«" in line:
+        line = line.replace("«","")
+    if "»" in line:
+        line = line.replace("»","")
     words = nltk.word_tokenize(line)
     for word in words:
         print('%s===%s' % (word, "1"))

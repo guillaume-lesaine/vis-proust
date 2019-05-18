@@ -8,10 +8,10 @@
       [" ", " ", "/", " "]
     ]
   },
-  "function_dataframe": {
+  "lowerize": {
     "arguments": "df_filename, df_result_filename",
     "values": [
-      ["input_function_dataframe.csv", "output_function_dataframe.csv"]
+      ["input_lowerize.csv", "output_lowerize.csv"]
     ]
   },
   "function_list": {
@@ -22,12 +22,10 @@
       ["function_list.json", "case_3"]
     ]
   },
-  "function_complex": {
-    "arguments": "df_filename, l_filename, case, x, s, df_result_filename, arg_1_result",
+  "interval": {
+    "arguments": "df_filename, low, high, df_result_filename",
     "values": [
-      ["input_function_complex.csv", "function_complex.json", "case_1", 2, "column", "output_function_complex.csv", 1],
-      ["input_function_complex.csv", "function_complex.json", "case_2", 2, "column", "output_function_complex.csv", 11],
-      ["input_function_complex.csv", "function_complex.json", "case_3", 2, "column", "output_function_complex.csv", 12]
+      ["input_interval.csv", 10, 20, "output_interval.csv"]
     ]
   }
 }
