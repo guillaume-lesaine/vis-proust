@@ -1,0 +1,33 @@
+{
+  "function_simple_objects": {
+    "arguments": "x, y, element, result",
+    "values": [
+      ["a", "b", "/", "a/b"],
+      ["a", " ", "/", "a "],
+      [" ", "a", "/", " a"],
+      [" ", " ", "/", " "]
+    ]
+  },
+  "function_dataframe": {
+    "arguments": "df_filename, df_result_filename",
+    "values": [
+      ["input_function_dataframe.csv", "output_function_dataframe.csv"]
+    ]
+  },
+  "function_list": {
+    "arguments": "filename, case",
+    "values": [
+      ["function_list.json", "case_1"],
+      ["function_list.json", "case_2"],
+      ["function_list.json", "case_3"]
+    ]
+  },
+  "function_complex": {
+    "arguments": "df_filename, l_filename, case, x, s, df_result_filename, arg_1_result",
+    "values": [
+      ["input_function_complex.csv", "function_complex.json", "case_1", 2, "column", "output_function_complex.csv", 1],
+      ["input_function_complex.csv", "function_complex.json", "case_2", 2, "column", "output_function_complex.csv", 11],
+      ["input_function_complex.csv", "function_complex.json", "case_3", 2, "column", "output_function_complex.csv", 12]
+    ]
+  }
+}
