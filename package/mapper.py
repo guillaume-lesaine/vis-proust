@@ -2,18 +2,14 @@
 
 import sys
 import nltk
+import re
 
 for line in sys.stdin:
     line = line.strip()
     # Handling of paragraphs and thoughts
-    if "»--«" in line:
-        line = line.replace("»--«"," ")
-    if "--" in line:
-        line = line.replace("--"," ")
-    if "«" in line:
-        line = line.replace("«","")
-    if "»" in line:
-        line = line.replace("»","")
+    regex_swann = re.compile(r"«|»|--")
+    line = re.sub(regex_swann," ",line)
+    # Create a list out of the sentence
     words = nltk.word_tokenize(line)
     for word in words:
         print('%s===%s' % (word, "1"))
