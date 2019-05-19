@@ -2,8 +2,6 @@
 
 import sys
 
-# wordcount = {}
-
 current_word = None
 current_count = 0
 word = None
@@ -25,9 +23,9 @@ for line in sys.stdin:
         current_count += count
     else :
         if current_word:
-            print("{}==={}".format(current_word,current_count))
+            print(f"{current_word}==={current_count}")
         current_count = count
         current_word = word
 
 if current_word == word :
-    print("{}==={}".format(current_word,current_count))
+    print(f"{current_word}==={current_count}")

@@ -12,4 +12,4 @@ for line in sys.stdin:
     # Create a list out of the sentence
     words = nltk.word_tokenize(line)
     for word in words:
-        print('%s===%s' % (word, "1"))
+        print(f"{word}===1")
