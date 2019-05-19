@@ -3,4 +3,4 @@ __pycache__
 .DS_Store
 *.log
 originals
-package.egg-info
+data
