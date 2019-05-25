@@ -5,7 +5,7 @@
 *===5
 ,===5640
 ...===9
-.===1952
+.===1950
 1872===1
 :===145
 ;===263
@@ -39,7 +39,7 @@ Arouet===1
 Arrivé===1
 Arvède===1
 Assises===1
-Athalie===1
+Athalie===4
 Au-dessus===1
 Au===20
 Aucune===2
@@ -208,6 +208,7 @@ Entre===6
 Environ===1
 Est-ce===6
 Est-il===1
+Esther===1
 Et===122
 Eulalie===1
 Excuse-moi===1
@@ -230,6 +231,7 @@ Ganaches===3
 Garde===1
 Garnier===1
 Gascq-Desfossés===1
+Gaulois===1
 George===1
 Gilberte===10
 Giotto===2
@@ -285,13 +287,15 @@ Japon===1
 Japonais===1
 Jardin===1
 Je===184
+Jeffries===1
 Joad===2
 Jockey===1
 Joseph===1
 Joueurs===1
+Journal===1
 Judas===1
 Jugement===1
-Juives_===1
+Juives===1
 Jules===2
 Jérusalem===1
 Jésus-Christ===1
@@ -323,7 +327,7 @@ Laura===1
 Le===41
 Leconte===2
 Legrandin===3
-Les===40
+Les===41
 Leucothea===1
 Leur===1
 Leurs===1
@@ -368,7 +372,7 @@ Michel===1
 Midi===1
 Mille===1
 Minos===2
-Miss===1
+Miss===2
 Mlle===10
 Mme===34
 Moi===5
@@ -408,7 +412,7 @@ Octave===8
 Odette===5
 Odysseus===1
 Offertes===1
-Officiel_===1
+Officiel===1
 Oh===8
 Ombres===1
 On===32
@@ -489,6 +493,7 @@ Quoiqu'un===1
 Quoique===1
 Racine===9
 Racontez===1
+Radical===1
 Redon===1
 Regardez-moi===1
 Reims===1
@@ -517,8 +522,7 @@ République===1
 S'il===3
 S'élançant===1
 Sa===5
-Sacripant===1
-Sacripant_===1
+Sacripant===2
 Saint-André-des-Champs===1
 Saint-Augustin===1
 Saint-Blaise===1
@@ -629,18 +633,6 @@ XVI===2
 XVIIe===1
 Zephyros===1
 Zuecca===1
-_Athalie_===3
-_Esther_===1
-_Gaulois_===1
-_Jeffries_===1
-_Journal===1
-_Les===1
-_Miss===1
-_Radical_===1
-_justement_===1
-_l'homme_===1
-_n_===4
-_ne===2
 a-t-elle===1
 a-t-il===2
 a===214
@@ -2648,11 +2640,13 @@ d'Albertines===1
 d'Ambresac===4
 d'Andrée===27
 d'Art===1
+d'Athalie===2
 d'Aumale===2
 d'Elisabeth===1
 d'Elsir===1
 d'Elstir===25
 d'Eros===1
+d'Esther===1
 d'Eôs===1
 d'Heuland===1
 d'Octave===1
@@ -2662,8 +2656,6 @@ d'Orient===1
 d'Orléans===1
 d'œil===3
 d'œuvre===1
-d'_Athalie_===2
-d'_Esther_===1
 d'abord===23
 d'accord===1
 d'achever===1
@@ -5500,7 +5492,7 @@ jusqu===26
 jusque-là===16
 jusque===3
 juste===3
-justement===13
+justement===14
 justes===1
 justesse===1
 justice===1
@@ -5510,6 +5502,7 @@ kiosque===2
 l'Académie===3
 l'Adriatique===1
 l'Albertine===4
+l'Aman===1
 l'Amérique===1
 l'Arêna===1
 l'Assomption===1
@@ -5523,7 +5516,6 @@ l'Odette===1
 l'Olympe===1
 l'œil===5
 l'œuvre===4
-l'_Aman_===1
 l'abandon===1
 l'abandonnèrent===1
 l'abondance===1
@@ -5780,7 +5772,7 @@ l'heure===26
 l'hilarité===1
 l'histoire===5
 l'hiver===2
-l'homme===7
+l'homme===8
 l'honneur===3
 l'honnêteté===1
 l'horaire===1
@@ -6907,7 +6899,8 @@ n'étant===1
 n'étiez===2
 n'êtes===1
 n'être===8
-n===67
+n.===2
+n===69
 nœud===1
 nœuds===3
 nacré===1
@@ -6940,7 +6933,7 @@ naïf===1
 naïve===1
 naïvement===2
 naïveté===1
-ne===722
+ne===724
 nefs===1
 neige===3
 nerfs===3
@@ -10487,7 +10480,7 @@ variation===1
 variations===2
 varie===1
 varier===1
-varietur_===2
+varietur===2
 varié===1
 variée===2
 variées===3

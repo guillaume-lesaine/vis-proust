@@ -53,7 +53,7 @@ qu’aucune et qu’alors elle est aussi cruelle que la mort.
 Le plus pressé était de lire la lettre d’Albertine puisque je voulais
 aviser aux moyens de la faire revenir. Je les sentais en ma possession,
 parce que, comme l’avenir est ce qui n’existe que dans notre pensée, il
-nous semble encore modifiable par l’intervention /in extremis/ de notre
+nous semble encore modifiable par l’intervention in extremis de notre
 volonté. Mais, en même temps, je me rappelais que j’avais vu agir sur
 lui d’autres forces que la mienne et contre lesquelles, plus de temps
 m’eût-il été donné, je n’aurais rien pu. À quoi sert que l’heure n’ait
@@ -824,7 +824,7 @@ pour trente mille francs des choses plus difficiles que de dire à leur
 nièce de ne pas rester en Touraine. Enfin je suis doublement content de
 te rendre service, puisqu’il faut cela pour que tu consentes à me voir.
 Si je me marie, ajouta-t-il, est-ce que nous ne nous verrons pas
-davantage, est-ce que tu ne feras pas un peu de ma maison la tienne ?… »
+davantage, est-ce que tu ne feras pas un peu de ma maison la tienne ?... »
 Il s’arrêta, ayant tout à coup pensé, supposai-je alors, que si moi
 aussi je me mariais Albertine ne pourrait pas être pour sa femme une
 relation intime. Et je me rappelai ce que les Cambremer m’avaient dit de
@@ -1169,13 +1169,13 @@ par une voisine. J’appliquais leurs paroles que je connaissais à
 Albertine et à moi et je fus rempli d’un sentiment si profond que je me
 mis à pleurer. C’était :
 
-/Hélas, l’oiseau qui fuit ce qu’il croit l’esclavage,/
-/D’un vol désespéré revient battre au vitrage/
+Hélas, l’oiseau qui fuit ce qu’il croit l’esclavage,
+D’un vol désespéré revient battre au vitrage
 
 et la mort de Manon :
 
-/Manon, réponds-moi donc, seul amour de mon âme,/
-/Je n’ai su qu’aujourd’hui la bonté de ton cœur./
+Manon, réponds-moi donc, seul amour de mon âme,
+Je n’ai su qu’aujourd’hui la bonté de ton cœur.
 
 Puisque Manon revenait à Des Grieux, il me semblait que j’étais pour
 Albertine le seul amour de sa vie. Hélas, il est probable que si elle
@@ -1288,7 +1288,7 @@ pendant que, trop souffrant, je vous eusse attendue au port (j’avais
 pour la terre j’avais voulu que vous eussiez votre automobile à vous,
 rien qu’à vous, dans laquelle vous sortiriez, vous voyageriez à votre
 fantaisie. Le yacht était déjà presque prêt, il s’appelle, selon votre
-désir exprimé à Balbec, le /Cygne/. Et me rappelant que vous préfériez à
+désir exprimé à Balbec, le Cygne. Et me rappelant que vous préfériez à
 toutes les autres les voitures Rolls, j’en avais commandé une. Or
 maintenant que nous ne nous verrons plus jamais, comme je n’espère pas
 vous faire accepter le bateau ni la voiture (pour moi ils ne pourraient
@@ -1302,29 +1302,29 @@ et une Rolls Royce, de nous voir et de jouer le bonheur de votre vie
 puisque vous estimez qu’il est de vivre loin de moi. Non, je préfère
 garder la Rolls et même le yacht. Et comme je ne me servirai pas d’eux
 et qu’ils ont chance de rester toujours, l’un au port, désarmé, l’autre
-à l’écurie, je ferai graver sur le … (mon Dieu, je n’ose pas mettre un
+à l’écurie, je ferai graver sur le ... (mon Dieu, je n’ose pas mettre un
 nom de pièce inexact et commettre une hérésie qui vous choquerait) du
 yacht ces vers de Mallarmé que vous aimiez :
 
-/Un cygne d’autrefois se souvient que c’est lui/
-/Magnifique mais qui sans espoir se délivre/
-/Pour n’avoir pas chanté la région où vivre/
-/Quand du stérile hiver a resplendi l’ennui./
+Un cygne d’autrefois se souvient que c’est lui
+Magnifique mais qui sans espoir se délivre
+Pour n’avoir pas chanté la région où vivre
+Quand du stérile hiver a resplendi l’ennui.
 
-» Vous vous rappelez — c’est le poème qui commence par : /Le vierge, le
-vivace et le bel aujourd’hui…/ Hélas, « aujourd’hui » n’est plus ni
+» Vous vous rappelez — c’est le poème qui commence par : Le vierge, le
+vivace et le bel aujourd’hui... Hélas, « aujourd’hui » n’est plus ni
 vierge, ni beau. Mais ceux qui comme moi savent qu’ils en feront bien
-vite un « demain » supportable ne sont guère /supportables/. Quant à la
+vite un « demain » supportable ne sont guère supportables. Quant à la
 Rolls, elle eût mérité plutôt ces autres vers du même poète que vous
 disiez ne pouvoir comprendre :
 
-/Dis si je ne suis pas joyeux/
-/Tonnerre et rubis aux moyeux/
-/De voir en l’air que ce feu troue/
+Dis si je ne suis pas joyeux
+Tonnerre et rubis aux moyeux
+De voir en l’air que ce feu troue
 
-/Avec des royaumes épars/
-/Comme mourir pourpre la roue/
-/Du seul vespéral de mes chars./
+Avec des royaumes épars
+Comme mourir pourpre la roue
+Du seul vespéral de mes chars.
 
 » Adieu pour toujours, ma petite Albertine, et merci encore de la bonne
 promenade que nous fîmes ensemble la veille de notre séparation. J’en
@@ -1404,7 +1404,7 @@ souhaitais qu’Albertine ne revînt pas, mais je voulais que cette
 décision vînt d’elle pour mettre fin à mon anxiété, et je résolus de
 rendre la lettre à Françoise. J’ouvris le journal, il annonçait une
 représentation de la Berma. Alors je me souvins des deux façons
-différentes dont j’avais écouté /Phèdre/, et ce fut maintenant d’une
+différentes dont j’avais écouté Phèdre, et ce fut maintenant d’une
 troisième que je pensai à la scène de la déclaration. Il me semblait que
 ce que je m’étais si souvent récité à moi-même, et que j’avais écouté au
 théâtre, c’était l’énoncé des lois que je devais expérimenter dans ma
@@ -1420,32 +1420,32 @@ vie qui nous paraissait si mélancoliquement calme. Ou bien si la chose
 est en notre possession, nous croyons qu’elle nous est à charge, que
 nous nous en déferions volontiers. C’est ce qui m’était arrivé pour
 Albertine. Mais que par un départ l’être indifférent nous soit retiré,
-et nous ne pouvons plus vivre. Or l’« argument » de /Phèdre/ ne
+et nous ne pouvons plus vivre. Or l’« argument » de Phèdre ne
 réunissait-il pas les deux cas ? Hippolyte va partir. Phèdre qui
 jusque-là a pris soin de s’offrir à son inimitié, par scrupule,
 dit-elle, ou plutôt lui fait dire le poète, parce qu’elle ne voit pas à
 quoi elle arriverait et qu’elle ne se sent pas aimée, Phèdre n’y tient
 plus. Elle vient lui avouer son amour, et c’est la scène que je m’étais
-si souvent récitée : « /On dit qu’un prompt départ vous éloigne de
-nous./ » Sans doute cette raison du départ d’Hippolyte est accessoire,
+si souvent récitée : « On dit qu’un prompt départ vous éloigne de
+nous. » Sans doute cette raison du départ d’Hippolyte est accessoire,
 peut-on penser, à côté de celle de la mort de Thésée. Et de même quand,
 quelques vers plus loin, Phèdre fait un instant semblant d’avoir été mal
-comprise : « /Aurais-je perdu tout le soin de ma gloire/ », on peut
+comprise : « Aurais-je perdu tout le soin de ma gloire », on peut
 croire que c’est parce qu’Hippolyte a repoussé sa déclaration :
-« /Madame, oubliez-vous que Thésée est mon père, et qu’il est votre
-époux ?/ » Mais il n’aurait pas eu cette indignation, que, devant le
+« Madame, oubliez-vous que Thésée est mon père, et qu’il est votre
+époux ? » Mais il n’aurait pas eu cette indignation, que, devant le
 bonheur atteint, Phèdre aurait pu avoir le même sentiment qu’il valait
 peu de chose. Mais dès qu’elle voit qu’il n’est pas atteint,
 qu’Hippolyte croit avoir mal compris et s’excuse, alors, comme moi
 voulant rendre à Françoise ma lettre, elle veut que le refus vienne de
-lui, elle veut pousser jusqu’au bout sa chance : « /Ah ! cruel, tu m’as
-trop entendue./ » Et il n’y a pas jusqu’aux duretés qu’on m’avait
+lui, elle veut pousser jusqu’au bout sa chance : « Ah ! cruel, tu m’as
+trop entendue. » Et il n’y a pas jusqu’aux duretés qu’on m’avait
 racontées de Swann envers Odette, ou de moi à l’égard d’Albertine,
 duretés qui substituèrent à l’amour antérieur un nouvel amour, fait de
 pitié, d’attendrissement, de besoin d’effusion et qui ne fait que varier
-le premier, qui ne se trouvent aussi dans cette scène : « /Tu me
+le premier, qui ne se trouvent aussi dans cette scène : « Tu me
 haïssais plus, je ne t’aimais pas moins. Tes malheurs te prêtaient encor
-de nouveaux charmes./ » La preuve que le « soin de sa gloire » n’est pas
+de nouveaux charmes. » La preuve que le « soin de sa gloire » n’est pas
 ce à quoi tient le plus Phèdre, c’est qu’elle pardonnerait à Hippolyte
 et s’arracherait aux conseils d’Œnone si elle n’apprenait à ce moment
 qu’Hippolyte aime Aricie. Tant la jalousie, qui en amour équivaut à la
@@ -1524,7 +1524,7 @@ pouvait pas voir que j’avais pleuré, je sonnais Françoise et je lui
 disais : « Il faudra voir si Mademoiselle Albertine n’a rien oublié.
 Pensez à faire sa chambre, pour qu’elle soit bien en état quand elle
 viendra. » Ou simplement : « Justement l’autre jour Mademoiselle
-Albertine me disait, tenez justement la veille de son départ… » Je
+Albertine me disait, tenez justement la veille de son départ... » Je
 voulais diminuer chez Françoise le détestable plaisir que lui causait le
 départ d’Albertine en lui faisant entrevoir qu’il serait court. Je
 voulais aussi montrer à Françoise que je ne craignais pas de parler de
@@ -1553,17 +1553,17 @@ lettre écrite par mon amie sans crainte que je l’ouvrisse. Je pris les
 bagues. « Que Monsieur y fasse attention de ne pas les perdre, dit
 Françoise, on peut dire qu’elles sont belles ! Je ne sais pas qui les
 lui a données, si c’est Monsieur ou un autre, mais je vois bien que
-c’est quelqu’un de riche et qui a du goût ! ─ Ce n’est pas moi,
+c’est quelqu’un de riche et qui a du goût ! - Ce n’est pas moi,
 répondis-je à Françoise, et d’ailleurs ce n’est pas de la même personne
 que viennent les deux, l’une lui a été donnée par sa tante et elle a
-acheté l’autre. ─ Pas de la même personne ! s’écria Françoise, Monsieur
+acheté l’autre. - Pas de la même personne ! s’écria Françoise, Monsieur
 veut rire, elles sont pareilles, sauf le rubis qu’on a ajouté sur l’une,
-il y a le même aigle sur les deux, les mêmes initiales à l’intérieur… »
+il y a le même aigle sur les deux, les mêmes initiales à l’intérieur... »
 Je ne sais pas si Françoise sentait le mal qu’elle me faisait, mais elle
 commença à ébaucher un sourire qui ne quitta plus ses lèvres. « Comment,
 le même aigle ? Vous êtes folle. Sur celle qui n’a pas de rubis il y a
 bien un aigle, mais sur l’autre c’est une espèce de tête d’homme qui est
-ciselée. ─ Une tête d’homme ? où Monsieur a vu ça ? Rien qu’avec mes
+ciselée. - Une tête d’homme ? où Monsieur a vu ça ? Rien qu’avec mes
 lorgnons j’ai tout de suite vu que c’était une des ailes de l’aigle ;
 que Monsieur prenne sa loupe, il verra l’autre aile sur l’autre côté, la
 tête et le bec au milieu. On voit chaque plume. Ah ! c’est un beau
@@ -1650,7 +1650,7 @@ banque offerts à M^me Bontemps, de Saint-Loup penché sur le pupitre
 incliné d’un bureau de télégraphe où il remplissait une formule de
 dépêche pour moi, jamais l’image d’Albertine. De même que dans tout le
 cours de notre vie notre égoïsme voit tout le temps devant lui les buts
-précieux pour notre moi, mais ne regarde jamais ce /Je/ lui-même qui ne
+précieux pour notre moi, mais ne regarde jamais ce Je lui-même qui ne
 cesse de les considérer, de même le désir qui dirige nos actes descend
 vers eux, mais ne remonte pas à soi, soit que, trop utilitaire, il se
 précipite dans l’action et dédaigne la connaissance, soit que nous
@@ -1742,7 +1742,7 @@ qu’Albertine n’aurait pas pu garder, pour jusqu’à sa mort, un si doux
 souvenir de cette promenade où elle n’avait certainement eu aucun
 plaisir puisqu’elle était impatiente de me quitter. Mais j’admirai aussi
 comme la cycliste, la golfeuse de Balbec, qui n’avait rien lu
-qu’/Esther/ avant de me connaître, était douée et combien j’avais eu
+qu’Esther avant de me connaître, était douée et combien j’avais eu
 raison de trouver qu’elle s’était chez moi enrichie de qualités
 nouvelles qui la faisaient différente et plus complète. Et ainsi, la
 phrase que je lui avais dite à Balbec : « Je crois que mon amitié vous
@@ -1872,7 +1872,7 @@ ces pièces dans lesquelles Albertine allait, passait, vivait, ces
 pièces-là en particulier et non une infinité de pièces possibles qui
 s’étaient détruites l’une l’autre. Avec les mots de hangar, de couloir,
 de salon, ma folie m’apparut d’avoir laissé Albertine huit jours dans ce
-lieu maudit dont l’/existence/ (et non la simple possibilité) venait de
+lieu maudit dont l’existence (et non la simple possibilité) venait de
 m’être révélée. Hélas ! quand Saint-Loup me dit aussi que dans ce salon
 il avait entendu chanter à tue-tête d’une chambre voisine et que c’était
 Albertine qui chantait, je compris avec désespoir que, débarrassée enfin
@@ -1918,7 +1918,7 @@ montrant que j’étais moins humilié, donc plus capable d’être encore
 aimé, plus libre de faire une démarche décisive. Pourtant j’étais
 tourmenté. « Je suis ennuyé parce que je vois que tu n’es pas content. —
 Si, je suis touché, reconnaissant de ta gentillesse, mais il me semble
-que tu aurais pu… — J’ai fait de mon mieux. Un autre n’eût pu faire
+que tu aurais pu... — J’ai fait de mon mieux. Un autre n’eût pu faire
 davantage ni même autant. Essaye d’un autre. — Mais non, justement, si
 j’avais su, je ne t’aurais pas envoyé, mais ta démarche avortée
 m’empêche d’en faire une autre. » Je lui faisais des reproches : il
@@ -2123,7 +2123,7 @@ pas l’idée de nous chercher ici et comme cela nous ne serons plus
 dérangées. » Je disais à Françoise de refermer les rideaux pour ne plus
 voir ce rayon de soleil. Mais il continuait à filtrer, aussi corrosif,
 dans ma mémoire. « Elle ne me plaît pas, elle est restaurée, mais nous
-irons demain à Saint-Martin le Vêtu, après-demain à… » Demain,
+irons demain à Saint-Martin le Vêtu, après-demain à... » Demain,
 après-demain, c’était un avenir de vie commune, peut-être pour toujours,
 qui commençait, mon cœur s’élança vers lui, mais il n’était plus là,
 Albertine était morte.
@@ -2632,7 +2632,7 @@ mystère dans les choses les plus insignifiantes ; ce même pouvoir de les
 mettre en rapport intime avec nous est dévolu aussi à la douleur. Au
 moment même je n’avais prêté aucune attention à ce dîner que nous avions
 fait ensemble au retour du Bois, avant que j’allasse chez les Verdurin,
-et vers la beauté, la grave douceur duquel^[/sic/] je tournais
+et vers la beauté, la grave douceur duquel^[sic] je tournais
 maintenant des yeux pleins de larmes. Une impression de l’amour est hors
 de proportion avec les autres impressions de la vie, mais ce n’est pas
 perdue au milieu d’elles qu’on peut s’en rendre compte. Ce n’est pas
@@ -3385,8 +3385,8 @@ voulait mettre : « M^lle A. » en italique ou entre guillemets. Mais
 quand il voulait mettre des guillemets il traçait une parenthèse, et
 quand il voulait mettre quelque chose entre parenthèses il le mettait
 entre guillemets. C’est ainsi que Françoise disait que quelqu’un
-/restait/ dans ma rue pour dire qu’il y demeurait, et qu’on pouvait
-/demeurer/ deux minutes pour rester, les fautes des gens du peuple
+restait dans ma rue pour dire qu’il y demeurait, et qu’on pouvait
+demeurer deux minutes pour rester, les fautes des gens du peuple
 consistant seulement très souvent à interchanger — comme a fait
 d’ailleurs la langue française — des termes qui au cours des siècles ont
 pris réciproquement la place l’un de l’autre. « D’après elle la chose
@@ -3422,7 +3422,7 @@ et qui m’a été très agréable d’autant plus que le temps est on ne peut
 plus favorable. La saison s’annonce bien pour cette année. On espère que
 Monsieur viendra faire cet été une petite apparition.
 
-» Je ne vois plus rien d’intéressant à dire à Monsieur », etc…
+» Je ne vois plus rien d’intéressant à dire à Monsieur », etc...
 
 
 Pour comprendre à quelle profondeur ces mots entraient en moi, il faut
@@ -3618,10 +3618,10 @@ peut-être un revenant : — « Monsieur ne devinera jamais qui est là. »
 J’essayais de ne penser à rien, de prendre un journal. Mais la lecture
 m’était insupportable de ces articles écrits par des gens qui
 n’éprouvent pas de réelle douleur. D’une chanson insignifiante l’un
-disait : « C’est à /pleurer/ » tandis que moi je l’aurais écoutée avec
+disait : « C’est à pleurer » tandis que moi je l’aurais écoutée avec
 tant d’allégresse si Albertine avait vécu. Un autre, grand écrivain
 cependant, parce qu’il avait été acclamé à sa descente d’un train,
-disait qu’il avait reçu là des témoignages /inoubliables/, alors que
+disait qu’il avait reçu là des témoignages inoubliables, alors que
 moi, si maintenant je les avais reçus, je n’y aurais même pas pensé un
 instant. Et un troisième assurait que sans la fâcheuse politique la vie
 de Paris serait « tout à fait délicieuse », alors que je savais bien
@@ -3632,7 +3632,7 @@ Albertine. Le chroniqueur cynégétique disait (on était au mois de mai) :
 vrai chasseur, car il n’y a rien, absolument rien à tirer », et le
 chroniqueur du « Salon » : « Devant cette manière d’organiser une
 exposition on se sent pris d’un immense découragement, d’une tristesse
-infinie… » Si la force de ce que je sentais me faisait paraître
+infinie... » Si la force de ce que je sentais me faisait paraître
 mensongères et pâles les expressions de ceux qui n’avaient pas de vrais
 bonheurs ou malheurs, en revanche les lignes les plus insignifiantes
 qui, de si loin que ce fût, pouvaient se rattacher ou à la Normandie, ou
@@ -4345,10 +4345,10 @@ m’en était odieuse, et de plus elle n’était pas inoffensive. En effet,
 en nous de chaque idée, comme d’un carrefour dans une forêt, partent
 tant de routes différentes, qu’au moment où je m’y attendais le moins je
 me trouvais devant un nouveau souvenir. Le titre de la mélodie de Fauré,
-/le Secret/, m’avait mené au « secret du Roi » du duc de Broglie, le nom
+le Secret, m’avait mené au « secret du Roi » du duc de Broglie, le nom
 de Broglie à celui de Chaumont, ou bien le mot de Vendredi-Saint m’avait
 fait penser au Golgotha, le Golgotha à l’étymologie de ce mot qui paraît
-l’équivalent de /Calvus mons/, Chaumont. Mais, par quelque chemin que je
+l’équivalent de Calvus mons, Chaumont. Mais, par quelque chemin que je
 fusse arrivé à Chaumont, à ce moment j’étais frappé d’un choc si cruel
 que dès lors je ne pensais plus qu’à me garer contre la douleur.
 Quelques instants après le choc, l’intelligence qui, comme le bruit du
@@ -4360,7 +4360,7 @@ souvenirs sont tellement entre-croisés les uns avec les autres que la
 chose à laquelle on pense, le livre qu’on lit n’a presque plus
 d’importance. On a mis de soi-même partout, tout est fécond, tout est
 dangereux, et on peut faire d’aussi précieuses découvertes que dans les
-/Pensées/ de Pascal dans une réclame pour un savon.
+Pensées de Pascal dans une réclame pour un savon.
 
 Sans doute, un fait comme celui des Buttes-Chaumont, qui à l’époque
 m’avait paru futile, était en lui-même, contre Albertine, bien moins
@@ -4544,7 +4544,7 @@ Mais je ne l’ai jamais fait avec Albertine. — Voyons, ma petite Andrée,
 pourquoi nier des choses que je sais depuis au moins trois ans ; je n’y
 trouve rien de mal, au contraire. Justement, à propos du soir où elle
 voulait tant aller le lendemain avec vous chez M^me Verdurin, vous vous
-souvenez peut-être… » Avant que j’eusse continué ma phrase, je vis dans
+souvenez peut-être... » Avant que j’eusse continué ma phrase, je vis dans
 les yeux d’Andrée, qu’il faisait pointus comme ces pierres qu’à cause de
 cela les joailliers ont de la peine à employer, passer un regard
 préoccupé, comme ces têtes de privilégiés qui soulèvent un coin du
@@ -4604,7 +4604,7 @@ pas souvent, sans aucune passion, la vie de telle ou telle femme à un de
 nos amis, ou à un étranger, qui ne connaissaient rien de ses amours et
 nous écoutent avec curiosité ? L’homme que j’étais quand je parlais à
 Bloch de la princesse de Guermantes, de M^me Swann, cet être-là existait
-qui eût pu me parler d’Albertine, cet être-là existe toujours… mais nous
+qui eût pu me parler d’Albertine, cet être-là existe toujours... mais nous
 ne le rencontrons jamais. Il me semblait que, si j’avais pu trouver des
 femmes qui l’eussent connue, j’eusse appris tout ce que j’ignorais.
 Pourtant, à des étrangers il eût dû sembler que personne autant que moi
@@ -4784,9 +4784,9 @@ de mes besoins de tendresse et les particularités de son corps un
 entrelacement de souvenirs s’était fait tellement inextricable que je ne
 pouvais plus arracher à un désir de tendresse toute cette broderie des
 souvenirs du corps d’Albertine. Elle seule pouvait me donner ce bonheur.
-L’idée de son unicité n’était plus un /a priori/ métaphysique puisé dans
+L’idée de son unicité n’était plus un a priori métaphysique puisé dans
 ce qu’Albertine avait d’individuel, comme jadis pour les passantes, mais
-un /a posteriori/ constitué par l’imbrication contingente et
+un a posteriori constitué par l’imbrication contingente et
 indissoluble de mes souvenirs. Je ne pouvais plus désirer une tendresse
 sans avoir besoin d’elle, sans souffrir de son absence. Aussi la
 ressemblance même de la femme choisie, de la tendresse demandée, avec le
@@ -5151,8 +5151,8 @@ par la peur de ne pas la voir si mon père m’emmenait, tout cela, associé
 à une image qu’en somme je ne connaissais pas et dont il suffisait que
 je la susse agréable, constituait déjà un amour. Enfin le lendemain
 matin, après une nuit d’insomnie heureuse, je reçus la dépêche de
-Saint-Loup : « de l’Orgeville, /de/ particule, /orge/ la graminée, comme
-du seigle, /ville/ comme une ville, petite, brune, boulotte, est en ce
+Saint-Loup : « de l’Orgeville, de particule, orge la graminée, comme
+du seigle, ville comme une ville, petite, brune, boulotte, est en ce
 moment en Suisse. » Ce n’était pas elle !
 
 Un instant avant que Françoise m’apportât la dépêche, ma mère était
@@ -5201,9 +5201,9 @@ naître. Je ne l’ai pas vu quand sa mère le faisait, bien sûr. Mais quand
 je l’ai connu, pour bien dire, il n’y avait pas cinq ans qu’il était
 naquis ! »
 
-J’ouvris le /Figaro/. Quel ennui ! Justement le premier article avait le
+J’ouvris le Figaro. Quel ennui ! Justement le premier article avait le
 même titre que celui que j’avais envoyé et qui n’avait pas paru, mais
-pas seulement le même titre, … voici quelques mots absolument pareils.
+pas seulement le même titre, ... voici quelques mots absolument pareils.
 Cela, c’était trop fort. J’enverrais une protestation. Mais ce n’étaient
 pas que quelques mots, c’était tout, c’était ma signature. C’était mon
 article qui avait enfin paru ! Mais ma pensée qui, déjà à cette époque,
@@ -5228,7 +5228,7 @@ comme un des autres lecteurs du journal. Car ce que je tenais en main
 n’était pas seulement ce que j’avais écrit, mais était le symbole de
 l’incarnation dans tant d’esprits. Aussi pour le lire, fallait-il que je
 cessasse un moment d’en être l’auteur, que je fusse l’un quelconque des
-lecteurs du /Figaro/. Mais d’abord une première inquiétude. Le lecteur
+lecteurs du Figaro. Mais d’abord une première inquiétude. Le lecteur
 non prévenu verrait-il cet article ? Je déplie distraitement le journal
 comme ferait ce lecteur non prévenu, ayant même sur ma figure l’air
 d’ignorer ce qu’il y a ce matin dans mon journal et d’avoir hâte de
@@ -5265,11 +5265,11 @@ article, si remarquable qu’il puisse être, comme de ces phrases des
 comptes rendus de la Chambre où les mots « Nous verrons bien »,
 prononcés par le ministre, ne prennent toute leur importance qu’encadrés
 ainsi : Le Président du Conseil, Ministre de l’Intérieur et des Cultes :
-« Nous verrons bien. » /(Vives exclamations à l’extrême-gauche. Très
-bien ! sur quelques bancs à gauche et au centre)/ — la plus grande
+« Nous verrons bien. » (Vives exclamations à l’extrême-gauche. Très
+bien ! sur quelques bancs à gauche et au centre) — la plus grande
 partie de leur beauté réside dans l’esprit des lecteurs. Et c’est la
 tare originelle de ce genre de littérature, dont ne sont pas exceptés
-les célèbres /Lundis/, que leur valeur réside dans l’impression qu’elle
+les célèbres Lundis, que leur valeur réside dans l’impression qu’elle
 produit sur les lecteurs. C’est une Vénus collective, dont on n’a qu’un
 membre mutilé si l’on s’en tient à la pensée de l’auteur, car elle ne se
 réalise complète que dans l’esprit de ses lecteurs. En eux elle
@@ -5277,7 +5277,7 @@ s’achève. Et comme une foule, fût-elle une élite, n’est pas artiste, ce
 cachet dernier qu’elle lui donne garde toujours quelque chose d’un peu
 commun. Ainsi Sainte-Beuve, le lundi, pouvait se représenter M^me de
 Boigne dans son lit à huit colonnes lisant son article du
-/Constitutionnel/, appréciant telle jolie pensée dans laquelle il
+Constitutionnel, appréciant telle jolie pensée dans laquelle il
 s’était longtemps complu et qui ne serait peut-être jamais sortie de lui
 s’il n’avait jugé à propos d’en bourrer son feuilleton pour que le coup
 en portât plus loin. Sans doute le chancelier, le lisant de son côté, en
@@ -5330,7 +5330,7 @@ soi dont on puisse dire que « quand on l’a lu on peut le relire ». Je me
 promis d’en faire acheter d’autres exemplaires par Françoise, pour
 donner à des amis, lui dirais-je, en réalité pour toucher du doigt le
 miracle de la multiplication de ma pensée, et lire, comme si j’étais un
-autre Monsieur qui vient d’ouvrir le /Figaro/, dans un autre numéro les
+autre Monsieur qui vient d’ouvrir le Figaro, dans un autre numéro les
 mêmes phrases. Il y avait justement un temps infini que je n’avais vu
 les Guermantes, je devais leur faire, le lendemain, cette visite que
 j’avais projetée avec tant d’agitation afin de rencontrer M^lle
@@ -5367,7 +5367,7 @@ pour M^lle d’Éporcheville, qui avait perdu, du fait de la dépêche de
 Saint-Loup, le meilleur de sa personnalité, que pour voir en la duchesse
 elle-même une de ces lectrices de mon article qui pourraient me
 permettre d’imaginer ce qu’avait pu penser le public — abonnés et
-acheteurs — du /Figaro/. Ce n’est pas, du reste, sans plaisir que
+acheteurs — du Figaro. Ce n’est pas, du reste, sans plaisir que
 j’allais chez M^me de Guermantes. J’avais beau me dire que ce qui
 différenciait pour moi ce salon des autres, c’était le long stage qu’il
 avait fait dans mon imagination, en connaissant les causes de cette
@@ -5433,8 +5433,8 @@ entendant le nom de Forcheville (et déjà je me demandais si c’était une
 parente du Forcheville dont j’avais tant entendu parler) si la jeune
 fille blonde ne m’avait dit aussitôt, désireuse sans doute de prévenir
 avec tact des questions qui lui eussent été désagréables : « Vous ne
-vous souvenez pas que vous m’avez beaucoup connue autrefois, … vous
-veniez à la maison, … votre amie Gilberte. J’ai bien vu que vous ne me
+vous souvenez pas que vous m’avez beaucoup connue autrefois, ... vous
+veniez à la maison, ... votre amie Gilberte. J’ai bien vu que vous ne me
 reconnaissiez pas. Moi je vous ai bien reconnu tout de suite. » (Elle
 dit cela comme si elle m’avait reconnu tout de suite dans le salon, mais
 la vérité est qu’elle m’avait reconnu dans la rue et m’avait dit
@@ -5483,7 +5483,7 @@ souhaiter la mort et l’héritage des siens, selon qu’il est plus brave ou
 plus paresseux, qu’il va plus loin dans la suite de ses idées ou reste à
 en caresser le premier chaînon, l’acte qui est destiné à nous permettre
 d’atteindre l’image, que cet acte soit le voyage, le mariage, le crime,
-… cet acte nous modifie assez profondément pour que nous n’attachions
+... cet acte nous modifie assez profondément pour que nous n’attachions
 plus d’importance à la raison qui nous a fait l’accomplir. Il se peut
 même que ne vienne plus une seule fois à son esprit l’image que se
 formait celui qui n’était pas encore un voyageur, ou un mari, ou un
@@ -5506,7 +5506,7 @@ de ce qu’ils blâment chez les amoureux et que l’amour de ceux-ci
 explique. « Oh ! je ne me mêle pas à tout ça ; si ça amuse le pauvre
 Swann de faire des bêtises et de ruiner son existence, c’est son
 affaire, mais on ne sait pas avec ces choses-là, tout ça peut très mal
-finir, je les laisse se débrouiller. » C’est le /Suave mari magno/ que
+finir, je les laisse se débrouiller. » C’est le Suave mari magno que
 Swann lui-même me conseillait à l’égard des Verdurin, quand il avait
 depuis longtemps cessé d’être amoureux d’Odette et ne tenait plus au
 petit clan. C’est tout ce qui rend si sages les jugements des tiers sur
@@ -5535,7 +5535,7 @@ Marie-Gilbert pour qu’elle m’aide à empêcher ça. Sans cela il n’y a plu
 de société. C’est très joli l’affaire Dreyfus. Mais alors l’épicière du
 coin n’a qu’à se dire nationaliste et à vouloir en échange être reçue
 chez nous. » Et j’avais eu de ce propos, si frivole auprès de celui que
-j’attendais, l’étonnement du lecteur qui, cherchant dans le /Figaro/, à
+j’attendais, l’étonnement du lecteur qui, cherchant dans le Figaro, à
 la place habituelle, les dernières nouvelles de la guerre
 russo-japonaise, tombe au lieu de cela sur la liste des personnes qui
 ont fait des cadeaux de noce à M^lle de Mortemart, l’importance d’un
@@ -5623,7 +5623,7 @@ propos, dit-il, j’avais une commission à vous faire de M^me de Virelef.
 Elle voulait vous demander de venir lundi à l’Opéra, mais comme elle a
 la petite Swann, elle n’osait pas et m’a prié de tâter le terrain. Je
 n’émets aucun avis, je vous transmets tout simplement. Mon Dieu, il me
-semble que nous pourrions… », ajouta-t-il évasivement, car leur
+semble que nous pourrions... », ajouta-t-il évasivement, car leur
 disposition à l’égard d’une personne étant une disposition collective et
 naissant identique en chacun d’eux, il savait par lui-même que
 l’hostilité de sa femme à l’égard de M^lle Swann était tombée et qu’elle
@@ -5631,7 +5631,7 @@ l’hostilité de sa femme à l’égard de M^lle Swann était tombée et qu’e
 voile et choisit une ombrelle. « Mais comme vous voudrez, que
 voulez-vous que ça me fasse ? Je ne vois aucun inconvénient à ce que
 nous connaissions cette petite. Vous savez bien que je n’ai jamais rien
-eu /contre/ elle. Simplement je ne voulais pas que nous ayons l’air de
+eu contre elle. Simplement je ne voulais pas que nous ayons l’air de
 recevoir les faux ménages de mes amis. Voilà tout. — Et vous aviez
 parfaitement raison, répondit le duc. Vous êtes la sagesse même, Madame,
 et vous êtes, de plus, ravissante avec ce chapeau. — Vous êtes fort
@@ -5639,7 +5639,7 @@ aimable », dit M^me de Guermantes en souriant à son mari et en se
 dirigeant vers la porte. Mais avant de monter en voiture, elle tint à
 lui donner encore quelques explications : « Maintenant il y a beaucoup
 de gens qui voient la mère, d’ailleurs elle a le bon esprit d’être
-malade les trois quarts de l’année… Il paraît que la petite est très
+malade les trois quarts de l’année... Il paraît que la petite est très
 gentille. Tout le monde sait que nous aimions beaucoup Swann. On
 trouvera cela tout naturel », et ils partirent ensemble pour Saint-Cloud.
 
@@ -5650,7 +5650,7 @@ très bien connu mon père. — Mais je crois bien », dit M^me de Guermantes
 sur un ton mélancolique qui prouvait qu’elle comprenait le chagrin de la
 fille et avec un excès d’intensité voulu qui lui donnait l’air de
 dissimuler qu’elle n’était pas sûre de se rappeler très exactement le
-père. « Nous l’avons très bien connu, je me le rappelle /très bien/. »
+père. « Nous l’avons très bien connu, je me le rappelle très bien. »
 (Et elle pouvait se le rappeler en effet, il était venu la voir presque
 tous les jours pendant vingt-cinq ans.) « Je sais très bien qui c’était,
 je vais vous dire, ajouta-t-elle comme si elle avait voulu expliquer à
@@ -5758,22 +5758,22 @@ moins avoir quelque chose d’Elstir dans son salon et y avait fait
 descendre ces deux dessins qu’elle déclarait « préférer à sa peinture ».
 
 Gilberte reconnut cette facture. « On dirait des Elstir, dit-elle. —
-Mais oui, répondit étourdiment la duchesse, c’est précisément vot… ce
+Mais oui, répondit étourdiment la duchesse, c’est précisément vot... ce
 sont de nos amis qui nous les ont fait acheter. C’est admirable. À mon
 avis, c’est supérieur à sa peinture. » Moi qui n’avais pas entendu ce
-dialogue, j’allai regarder le dessin. « Tiens, c’est l’Elstir que… » Je
+dialogue, j’allai regarder le dessin. « Tiens, c’est l’Elstir que... » Je
 vis les signes désespérés de M^me de Guermantes. « Ah ! oui, l’Elstir
 que j’admirais en haut. Il est bien mieux que dans ce couloir. À propos
-d’Elstir je l’ai nommé hier dans un article du /Figaro/. Est-ce que vous
-l’avez lu ? — Vous avez écrit un article dans le /Figaro ?/ s’écria M.
+d’Elstir je l’ai nommé hier dans un article du Figaro. Est-ce que vous
+l’avez lu ? — Vous avez écrit un article dans le Figaro ? s’écria M.
 de Guermantes avec la même violence que s’il s’était écrié : « Mais
-c’est ma cousine. » — Oui, hier. — Dans le /Figaro/, vous êtes sûr ?
-Cela m’étonnerait bien. Car nous avons chacun notre /Figaro/, et s’il
+c’est ma cousine. » — Oui, hier. — Dans le Figaro, vous êtes sûr ?
+Cela m’étonnerait bien. Car nous avons chacun notre Figaro, et s’il
 avait échappé à l’un de nous l’autre l’aurait vu. N’est-ce pas, Oriane,
-il n’y avait rien. » Le duc fit chercher le /Figaro/ et se rendit qu’à
+il n’y avait rien. » Le duc fit chercher le Figaro et se rendit qu’à
 l’évidence, comme si, jusque-là, il y eût eu plutôt chance que j’eusse
 fait erreur sur le journal où j’avais écrit. « Quoi ? je ne comprends
-pas, alors vous avez fait un article dans le /Figaro ?/ » me dit la
+pas, alors vous avez fait un article dans le Figaro ? » me dit la
 duchesse, faisant effort pour parler d’une chose qui ne l’intéressait
 pas. « Mais voyons, Basin, vous lirez cela plus tard. — Mais non, le duc
 est très bien comme cela avec sa grande barbe sur le journal, dit
@@ -5801,13 +5801,13 @@ les emmenait boire. Car personne n’est à la fois plus simple et plus
 haut que Mémé. Vous le verrez ne pas vouloir saluer une duchesse qu’il
 ne trouve pas assez duchesse et combler un valet de chiens. Alors, je
 dis à Basin : « Voyons, Basin, parlez-leur un peu aussi. » Mon mari qui
-n’est pas toujours très inventif… — Merci, Oriane, dit le duc sans
-s’interrompre de la lecture de mon article où il était plongé — … avisa
+n’est pas toujours très inventif... — Merci, Oriane, dit le duc sans
+s’interrompre de la lecture de mon article où il était plongé — ... avisa
 un paysan et lui répéta textuellement la question de son frère : « Et
 toi, d’où es-tu ? — Je suis des Laumes. — Tu es des Laumes ? Hé bien, je
 suis ton prince. » Alors le paysan regarda la figure toute glabre de
-Basin et lui répondit : « Pas vrai. Vous, vous êtes un /english/. »^[1]
-<#cite_note-1> On voyait ainsi dans ces petits récits de la duchesse ces
+Basin et lui répondit : « Pas vrai. Vous, vous êtes un english. »
+On voyait ainsi dans ces petits récits de la duchesse ces
 grands titres éminents, comme celui de prince des Laumes, surgir à leur
 place vraie, dans leur état ancien et leur couleur locale, comme dans
 certains livres d’heures on reconnaît, au milieu de la foule de
@@ -5921,14 +5921,14 @@ colorés par sa voix dorée et rauque, sous le doux fleurissement de ses
 yeux de violette. « Non, pas du tout. Du Lau c’était le gentilhomme du
 Périgord, charmant, avec toutes les belles manières et le sans-gêne de
 sa province. À Guermantes, quand il y avait le Roi d’Angleterre, avec
-qui du Lau était très ami, il y avait après la chasse un goûter… C’était
+qui du Lau était très ami, il y avait après la chasse un goûter... C’était
 l’heure où du Lau avait l’habitude d’aller ôter ses bottines et mettre
 de gros chaussons de laine. Hé bien, la présence du Roi Édouard et de
 tous les grands-ducs ne le gênait en rien, il descendait dans le grand
 salon de Guermantes avec ses chaussons de laine, il trouvait qu’il était
 le marquis du Lau d’Ollemans qui n’avait en rien à se contraindre pour
 le Roi d’Angleterre. Lui et ce charmant Quasimodo de Breteuil, c’étaient
-les deux que j’aimais le plus. C’étaient, du reste, des grands amis à…
+les deux que j’aimais le plus. C’étaient, du reste, des grands amis à...
 (elle allait dire à votre père et s’arrêta net). Non, ça n’a aucun
 rapport, ni avec Gri-Gri ni avec Bréauté. C’est le vrai grand seigneur
 du Périgord. Du reste, Mémé cite une page de Saint-Simon sur un marquis
@@ -5937,7 +5937,7 @@ portrait : « M. d’Ollemans, qui était un homme fort distingué parmi la
 noblesse du Périgord, par la sienne et par son mérite, et y était
 considéré par tout ce qui y vivait comme un arbitre général à qui chacun
 avait recours pour sa probité, sa capacité et la douceur de ses
-manières, et comme un coq de province… — Oui, il y a de cela, dit M^me
+manières, et comme un coq de province... — Oui, il y a de cela, dit M^me
 de Guermantes, d’autant que du Lau a toujours été rouge comme un coq. —
 Oui, je me rappelle avoir entendu citer ce portrait », dit Gilberte,
 sans ajouter que c’était par son père, lequel était, en effet, grand
@@ -6006,7 +6006,7 @@ pas à Swann, vous ne parlerez pas de lui. »
 Le lendemain je reçus deux lettres de félicitation qui m’étonnèrent
 beaucoup, l’une de M^me Goupil que je n’avais pas revue depuis tant
 d’années et à qui, même à Combray, je n’avais pas trois fois adressé la
-parole. Un cabinet de lecture lui avait communiqué le /Figaro/. Ainsi,
+parole. Un cabinet de lecture lui avait communiqué le Figaro. Ainsi,
 quand quelque chose vous arrive dans la vie qui retentit un peu, des
 nouvelles nous viennent de personnes situées si loin de nos relations et
 dont le souvenir est déjà si ancien que ces personnes semblent situées à
@@ -6016,7 +6016,7 @@ vous donne signe de vie, non sans compensation d’ailleurs. C’est ainsi
 que Bloch, dont j’eusse tant aimé savoir ce qu’il pensait de mon
 article, ne m’écrivit pas. Il est vrai qu’il avait lu cet article et
 devait me l’avouer plus tard, mais par un choc en retour. En effet, il
-écrivit lui-même quelques années plus tard un article dans le /Figaro/
+écrivit lui-même quelques années plus tard un article dans le Figaro
 et désira me signaler immédiatement cet événement. Comme il cessait
 d’être jaloux de ce qu’il considérait comme un privilège, puisqu’il lui
 était aussi échu, l’envie qui lui avait fait feindre d’ignorer mon
@@ -6026,7 +6026,7 @@ que toi aussi, me dit-il, avais fait un article. Mais je n’avais pas cru
 devoir t’en parler, craignant de t’être désagréable, car on ne doit pas
 parler à ses amis des choses humiliantes qui leur arrivent. Et c’en est
 une évidemment que d’écrire dans le journal du sabre et du goupillon,
-des /five o’clock/, sans oublier le bénitier. » Son caractère restait le
+des five o’clock, sans oublier le bénitier. » Son caractère restait le
 même, mais son style était devenu moins précieux, comme il arrive à
 certains écrivains qui quittent le maniérisme quand, ne faisant plus de
 poèmes symbolistes, ils écrivent des romans-feuilletons.
@@ -6244,7 +6244,7 @@ regrets, M^me Sazerat n’ayant eu chez elle que des gens assommants que
 glaçait déjà la voix particulière qu’elle prenait quand elle avait du
 monde, ce que maman appelait sa voix du mercredi. Ma mère, du reste,
 l’aimait bien, la plaignait de son infortune — suite des fredaines de
-son père ruiné par la duchesse de X… — infortune qui la forçait à vivre
+son père ruiné par la duchesse de X... — infortune qui la forçait à vivre
 presque toute l’année à Combray, avec quelques semaines chez sa cousine
 à Paris et un grand « voyage d’agrément » tous les dix ans.
 
@@ -6608,7 +6608,7 @@ sonner. Mais alors, elle avait dû être facile avec bien d’autres. Cette
 idée réveilla ma jalousie et je dis à Andrée qu’il y avait une chose que
 je voulais lui demander. « Vous faisiez cela dans l’appartement inhabité
 de votre grand’mère ? — Oh ! non, jamais, nous aurions été dérangées. —
-Tiens, je croyais, il me semblait… — D’ailleurs, Albertine aimait
+Tiens, je croyais, il me semblait... — D’ailleurs, Albertine aimait
 surtout faire cela à la campagne. — Où ça ? — Autrefois, quand elle
 n’avait pas le temps d’aller très loin, nous allions aux
 Buttes-Chaumont. Elle connaissait là une maison. Ou bien sous les
@@ -6679,7 +6679,7 @@ Albertine, elles m’eussent trop fait souffrir et il eût été mieux qu’il
 n’eût subsisté d’elles qu’une trace, mon perpétuel soupçon de choses que
 je ne voyais pas et qui pourtant se passaient continuellement si près de
 moi, et peut-être une autre trace encore, antérieure, plus vaste, qui
-était /mon amour lui-même/. N’était-ce pas, en effet, malgré toutes les
+était mon amour lui-même. N’était-ce pas, en effet, malgré toutes les
 dénégations de ma raison, connaître dans toute sa hideur Albertine, que
 la choisir, l’aimer ? et même dans les moments où la méfiance
 s’assoupit, l’amour n’en est-il pas la persistance et une
@@ -6806,8 +6806,8 @@ faire plus librement qu’elle m’a quitté, mais pour quelle amie ? —
 Sûrement pas, ce n’est pas du tout pour cela. — Alors parce que j’étais
 trop désagréable ? — Non, je ne crois pas. Je crois qu’elle a été forcée
 de vous quitter par sa tante qui avait des vues pour elle sur cette
-canaille, vous savez, ce jeune homme que vous appeliez « /je suis dans
-les choux/ », ce jeune homme qui aimait Albertine et l’avait demandée.
+canaille, vous savez, ce jeune homme que vous appeliez « je suis dans
+les choux », ce jeune homme qui aimait Albertine et l’avait demandée.
 Voyant que vous ne l’épousiez pas, ils ont eu peur que la prolongation
 choquante de son séjour chez vous n’empêchât ce jeune homme de
 l’épouser. M^me Bontemps, sur qui le jeune homme ne cessait de faire
@@ -6966,12 +6966,12 @@ en tous cas que j’avais vu ce papier. Et je m’étais souvent demandé si
 cette ruse de Françoise n’avait pas été pour beaucoup dans le départ
 d’Albertine qui, voyant qu’elle ne pouvait plus rien me cacher, se
 sentait découragée, vaincue. Je lui montrai le papier : « Je n’ai aucun
-remords, tout excusée par ce sentiment si familial… » « Vous savez bien,
+remords, tout excusée par ce sentiment si familial... » « Vous savez bien,
 Andrée, qu’Albertine avait toujours dit que l’amie de M^lle Vinteuil
 était, en effet, pour elle une mère, une sœur. — Mais vous avez mal
 compris ce billet. La personne que M^me Verdurin voulait ce jour-là
 faire rencontrer chez elle avec Albertine, ce n’était pas du tout l’amie
-de M^lle Vinteuil, c’était le fiancé « /je suis dans les choux/ », et le
+de M^lle Vinteuil, c’était le fiancé « je suis dans les choux », et le
 sentiment familial est celui que M^me Verdurin portait à cette crapule
 qui est, en effet, son neveu. Pourtant je crois qu’ensuite Albertine a
 su que M^lle Vinteuil devait venir, M^me Verdurin avait pu le lui faire
@@ -7082,8 +7082,8 @@ d’intéressant avec qui il eût eu plaisir à être lié, à qui il eût voulu
 confier ses projets, peut-être demander de le présenter à Elstir. De
 sorte qu’il était sincère en demandant à venir chez moi, en m’exprimant
 une sympathie où des raisons intellectuelles en même temps qu’un reflet
-d’Albertine mettaient de la sincérité. Sans doute ce n’était pas /pour
-cela/ qu’il tenait tant à venir chez moi, et il eût tout lâché pour
+d’Albertine mettaient de la sincérité. Sans doute ce n’était pas pour
+cela qu’il tenait tant à venir chez moi, et il eût tout lâché pour
 cela. Mais cette raison dernière, qui ne faisait guère qu’élever à une
 sorte de paroxysme passionné les deux premières, il l’ignorait peut-être
 lui-même, et les deux autres existaient réellement, comme avait pu
@@ -7336,7 +7336,7 @@ réponse lui fut donnée : il venait d’apercevoir la vieille dame qui
 entrait. Je n’eus pas de peine, malgré l’air de tristesse et de fatigue
 que donne l’appesantissement des années et malgré une sorte d’eczéma, de
 lèpre rouge qui couvrait sa figure, à reconnaître sous son bonnet, dans
-sa cotte noire faite chez W…, mais, pour les profanes, pareille à celle
+sa cotte noire faite chez W..., mais, pour les profanes, pareille à celle
 d’une vieille concierge, la marquise de Villeparisis. Le hasard fit que
 l’endroit où j’étais, debout, en train d’examiner les vestiges d’une
 fresque, se trouvait, le long des belles parois de marbre, exactement
@@ -7397,8 +7397,8 @@ Madame et un risotto pour moi.
 
 Un nouveau et long silence.
 
-« Tenez, je vous apporte des journaux, le /Corriere della Sera/, la
-/Gazzetta del Popolo/, etc. Est-ce que vous savez qu’il est fortement
+« Tenez, je vous apporte des journaux, le Corriere della Sera, la
+Gazzetta del Popolo, etc. Est-ce que vous savez qu’il est fortement
 question d’un mouvement diplomatique dont le premier bouc émissaire
 serait Paléologue, notoirement insuffisant en Serbie ? Il serait
 peut-être remplacé par Lozé et il y aurait à pourvoir au poste de
@@ -7447,7 +7447,7 @@ avec lui à Bonnétable ?
 
 — Ah ! Odon, c’est celui qui faisait de la peinture ?
 
-— Mais pas du tout, c’est celui qui a épousé la sœur du grand-duc N…
+— Mais pas du tout, c’est celui qui a épousé la sœur du grand-duc N...
 
 M. de Norpois disait tout cela sur le ton assez désagréable d’un
 professeur mécontent de son élève et, de ses yeux bleus, regardait
@@ -7487,7 +7487,7 @@ avoir agi avec lui comme la dernière des filles, avoir été cause que
 j’ai dû, moi et les miens, vivre petitement à Combray, maintenant que
 mon père est mort, ma consolation c’est qu’il ait aimé la plus belle
 femme de son époque, et comme je ne l’ai jamais vue, malgré tout ce sera
-une douceur…
+une douceur...
 
 Je menai M^me Sazerat, tremblante d’émotion, jusqu’au restaurant et je
 lui montrai M^me de Villeparisis.
@@ -7631,14 +7631,14 @@ malheureusement pas été reçue par nous, à l’heure où nous mettons sous
 presse, que Leurs Excellences aient pu se mettre d’accord sur une
 formule pouvant servir de base à un instrument diplomatique. »
 
-/Dernière heure :/ « On a appris avec satisfaction dans les cercles bien
+Dernière heure : « On a appris avec satisfaction dans les cercles bien
 informés, qu’une légère détente semble s’être produite dans les rapports
 franco-prussiens. On attacherait une importance toute particulière au
 fait que M. de Norpois aurait rencontré « unter den Linden » le ministre
 d’Angleterre, avec qui il s’est entretenu une vingtaine de minutes.
 Cette nouvelle est considérée comme satisfaisante. » (On avait ajouté
 entre parenthèses, après satisfaisante, le mot allemand équivalent :
-/befriedigend/.) Et le lendemain on lisait dans l’éditorial : « Il
+befriedigend.) Et le lendemain on lisait dans l’éditorial : « Il
 semblerait, malgré toute la souplesse de M. de Norpois, à qui tout le
 monde se plaît à rendre hommage pour l’habile énergie avec laquelle il a
 su défendre les droits imprescriptibles de la France, qu’une rupture n’a
@@ -7665,7 +7665,7 @@ qui est déjà un indice de succès, nous ajouterons encore une nouvelle
 bien faite pour rassurer l’opinion publique, s’il en était besoin. On
 assure, en effet, que M. de Norpois, qui, pour raison de santé, devait
 depuis longtemps venir faire à Paris une petite cure, aurait quitté
-Berlin où il ne jugeait plus sa présence utile. » /Dernière heure :/
+Berlin où il ne jugeait plus sa présence utile. » Dernière heure :
 « Sa Majesté l’Empereur a quitté ce matin Compiègne pour Paris afin de
 conférer avec le marquis de Norpois, le ministre de la Guerre et le
 maréchal Bazaine en qui l’opinion publique a une confiance particulière.
@@ -7678,7 +7678,7 @@ l’arrivée des souverains à Paris, sont, à toute éventualité, prêts à
 partir dans la direction du Rhin. »
 
 
-⁂
+
 
 
 Parfois, au crépuscule, en rentrant à l’hôtel je sentais que l’Albertine
@@ -7878,7 +7878,7 @@ je l’aimais je m’aimais davantage ? Non, cela tenait à ce que cessant de
 la voir j’avais cessé de l’aimer, et que je n’avais pas cessé de m’aimer
 parce que mes liens quotidiens avec moi-même n’avaient pas été rompus
 comme l’avaient été ceux avec Albertine. Mais si ceux avec mon corps,
-avec moi-même, l’étaient aussi… ? Certes il en serait de même. Notre
+avec moi-même, l’étaient aussi... ? Certes il en serait de même. Notre
 amour de la vie n’est qu’une vieille liaison dont nous ne savons pas
 nous débarrasser. Sa force est dans sa permanence. Mais la mort qui la
 rompt nous guérira du désir de l’immortalité.
@@ -7963,7 +7963,7 @@ des emblèmes et dont le maintien est habituellement le même que celui de
 personnages célestes qui ne seraient pas ailés.
 
 
-⁂
+
 
 
 Quand j’appris, le jour même où nous allions rentrer à Paris, que M^me
@@ -8133,10 +8133,10 @@ souligner les mots, ou les points sur les I qui avaient l’air
 d’interrompre les phrases de la ligne d’au-dessus, et en revanche à
 intercaler dans la ligne d’au-dessous les queues et arabesques des mots
 qui leur étaient superposés, il était tout naturel que l’employé du
-télégraphe eût lu les boucles d’/s/ ou de /z/ de la ligne supérieure
-comme un « ine » finissant le mot de Gilberte. Le point sur l’/i/ de
+télégraphe eût lu les boucles d’s ou de z de la ligne supérieure
+comme un « ine » finissant le mot de Gilberte. Le point sur l’i de
 Gilberte était monté au-dessus faire point de suspension. Quant à son
-/G/, il avait l’air d’un /A/ gothique. Qu’en dehors de cela deux ou
+G, il avait l’air d’un A gothique. Qu’en dehors de cela deux ou
 trois mots eussent été mal lus, pris les uns dans les autres (certains,
 d’ailleurs, m’avaient paru incompréhensibles), cela était suffisant pour
 expliquer les détails de mon erreur et n’était même pas nécessaire.
@@ -8250,7 +8250,7 @@ voir parce qu’il la trouvait d’un monde trop brillant pour moi ! »
 Puis : « Le fils de M^me de Cambremer, pour qui Legrandin craignait tant
 d’avoir à nous donner une recommandation parce qu’il ne nous trouvait
 pas assez chic, épousant la nièce d’un homme qui n’aurait jamais osé
-monter chez nous que par l’escalier de service !… Tout de même, ta
+monter chez nous que par l’escalier de service !... Tout de même, ta
 pauvre grand’mère avait raison — tu te rappelles — quand elle disait que
 la grande aristocratie faisait des choses qui choqueraient de petits
 bourgeois, et que la reine Marie-Amélie lui était gâtée par les avances
@@ -8432,7 +8432,7 @@ l’amabilité, le côté plain-pied, « pair à compagnon » de l’aristocrati
 était une comédie, m’étonnais-je d’en être excepté ? Dans la maison de
 femmes — où on procurait de plus en plus des hommes — où M. de Charlus
 avait surpris Morel et où la « sous-maîtresse », grande lectrice du
-/Gaulois/, commentait les nouvelles mondaines, cette patronne, parlant à
+Gaulois, commentait les nouvelles mondaines, cette patronne, parlant à
 un gros Monsieur qui venait chez elle, sans arrêter, boire du Champagne
 avec des jeunes gens, parce que, déjà très gros, il voulait devenir
 assez obèse pour être certain de ne pas être « pris » si jamais il y
@@ -8682,7 +8682,7 @@ qui y était reçu, était tombé au dernier rang ? Un jour que la princesse
 des Laumes était allée par devoir passer un instant chez cette Altesse,
 où elle n’avait trouvé que des gens de rien, en entrant ensuite chez
 M^me Leroi elle avait dit à Swann et au marquis de Modène : « Enfin je
-me retrouve en pays ami. Je viens de chez M^me la duchesse de X…, il n’y
+me retrouve en pays ami. Je viens de chez M^me la duchesse de X..., il n’y
 avait pas trois figures de connaissance. » Partageant, en un mot,
 l’opinion de ce personnage d’opérette qui déclare : « Mon nom me
 dispense, je pense, d’en dire plus long », Gilberte se mit à afficher

@@ -339,7 +339,7 @@ la petite personne, dont nous ne parlons au féminin que pour suivre la
 règle (comme on dit en parlant d'un prince: Est-ce que Son Altesse est
 bien portante). Si elle change de tramway, je prends, avec peut-être les
 microbes de la peste, la chose incroyable appelée «correspondance», un
-numéro, et qui, bien qu'on le remette à _moi_, n'est pas toujours le n°
+numéro, et qui, bien qu'on le remette à moi, n'est pas toujours le n°
 1! Je change ainsi jusqu'à trois, quatre fois de «voiture». Je m'échoue
 parfois à onze heures du soir à la gare d'Orléans, et il faut revenir!
 Si encore ce n'était que de la gare d'Orléans! Mais une fois, par
@@ -451,8 +451,8 @@ Rien, sur le visage privé de caractères de tel ou tel homme, ne pouvait
 leur faire supposer qu'il était précisément le frère, ou le fiancé,
 ou l'amant d'une femme dont elles allaient dire: «Quel chameau!» Mais
 alors, par bonheur, un mot que leur chuchote un voisin arrête sur leurs
-lèvres le terme fatal. Aussitôt apparaissent, comme un _Mane, Thecel,
-Phares_, ces mots: il est le fiancé, ou: il est le frère, ou: il
+lèvres le terme fatal. Aussitôt apparaissent, comme un Mane, Thecel,
+Phares, ces mots: il est le fiancé, ou: il est le frère, ou: il
 est l'amant de la femme qu'il ne convient pas d'appeler devant
 lui: «chameau». Et cette seule notion nouvelle entraînera tout un
 regroupement, le retrait ou l'avance de la fraction des notions,
@@ -951,16 +951,16 @@ sous-variété d'invertis destinée à assurer les plaisirs de l'amour à
 l'inverti devenant vieux: les hommes qui sont attirés non par tous
 les hommes, mais--par un phénomène de correspondance et d'harmonie
 comparable à ceux qui règlent la fécondation des fleurs hétérostylées
-trimorphes, comme le _Lythrum salicoria_--seulement par les hommes
+trimorphes, comme le Lythrum salicoria--seulement par les hommes
 beaucoup plus âgés qu'eux. De cette sous-variété, Jupien venait de
 m'offrir un exemple, moins saisissant pourtant que d'autres que tout
 herborisateur humain, tout botaniste moral, pourra observer, malgré leur
 rareté, et qui leur présentera un frêle jeune homme qui attendait
 les avances d'un robuste et bedonnant quinquagénaire, restant aussi
 indifférent aux avances des autres jeunes gens que restent stériles les
-fleurs hermaphrodites à court style de la _Primula veris_ tant qu'elles
-ne sont fécondées que par d'autres _Primula veris_ à court style aussi,
-tandis qu'elles accueillent avec joie le pollen des _Primula veris_
+fleurs hermaphrodites à court style de la Primula veris tant qu'elles
+ne sont fécondées que par d'autres Primula veris à court style aussi,
+tandis qu'elles accueillent avec joie le pollen des Primula veris
 à long style. Quant à ce qui était de M. de Charlus, du reste, je me
 rendis compte dans la suite qu'il y avait pour lui divers genres de
 conjonctions et desquelles certaines, par leur multiplicité, leur
@@ -1098,13 +1098,13 @@ l'ouvrage.]
 
 CHAPITRE PREMIER
 
-_M. de Charlus dans le monde.--Un médecin.--Face caractéristique de Mme
+M. de Charlus dans le monde.--Un médecin.--Face caractéristique de Mme
 de Vaugoubert.--Mme d'Arpajon, le jet d'eau d'Hubert Robert et la gaieté
 du grand-duc Wladimir.--Mme d'Amoncourt de Citri, Mme de
 Saint-Euverte, etc.--Curieuse conversation entre Swann et le prince de
 Guermantes.--Albertine au téléphone.--Visites en attendant mon dernier
 et deuxième séjour à Balbec.--Arrivée à Balbec.--Les intermittences du
-coeur._
+coeur.
 
 
 Comme je n'étais pas pressé d'arriver à cette soirée des Guermantes où
@@ -1154,8 +1154,8 @@ avait affaire; il aurait eu une peur bien plus grande--quoique mal
 fondée--s'il l'avait su. Il s'était borné à se faire passer pour un
 Anglais, et à toutes les questions passionnées de l'huissier, désireux
 de retrouver quelqu'un à qui il devait tant de plaisir et de largesses,
-le duc s'était borné à répondre, tout le long de l'avenue Gabriel: «_I
-do not speak french_.»
+le duc s'était borné à répondre, tout le long de l'avenue Gabriel: «I
+do not speak french.»
 
 Bien que, malgré tout--à cause de l'origine maternelle de son cousin--le
 duc de Guermantes affectât de trouver un rien de Courvoisier dans le
@@ -1185,7 +1185,7 @@ enviaient, tout en adressant au célèbre peintre, que l'interpellation
 n'avait pas suffi à lui présenter d'une manière formelle, un
 imperceptible salut. «Venez, monsieur Detaille, disait la princesse, je
 vais vous présenter à Mme de Villemur.» Celle-ci mettait alors autant
-d'ingéniosité à faire une place à l'auteur du _Rêve_ que tout à l'heure
+d'ingéniosité à faire une place à l'auteur du Rêve que tout à l'heure
 à se tourner vers lui. Et la princesse s'avançait une chaise pour
 elle-même; elle n'avait en effet interpellé Mme de Villemur que pour
 avoir un prétexte de quitter le premier groupe où elle avait passé les
@@ -1477,7 +1477,7 @@ l'air d'une bête en cage, jetant dans tous les sens des regards qui
 exprimaient la peur, l'appétence et la stupidité. La sienne était telle
 qu'il ne réfléchissait pas que les voyous de son adolescence n'étaient
 plus des gamins et que, quand un marchand de journaux lui criait
-en plein nez: _La Presse_! plus encore que de désir il frémissait
+en plein nez: La Presse! plus encore que de désir il frémissait
 d'épouvante, se croyant reconnu et dépisté.
 
 Mais à défaut des plaisirs sacrifiés à l'ingratitude du quai d'Orsay,
@@ -1530,7 +1530,7 @@ présenter au maître de la maison par une femme qui ne savait pas mon
 nom? De plus, je me voyais forcé de causer quelques instants avec Mme de
 Vaugoubert. Et cela m'ennuyait à deux points de vue. Je ne tenais pas à
 m'éterniser dans cette fête car j'avais convenu avec Albertine (je lui
-avais donné une loge pour _Phèdre_) qu'elle viendrait me voir un peu
+avais donné une loge pour Phèdre) qu'elle viendrait me voir un peu
 avant minuit. Certes je n'étais nullement épris d'elle; j'obéissais en
 la faisant venir ce soir à un désir tout sensuel, bien qu'on fût à
 cette époque torride de l'année où la sensualité libérée visite plus
@@ -1619,7 +1619,7 @@ gens de lettres, si, lisant l'article d'un critique qui lui a toujours
 témoigné la plus grande admiration, il voit cités les noms d'auteurs
 médiocres mais pas le sien, n'a pas le loisir de s'arrêter à ce qui
 pourrait être pour lui un sujet d'étonnement, ses livres le réclament.
-Mais une femme du monde n'a rien à faire, et en voyant dans le _Figaro_:
+Mais une femme du monde n'a rien à faire, et en voyant dans le Figaro:
 «Hier le prince et la princesse de Guermantes ont donné une grande
 soirée, etc.», elle s'exclame: «Comment! j'ai, il y a trois jours, causé
 une heure avec Marie Gilbert sans qu'elle m'en dise rien!» et elle se
@@ -1658,7 +1658,7 @@ l'homme aux dons esthétiques, le sens luxueux, curieux, qu'il peut
 avoir si cette fête est donnée non chez des gens du monde, mais dans un
 tableau de Carpaccio ou de Véronèse. Il est même plus probable que le
 prince allemand qu'était M. de Charlus devait plutôt se représenter la
-fête qui se déroule dans _Tannhäuser_, et lui-même comme le Margrave,
+fête qui se déroule dans Tannhäuser, et lui-même comme le Margrave,
 ayant, à l'entrée de la Warburg, une bonne parole condescendante pour
 chacun des invités, tandis que leur écoulement dans le château ou le
 parc est salué par la longue phrase, cent fois reprise, de la fameuse
@@ -2045,7 +2045,7 @@ répondis qu'elle me semblait charmante en effet, mais que je connaissais
 plus sa cousine la duchesse. «Mais il n'y a aucun rapport, me dit
 l'ambassadrice. Oriane est une charmante femme du monde qui tire
 son esprit de Mémé et de Babal, tandis que Marie-Gilbert, c'est
-_quelqu'un_.»
+quelqu'un.»
 
 Je n'aime jamais beaucoup qu'on me dise ainsi sans réplique ce que je
 dois penser des gens que je connais. Et il n'y avait aucune raison
@@ -2227,7 +2227,7 @@ X... ou tel service du Ministère des Affaires étrangères, rendaient
 rétrospectivement ces palais aussi mystérieux que le temple de Jérusalem
 ou la salle du trône de Suse. Pour cette ambassade dont le jeune
 personnel vint tout entier serrer la main de M. de Charlus, M. de
-Vaugoubert prit l'air émerveillé d'Élise s'écriant dans _Esther_:
+Vaugoubert prit l'air émerveillé d'Élise s'écriant dans Esther:
 
   Ciel! quel nombreux essaim d'innocentes beautés
   S'offre à mes yeux en foule et sort de tous côtés!
@@ -2306,7 +2306,7 @@ Certes, ce ne serait pas ennuyeux de les voir «en passant», car grâce
 cartes», on peut «lever les masques». Malgré tout, le plus sage est
 de s'en tenir aux auteurs morts. M. de Guermantes trouvait seulement
 «parfaitement convenable» le monsieur qui faisait la nécrologie dans le
-_Gaulois_. Celui-là, du moins, se contentait de citer le nom de M.
+Gaulois. Celui-là, du moins, se contentait de citer le nom de M.
 de Guermantes en tête des personnes remarquées «notamment» dans les
 enterrements où le duc s'était inscrit. Quand ce dernier préférait que
 son nom ne figurât pas, au lieu de s'inscrire il envoyait une lettre de
@@ -2370,7 +2370,7 @@ Bourbon et d'une catholique, n'avait rien que de chrétien.
 «Comment, vous ne connaissez pas ces splendeurs», me dit la duchesse,
 en me parlant de l'hôtel où nous étions. Mais après avoir célébré le
 «palais» de sa cousine, elle s'empressa d'ajouter qu'elle préférait
-mille fois «son humble trou». «Ici, c'est admirable pour _visiter_.
+mille fois «son humble trou». «Ici, c'est admirable pour visiter.
 Mais je mourrais de chagrin s'il me fallait rester à coucher dans des
 chambres où ont eu lieu tant d'événements historiques. Ça me ferait
 l'effet d'être restée après la fermeture, d'avoir été oubliée, au
@@ -2386,7 +2386,7 @@ sur une tapissière plutôt que de ne pas y être allée.»
 En réalité, Mme de Saint-Euverte était venue, ce soir, moins pour le
 plaisir de ne pas manquer une fête chez les autres que pour assurer le
 succès de la sienne, recruter les derniers adhérents, et en quelque
-sorte passer _in extremis_ la revue des troupes qui devaient le
+sorte passer in extremis la revue des troupes qui devaient le
 lendemain évoluer brillamment à sa garden-party. Car, depuis pas mal
 d'années, les invités des fêtes Saint-Euverte n'étaient plus du tout les
 mêmes qu'autrefois. Les notabilités féminines du milieu Guermantes, si
@@ -2399,7 +2399,7 @@ temps fonctionna le système des «fournées», qui permettait, grâce à des
 fêtes sur lesquelles on faisait le silence, de convier les réprouvés à
 venir se divertir entre eux, ce qui dispensait de les inviter avec les
 gens de bien. De quoi pouvaient-ils se plaindre? N'avaient-ils pas
-_panem et circenses_, des petits fours et un beau programme musical?
+panem et circenses, des petits fours et un beau programme musical?
 Aussi, en symétrie en quelque sorte avec les deux duchesses en exil,
 qu'autrefois, quand avait débuté le salon Saint-Euverte, on avait vues
 en soutenir, comme deux cariatides, le faîte chancelant, dans les
@@ -2423,7 +2423,7 @@ qui donnait le lendemain la fête la plus brillante de la saison eût eu
 besoin de venir la veille adresser un suprême appel à ses troupes. Mais
 c'est que la prééminence du salon Saint-Euverte n'existait que pour
 ceux dont la vie mondaine consiste seulement à lire le compte rendu des
-matinées et soirées, dans le _Gaulois_ ou le _Figaro_, sans être jamais
+matinées et soirées, dans le Gaulois ou le Figaro, sans être jamais
 allés à aucune. A ces mondains qui ne voient le monde que par le
 journal, l'énumération des ambassadrices d'Angleterre, d'Autriche, etc.;
 des duchesses d'Uzès, de La Trémoïlle, etc., etc., suffisait pour qu'ils
@@ -2761,7 +2761,7 @@ sorte forcés de prêter appui à quelqu'un de leur race, même s'ils ne le
 connaissent pas. C'est un danger public. Nous avons évidemment été
 trop coulants, et la gaffe que commet Swann aura d'autant plus de
 retentissement qu'il était estimé, même reçu, et qu'il était à peu près
-le seul juif qu'on connaissait. On se dira: _Ab uno disce omnes_.» (La
+le seul juif qu'on connaissait. On se dira: Ab uno disce omnes.» (La
 satisfaction d'avoir trouvé à point nommé, dans sa mémoire, une citation
 si opportune éclaira seule d'un orgueilleux sourire la mélancolie du
 grand seigneur trahi.)
@@ -2904,7 +2904,7 @@ vingt-cinq ans, être reculée de vingt-quatre heures. Le projet qu'avait
 formé la duchesse était simplement le décret rendu, dans la manière des
 Guermantes, que le salon Saint-Euverte n'était décidément pas une maison
 vraiment bien, mais une maison où on vous invitait pour se parer de vous
-dans le compte rendu du _Gaulois_, une maison qui décernerait un cachet
+dans le compte rendu du Gaulois, une maison qui décernerait un cachet
 de suprême élégance à celles, ou, en tout cas, à celle, si elle n'était
 qu'une, qu'on n'y verrait pas. Le délicat amusement de M. de Bréauté,
 doublé de ce plaisir poétique qu'avaient les gens du monde à voir Mme
@@ -2926,7 +2926,7 @@ appels de pieds et de se frotter les mains. Souriant d'un oeil et
 d'un seul coin de la bouche à M. de Froberville dont elle appréciait
 l'intention aimable, mais moins tolérable le mortel ennui, Mme de
 Guermantes finit par se décider à le quitter. «Écoutez, je vais être
-_obligée_ de vous dire bonsoir», lui dit-elle en se levant, d'un air de
+obligée de vous dire bonsoir», lui dit-elle en se levant, d'un air de
 résignation mélancolique, et comme si ç'avait été pour elle un malheur.
 Sous l'incantation de ses yeux bleus, sa voix doucement musicale faisait
 penser à la plainte poétique d'une fée. «Basin veut que j'aille voir un
@@ -2973,7 +2973,7 @@ de ce qu'a raconté Babal, me dit-elle. Jamais la petite Molé ne serait
 allée se fourrer là dedans. On nous dit ça pour nous attirer. Ils ne
 reçoivent personne et ne sont invités nulle part. Lui-même l'avoue:
 «Nous restons tous les deux seuls au coin de notre feu.» Comme il dit
-toujours _nous_, non pas comme le roi, mais pour sa femme, je n'insiste
+toujours nous, non pas comme le roi, mais pour sa femme, je n'insiste
 pas. Mais je suis très renseignée», ajouta la duchesse. Elle et moi nous
 croisâmes deux jeunes gens dont la grande et dissemblable beauté tirait
 d'une même femme son origine. C'étaient les deux fils de Mme de Surgis,
@@ -3081,7 +3081,7 @@ celle d'un jeune et vivant Oedipe, assis précisément dans ce fauteuil,
 où il s'était installé pour jouer. Or, la figure à laquelle M. de
 Charlus appliquait, et avec une telle contention, toutes ses facultés
 spirituelles, et qui n'était pas, à vrai dire, de celles qu'on étudie
-d'habitude _more geometrico_, c'était celle que lui proposaient les
+d'habitude more geometrico, c'était celle que lui proposaient les
 lignes de la figure du jeune marquis de Surgis; elle semblait, tant M.
 de Charlus était profondément absorbé devant elle, être quelque mot
 en losange, quelque devinette, quelque problème d'algèbre dont il eût
@@ -3112,8 +3112,8 @@ qu'exercent les formes inattendues et singulières d'une mort prochaine,
 d'une mort qu'on a déjà, comme dit le peuple, sur le visage. Et c'est
 avec une stupéfaction presque désobligeante, où il entrait de la
 curiosité indiscrète, de la cruauté, un retour à la fois quiet et
-soucieux (mélange à la fois de _suave mari magno_ et de _memento quia
-pulvis_, eût dit Robert), que tous les regards s'attachèrent à ce
+soucieux (mélange à la fois de suave mari magno et de memento quia
+pulvis, eût dit Robert), que tous les regards s'attachèrent à ce
 visage duquel la maladie avait si bien rongé les joues, comme une lune
 décroissante, que, sauf sous un certain angle, celui sans doute sous
 lequel Swann se regardait, elles tournaient court comme un décor
@@ -3305,7 +3305,7 @@ Robert, dans sa rancune, parlait de M. de Charlus avec trop de légèreté.
 On n'est pas toujours impunément le neveu de quelqu'un. C'est très
 souvent par son intermédiaire qu'une habitude héréditaire est transmise
 tôt ou tard. On pourrait faire ainsi toute une galerie de portraits,
-ayant le titre de la comédie allemande _Oncle et neveu_, où l'on verrait
+ayant le titre de la comédie allemande Oncle et neveu, où l'on verrait
 l'oncle veillant jalousement, bien qu'involontairement, à ce que son
 neveu finisse par lui ressembler.
 
@@ -3409,7 +3409,7 @@ réunion de syndicat. Pour un peu on va chercher où est la caisse!» Il
 ne s'était pas aperçu que M. de Beauserfeuil était dans son dos et
 l'entendait. Le général fronça involontairement les sourcils. Nous
 entendions la voix de M. de Charlus tout près de nous: «Comment? vous
-vous appelez Victurnien, comme dans le _Cabinet des Antiques_», disait
+vous appelez Victurnien, comme dans le Cabinet des Antiques», disait
 le baron pour prolonger la conversation avec les deux jeunes gens. «De
 Balzac, oui», répondit l'aîné des Surgis, qui n'avait jamais lu une
 ligne de ce romancier mais à qui son professeur avait signalé, il
@@ -3454,7 +3454,7 @@ assimilation ne pouvait qu'enivrer la marquise. D'ailleurs vos fils ont
 de qui tenir, leur grand-père maternel avait une collection célèbre du
 XVIIIe siècle. Je vous montrerai la mienne si vous voulez me faire le
 plaisir de venir déjeuner un jour, dit-il au jeune Victurnien. Je vous
-montrerai une curieuse édition du _Cabinet des Antiques_ avec des
+montrerai une curieuse édition du Cabinet des Antiques avec des
 corrections de la main de Balzac. Je serai charmé de confronter ensemble
 les deux Victurnien.»
 
@@ -3801,7 +3801,7 @@ des machinations coupables avaient été ourdies, que le bordereau n'était
 peut-être pas de Dreyfus, mais que la preuve éclatante de sa culpabilité
 existait. C'était la pièce Henry. Et quelques jours après, on apprenait
 que c'était un faux. Dès lors, en cachette de la Princesse, je me mis à
-lire tous les jours le _Siècle_, l'_Aurore_; bientôt je n'eus plus aucun
+lire tous les jours le Siècle, l'Aurore; bientôt je n'eus plus aucun
 doute, je ne pouvais plus dormir. Je m'ouvris de mes souffrances morales
 à notre ami, l'abbé Poiré, chez qui je rencontrai avec étonnement la
 même conviction, et je fis dire par lui des messes à l'intention de
@@ -3883,7 +3883,7 @@ eu peur d'alarmer mes opinions religieuses, mes sentiments patriotiques.
 Mais, de son côté, elle pensait comme moi, quoique depuis plus longtemps
 que moi. Et ce que sa femme de chambre cachait en entrant dans sa
 chambre, ce qu'elle allait lui acheter tous les jours, c'était
-l'_Aurore_. Mon cher Swann, dès ce moment je pensai au plaisir que
+l'Aurore. Mon cher Swann, dès ce moment je pensai au plaisir que
 je vous ferais en vous disant combien mes idées étaient sur ce point
 parentes des vôtres; pardonnez-moi de ne l'avoir pas fait plus tôt.
 Si vous vous reportez au silence que j'avais gardé vis-à-vis de la
@@ -4183,7 +4183,7 @@ refroidissements, blâma, en descendant avec moi, à cause de la chaleur
 qu'il faisait. Et la génération de nobles qui a plus ou moins passé
 par Monseigneur Dupanloup parle un si mauvais français (excepté les
 Castellane), que le duc exprima ainsi sa pensée: «Il vaut mieux ne pas
-être couvert avant d'aller dehors, du moins _en thèse générale_.» Je
+être couvert avant d'aller dehors, du moins en thèse générale.» Je
 revois toute cette sortie, je revois, si ce n'est pas à tort que je le
 place sur cet escalier, portrait détaché de son cadre, le prince de
 Sagan, duquel ce dut être la dernière soirée mondaine, se découvrant
@@ -4386,7 +4386,7 @@ causerions, il va être minuit et il faut que nous n'arrivions pas en
 retard pour que la fête soit complète.»
 
 Moi aussi j'étais pressé de quitter M. et Mme de Guermantes au plus
-vite. _Phèdre_ finissait vers onze heures et demie. Le temps de venir,
+vite. Phèdre finissait vers onze heures et demie. Le temps de venir,
 Albertine devait être arrivée. J'allai droit à Françoise: «Mlle
 Albertine est là?--Personne n'est venu.»
 
@@ -4404,7 +4404,7 @@ ainsi jusqu'à rien le souper de sa fille, et comme si ç'avait été
 coupable qu'il fût copieux. Même au déjeuner ou au dîner, si je
 commettais la faute d'entrer dans la cuisine, Françoise faisait semblant
 qu'on eût fini et s'excusait même en disant: «J'avais voulu manger un
-_morceau_ ou une _bouchée_.» Mais on était vite rassuré en voyant la
+morceau ou une bouchée.» Mais on était vite rassuré en voyant la
 multitude des plats qui couvraient la table et que Françoise, surprise
 par mon entrée soudaine, comme un malfaiteur qu'elle n'était pas,
 n'avait pas eu le temps de faire disparaître. Puis elle ajouta: «Allons,
@@ -4587,7 +4587,7 @@ et jamais accompli, d'un bruit d'appel; arrivé au point culminant d'une
 ascension tourmentée dans les spirales de mon angoisse solitaire, du
 fond du Paris populeux et nocturne approché soudain de moi, à côté de ma
 bibliothèque, j'entendis tout à coup, mécanique et sublime, comme dans
-_Tristan_ l'écharpe agitée ou le chalumeau du pâtre, le bruit de toupie
+Tristan l'écharpe agitée ou le chalumeau du pâtre, le bruit de toupie
 du téléphone. Je m'élançai, c'était Albertine. «Je ne vous dérange pas
 en vous téléphonant à une pareille heure?--Mais non...», dis-je en
 comprimant ma joie, car ce qu'elle disait de l'heure indue était sans
@@ -4615,7 +4615,7 @@ mettaient une entrave à son attention: détails de vérité, étrangers au
 sujet, inutiles en eux-mêmes, d'autant plus nécessaires à nous révéler
 l'évidence du miracle; traits sobres et charmants, descriptifs de
 quelque rue parisienne, traits perçants aussi et cruels d'une soirée
-inconnue qui, au sortir de _Phèdre_, avaient empêché Albertine de venir
+inconnue qui, au sortir de Phèdre, avaient empêché Albertine de venir
 chez moi. «Je commence par vous prévenir que ce n'est pas pour que vous
 veniez, car, à cette heure-ci, vous me gêneriez beaucoup..., lui dis-je,
 je tombe de sommeil. Et puis, enfin, mille complications. Je tiens à
@@ -4624,9 +4624,9 @@ Vous m'avez répondu que c'était convenu. Alors, si vous n'aviez pas
 compris, qu'est-ce que vous entendiez par là?--J'ai dit que c'était
 convenu, seulement je ne me souvenais plus trop de ce qui était convenu.
 Mais je vois que vous êtes fâché, cela m'ennuie. Je regrette d'être
-allée à _Phèdre_. Si j'avais su que cela ferait tant d'histoires...
+allée à Phèdre. Si j'avais su que cela ferait tant d'histoires...
 ajouta-t-elle, comme tous les gens qui, en faute pour une chose, font
-semblant de croire que c'est une autre qu'on leur reproche.--_Phèdre_
+semblant de croire que c'est une autre qu'on leur reproche.--Phèdre
 n'est pour rien dans mon mécontentement, puisque c'est moi qui vous ai
 demandé d'y aller.--Alors, vous m'en voulez, c'est ennuyeux qu'il soit
 trop tard ce soir, sans cela je serais allée chez vous, mais je viendrai
@@ -5101,7 +5101,7 @@ monarchiste qu'elles recevaient à dîner, aux Charette, aux Doudeauville,
 etc. Ce changement de la situation d'Odette s'accomplissait de sa part
 avec une discrétion qui la rendait plus sûre et plus rapide, mais ne
 la laissait nullement soupçonner du public enclin à s'en remettre aux
-chroniques du _Gaulois_, des progrès ou de la décadence d'un salon, de
+chroniques du Gaulois, des progrès ou de la décadence d'un salon, de
 sorte qu'un jour, à une répétition générale d'une pièce de Bergotte
 donnée dans une salle des plus élégantes au bénéfice d'une oeuvre de
 charité, ce fut un vrai coup de théâtre quand on vit dans la loge de
@@ -5217,7 +5217,7 @@ dans le salon de Mme Swann, M. de Bréauté, soudain mis en valeur
 par l'absence des gens qui l'entouraient d'habitude, par l'air de
 satisfaction qu'il avait de se trouver là aussi bien que si, au lieu
 d'aller à une fête, il avait chaussé des besicles pour s'enfermer à lire
-la _Revue des Deux-Mondes_, par le rite mystérieux qu'il avait l'air
+la Revue des Deux-Mondes, par le rite mystérieux qu'il avait l'air
 d'accomplir en venant voir Odette, M. de Bréauté lui-même semblait un
 homme nouveau. J'aurais beaucoup donné pour voir quelles altérations la
 duchesse de Montmorency-Luxembourg aurait subies dans ce milieu nouveau.
@@ -5273,7 +5273,7 @@ ravissement dont elle ne devina jamais la cause.
 
 
 
-_LES INTERMITTENCES DU COEUR_
+LES INTERMITTENCES DU COEUR
 
 
 Ma seconde arrivée à Balbec fut bien différente de la première. Le
@@ -5314,7 +5314,7 @@ Compensation heureuse: le premier président de Caen venait de recevoir
 la «cravache» de commandeur de la Légion d'honneur. «Sûr et certain
 qu'il a des capacités, mais paraît qu'on la lui a donnée surtout à cause
 de sa grande «impuissance». On revenait du reste sur cette décoration
-dans _l'Écho de Paris_ de la veille, dont le directeur n'avait encore lu
+dans l'Écho de Paris de la veille, dont le directeur n'avait encore lu
 que «le premier paraphe» (pour paragraphe). La politique de M. Caillaux
 y était bien arrangée. «Je trouve du reste qu'ils ont raison, dit-il. Il
 nous met trop sous la coupole de l'Allemagne» (sous la coupe). Comme
@@ -5364,8 +5364,8 @@ expressions favorites tout en conservant les principales), mais c'est
 une nature, elle a une personnalité, de l'intuition; elle jette à propos
 la parole qu'il faut. De temps en temps elle est énervante, elle lance
 des bêtises pour «faire gratin», ce qui est d'autant plus ridicule que
-rien n'est moins élégant que les Cambremer, elle n'est pas toujours _à
-la page_, mais, somme toute, elle est encore dans les personnes les plus
+rien n'est moins élégant que les Cambremer, elle n'est pas toujours à
+la page, mais, somme toute, elle est encore dans les personnes les plus
 supportables à fréquenter.»
 
 Aussitôt que la recommandation de Robert leur était parvenue, les
@@ -5838,7 +5838,7 @@ leur goûter, ils se rappelaient non plus sa complaisance à se rendre à
 ceux de voisins peu qualifiés, mais l'ancienneté de sa famille, le luxe
 de son château, l'impolitesse de sa belle-fille née Legrandin qui, par
 son arrogance, relevait la bonhomie un peu fade de la belle-mère. Déjà
-ils croyaient lire, au courrier mondain du _Gaulois_, l'entrefilet
+ils croyaient lire, au courrier mondain du Gaulois, l'entrefilet
 qu'ils cuisineraient eux-mêmes en famille, toutes portes fermées à
 clef, sur «le petit coin de Bretagne où l'on s'amuse ferme, la matinée
 ultra-select où l'on ne s'est séparé qu'après avoir fait promettre aux
@@ -5981,8 +5981,8 @@ souffrance. Elle ne pouvait que rendre maman heureuse (malgré toute
 la tendresse qu'elle avait pour moi), comme tout ce qui assurait à ma
 grand'mère une survivance dans les coeurs. Tous les jours suivants ma
 mère descendit s'asseoir sur la plage, pour faire exactement ce que sa
-mère avait fait, et elle lisait ses deux livres préférés, les _Mémoires_
-de Mme de Beausergent et les _Lettres_ de Mme de Sévigné. Elle, et
+mère avait fait, et elle lisait ses deux livres préférés, les Mémoires
+de Mme de Beausergent et les Lettres de Mme de Sévigné. Elle, et
 aucun de nous, n'avait pu supporter qu'on appelât cette dernière la
 «spirituelle marquise», pas plus que La Fontaine «le Bonhomme». Mais
 quand elle lisait dans les lettres ces mots: «ma fille», elle croyait
@@ -6097,7 +6097,7 @@ m'empêcher de me dire à moi-même, en les voyant, non certes les vers de
 Racine qui m'étaient venus à l'esprit chez la princesse de Guermantes
 tandis que M. de Vaugoubert regardait de jeunes secrétaires d'ambassade
 saluant M. de Charlus, mais d'autres vers de Racine, cette fois-ci non
-plus d'_Esther,_ mais _d'Athalie:_ car dès le hall, ce qu'au XVII^e
+plus d'Esther, mais d'Athalie: car dès le hall, ce qu'au XVII^e
 siècle on appelait les Portiques, «un peuple florissant» de jeunes
 chasseurs se tenait, surtout à l'heure du goûter, comme les jeunes
 Israélites des choeurs de Racine. Mais je ne crois pas qu'un seul eût
@@ -6113,7 +6113,7 @@ fût l'instant d'une détente contemplative, tous entrelaçaient leurs
 évolutions inutiles, respectueuses, décoratives et quotidiennes. Car,
 sauf leur «jour de sortie», «loin du monde élevés» et ne franchissant
 pas le parvis, ils menaient la même existence ecclésiastique que les
-lévites dans _Athalie_, et devant cette «troupe jeune et fidèle» jouant
+lévites dans Athalie, et devant cette «troupe jeune et fidèle» jouant
 aux pieds des degrés couverts de tapis magnifiques, je pouvais me
 demander si je pénétrais dans le grand hôtel de Balbec ou dans le temple
 de Salomon.
@@ -6355,10 +6355,10 @@ journée de printemps.
 CHAPITRE DEUXIÈME
 
 
-_Les mystères d'Albertine.--Les jeunes filles qu'elle voit dans la
+Les mystères d'Albertine.--Les jeunes filles qu'elle voit dans la
 glace.--La dame inconnue.--Le liftier.--Madame de Cambremer.--Les
 plaisirs de M. Nissim Bernard.--Première esquisse du caractère étrange
-de Morel.--M. de Charlus dîne chez les Verdurin_.
+de Morel.--M. de Charlus dîne chez les Verdurin.
 
 
 Dans ma crainte que le plaisir trouvé dans cette promenade solitaire
@@ -6441,14 +6441,14 @@ Raspelière une visite à Mme Verdurin. Albertine m'attendrait pendant
 ce temps-là sur la plage et nous reviendrions ensemble dans la nuit.
 J'allai prendre le petit chemin de fer d'intérêt local dont j'avais,
 par Albertine et ses amies, appris autrefois tous les surnoms dans
-la région, où on l'appelait tantôt le _Tortillard_ à cause de ses
-innombrables détours, le _Tacot_ parce qu'il n'avançait pas, le
-_Transatlantique_ à cause d'une effroyable sirène qu'il possédait pour
-que se garassent les passants, le _Decauville_ et le _Funi_, bien que
+la région, où on l'appelait tantôt le Tortillard à cause de ses
+innombrables détours, le Tacot parce qu'il n'avançait pas, le
+Transatlantique à cause d'une effroyable sirène qu'il possédait pour
+que se garassent les passants, le Decauville et le Funi, bien que
 ce ne fût nullement un funiculaire mais parce qu'il grimpait sur la
 falaise, ni même à proprement parler un Decauville mais parce qu'il
-avait une voie de 60, le _B. A. G:_ parce qu'il allait de Balbec à
-Grallevast en passant par Angerville, le _Tram_ et le _T. S. N._ parce
+avait une voie de 60, le B. A. G: parce qu'il allait de Balbec à
+Grallevast en passant par Angerville, le Tram et le T. S. N. parce
 qu'il faisait partie de la ligne des tramways du Sud de la Normandie.
 Je m'installai dans un wagon où j'étais seul; il faisait un soleil
 splendide, on étouffait; je baissai le store bleu qui ne laissa passer
@@ -6510,8 +6510,8 @@ Criquetot. Dans toute l'étendue de cette famille provinciale, dont le
 dénombrement remplissait des lignes fines et serrées, pas un bourgeois,
 et d'ailleurs pas un titre connu, mais tout le ban et l'arrière-ban des
 nobles de la région qui faisaient chanter leurs noms--ceux de tous les
-lieux intéressants du pays--aux joyeuses finales en _ville_, en _court_,
-parfois plus sourdes (en _tôt_). Habillés des tuiles de leur château ou
+lieux intéressants du pays--aux joyeuses finales en ville, en court,
+parfois plus sourdes (en tôt). Habillés des tuiles de leur château ou
 du crépi de leur église, la tête branlant dépassant à peine la voûte ou
 le corps de logis, et seulement pour se coiffer du lanternon normand ou
 des colombages du toit en poivrière, ils avaient l'air d'avoir sonné
@@ -6655,8 +6655,8 @@ seulement un autre avocat, homme de lettres ou médecin: «Mon confrère»,
 lui, usant avec raison d'un terme réservé aux corps restreints, comme
 les académies par exemple, il me disait, en parlant d'un chasseur qui
 était lift un jour sur deux: «Je vais voir à me faire remplacer par mon
-_collègue_.» Cet orgueil ne l'empêchait pas, dans le but d'améliorer
-ce qu'il appelait _son traitement_, d'accepter pour ses courses des
+collègue.» Cet orgueil ne l'empêchait pas, dans le but d'améliorer
+ce qu'il appelait son traitement, d'accepter pour ses courses des
 rémunérations, qui l'avaient fait prendre en horreur à Françoise:
 «Oui, la première fois qu'on le voit on lui donnerait le bon Dieu sans
 confession, mais il y a des jours où il est poli comme une porte de
@@ -6753,7 +6753,7 @@ parce que je savais qu'il était presque mécanique et recouvrait sous
 sa netteté apparente beaucoup de vague et de bêtise.--A quelle heure
 serez-vous revenu?--J'ai pas pour bien longtemps, disait le lift qui,
 poussant à l'extrême la règle édictée par Bélise d'éviter la récidive du
-_pas_ avec le _ne_, se contentait toujours d'une seule négative. Je peux
+pas avec le ne, se contentait toujours d'une seule négative. Je peux
 très bien y aller. Justement les sorties ont été supprimées ce tantôt
 parce qu'il y avait un salon de 20 couverts pour le déjeuner. Et c'était
 mon tour de sortir le tantôt. C'est bien juste si je sors un peu ce
@@ -6770,10 +6770,10 @@ le lift qui disait rentrer pour une profession où on entre pour la
 première fois, «je voudrais bien rentrer dans les postes», pour
 compensation, ou pour adoucir la chose s'il s'était agi de lui, ou
 l'insinuer plus doucereusement et perfidement s'il s'agissait d'un autre
-supprimait l'_r_ et disait: «Je sais qu'il a été envoyé»). Ce n'était
+supprimait l'r et disait: «Je sais qu'il a été envoyé»). Ce n'était
 pas par méchanceté qu'il souriait, mais à cause de sa timidité. Il
 croyait diminuer l'importance de sa faute en la prenant en plaisanterie.
-De même s'il m'avait dit: «_Vous savez_ que je ne l'ai pas trouvée», ce
+De même s'il m'avait dit: «Vous savez que je ne l'ai pas trouvée», ce
 n'est pas qu'il crût qu'en effet je le susse déjà. Au contraire il ne
 doutait pas que je l'ignorasse, et surtout il s'en effrayait. Aussi
 disait-il «vous le savez» pour s'éviter à lui-même les affres qu'il
@@ -7200,7 +7200,7 @@ les Cambremer. C'était un de ces hommes à qui leur expérience
 professionnelle consommée fait un peu mépriser leur profession et qui
 disent par exemple: «Je sais que je plaide bien, aussi cela ne m'amuse
 plus de plaider», ou: «Cela ne m'intéresse plus d'opérer; je sais que
-j'opère bien.» Intelligents, _artistes_, ils voient autour de leur
+j'opère bien.» Intelligents, artistes, ils voient autour de leur
 maturité, fortement rentée par le succès, briller cette «intelligence»,
 cette nature d'«artiste» que leurs confrères leur reconnaissent et qui
 leur confère un à-peu-près de goût et de discernement. Ils se prennent
@@ -7394,7 +7394,7 @@ confesser. Quand une dame noble d'Avranches, laquelle n'eût pas été
 capable de distinguer Mozart de Wagner, disait devant Madame de
 Cambremer: «Nous n'avons pas eu de nouveauté intéressante pendant notre
 séjour à Paris, nous avons été une fois à l'Opéra-Comique, on donnait
-_Pelléas et Mélisande_, c'est affreux», Mme de Cambremer non seulement
+Pelléas et Mélisande, c'est affreux», Mme de Cambremer non seulement
 bouillait mais éprouvait le besoin de s'écrier: «Mais au contraire,
 c'est un petit chef-d'oeuvre», et de «discuter». C'était peut-être
 une habitude de Combray, prise auprès des soeurs de ma grand'mère qui
@@ -7456,7 +7456,7 @@ est si forte, dans la partition, que, comme j'ai le hay-fever et la
 rose-fever, elle me faisait éternuer chaque fois que j'entendais cette
 scène.»
 
-«Quel chef-d'oeuvre que _Pelléas_! s'écria Mme de Cambremer, j'en suis
+«Quel chef-d'oeuvre que Pelléas! s'écria Mme de Cambremer, j'en suis
 férue»; et s'approchant de moi avec les gestes d'une femme sauvage qui
 aurait voulu me faire des agaceries, s'aidant des doigts pour piquer les
 notes imaginaires, elle se mit à fredonner quelque chose que je supposai
@@ -7464,7 +7464,7 @@ notes imaginaires, elle se mit à fredonner quelque chose que je supposai
 insistance comme s'il avait été d'importance que Mme de Cambremer me
 rappelât en ce moment cette scène, ou peut-être plutôt me montrât
 qu'elle se la rappelait. «Je crois que c'est encore plus beau que
-_Parsifal_, ajouta-t-elle, parce que dans _Parsifal_ il s'ajoute aux
+Parsifal, ajouta-t-elle, parce que dans Parsifal il s'ajoute aux
 plus grandes beautés un certain halo de phrases mélodiques, donc
 caduques puisque mélodiques.--Je sais que vous êtes une grande
 musicienne, Madame, dis-je à la douairière. J'aimerais beaucoup vous
@@ -7519,9 +7519,9 @@ l'auditeur, comme si nous ne disposions pas d'attentions différentes
 dont il dépend précisément de l'artiste d'éveiller les plus hautes. Car
 ceux qui bâillent de fatigue après dix lignes d'un article médiocre
 avaient refait tous les ans le voyage de Bayreuth pour entendre la
-_Tétralogie_. D'ailleurs le jour devait venir où, pour un temps, Debussy
+Tétralogie. D'ailleurs le jour devait venir où, pour un temps, Debussy
 serait déclaré aussi fragile que Massenet et les tressautements de
-Mélisande abaissés au rang de ceux de _Manon_. Car les théories et
+Mélisande abaissés au rang de ceux de Manon. Car les théories et
 les écoles, comme les microbes et les globules, s'entre-dévorent et
 assurent, par leur lutte, la continuité de la vie. Mais ce temps n'était
 pas encore venu.
@@ -7557,7 +7557,7 @@ d'en haut sur un certain nombre d'oeuvres auxquelles le besoin de
 justice, ou de renouvellement, ou le goût de Debussy, ou son caprice, ou
 quelque propos qu'il n'avait peut-être pas tenu, avaient ajouté celles
 de Chopin. Prônées par les juges en qui on avait toute confiance,
-bénéficiant de l'admiration qu'excitait _Pelléas_, elles avaient
+bénéficiant de l'admiration qu'excitait Pelléas, elles avaient
 retrouvé un éclat nouveau, et ceux mêmes qui ne les avaient pas
 réentendues étaient si désireux de les aimer qu'ils le faisaient
 malgré eux, quoique avec l'illusion de la liberté. Mais Mme de
@@ -7576,14 +7576,14 @@ en m'adressant pour cela à sa belle-mère, comme quand, au billard, pour
 atteindre une boule on joue par la bande, que Chopin, bien loin d'être
 démodé, était le musicien préféré de Debussy. «Tiens, c'est amusant»,
 me dit en souriant finement la belle-fille, comme si ce n'avait été là
-qu'un paradoxe lancé par l'auteur de _Pelléas_. Néanmoins il était bien
+qu'un paradoxe lancé par l'auteur de Pelléas. Néanmoins il était bien
 certain maintenant qu'elle n'écouterait plus Chopin qu'avec respect et
 même avec plaisir. Aussi mes paroles, qui venaient de sonner l'heure
 de la délivrance pour la douairière, mirent-elles dans sa figure
 une expression de gratitude pour moi, et surtout de joie. Ses yeux
-brillèrent comme ceux de Latude dans la pièce appelée _Latude ou
-Trente-cinq ans de captivité_ et sa poitrine huma l'air de la mer avec
-cette dilatation que Beethoven a si bien marquée dans _Fidelio_, quand
+brillèrent comme ceux de Latude dans la pièce appelée Latude ou
+Trente-cinq ans de captivité et sa poitrine huma l'air de la mer avec
+cette dilatation que Beethoven a si bien marquée dans Fidelio, quand
 ses prisonniers respirent enfin «cet air qui vivifie». Quant à la
 douairière, je crus qu'elle allait poser sur ma joue ses lèvres
 moustachues. «Comment, vous aimez Chopin? Il aime Chopin, il aime
@@ -7615,11 +7615,11 @@ cette manière. Et cependant c'était pour le goûter qu'elle avait jadis
 décidé son mariage. Dans d'autres groupes mondains, quand on parlait des
 Chenouville, l'habitude était (du moins chaque fois que la particule
 était précédée d'un nom finissant par une voyelle, car dans le cas
-contraire on était bien obligé de prendre appui sur le _de_, la langue
-se refusant à prononcer Madam' d' Ch'nonceaux) que ce fût l'_e_ muet de
+contraire on était bien obligé de prendre appui sur le de, la langue
+se refusant à prononcer Madam' d' Ch'nonceaux) que ce fût l'e muet de
 la particule qu'on sacrifiât. On disait: «Monsieur d'Chenouville». Chez
 les Cambremer la tradition était inverse, mais aussi impérieuse. C'était
-l'_e_ muet de Chenouville que, dans tous les cas, on supprimait. Que
+l'e muet de Chenouville que, dans tous les cas, on supprimait. Que
 le nom fût précédé de mon cousin ou de ma cousine, c'était toujours de
 «Ch'nouville» et jamais de Chenouville. (Pour le père de ces Chenouville
 on disait notre oncle, car on n'était pas assez gratin à Féterne pour
@@ -7636,7 +7636,7 @@ l'embarras et la honte de quelqu'un qui a devant lui à table un
 instrument nouvellement inventé dont il ne sait pas l'usage et dont il
 n'ose pas commencer à manger. Mais, la nuit suivante et le lendemain,
 elle avait répété avec ravissement: «ma tante d'Uzai» avec cette
-suppression de l'_s_ finale, suppression qui l'avait stupéfaite la
+suppression de l's finale, suppression qui l'avait stupéfaite la
 veille, mais qu'il lui semblait maintenant si vulgaire de ne pas
 connaître qu'une de ses amies lui ayant parlé d'un buste de la duchesse
 d'Uzès, Mlle Legrandin lui avait répondu avec mauvaise humeur, et d'un
@@ -7739,7 +7739,7 @@ Sur un signe de sa belle-fille, Mme de Cambremer allait se lever et
 me disait: «Puisque vous ne voulez pas vous installer à Féterne, ne
 voulez-vous pas au moins venir déjeuner, un jour de la semaine, demain
 par exemple?» Et, dans sa bienveillance, pour me décider elle ajouta:
-«Vous _retrouverez_ le comte de Crisenoy» que je n'avais nullement
+«Vous retrouverez le comte de Crisenoy» que je n'avais nullement
 perdu, pour la raison que je ne le connaissais pas. Elle commençait à
 faire luire à mes yeux d'autres tentations encore, mais elle s'arrêta
 net. Le premier président, qui, en rentrant, avait appris qu'elle était
@@ -7759,7 +7759,7 @@ les remords qu'elle éprouvait, elle lui tint les plus aimables
 propos. Dans l'ensoleillement qui noyait à l'horizon la côte dorée,
 habituellement invisible, de Rivebelle, nous discernâmes, à peine
 séparées du lumineux azur, sortant des eaux, roses, argentines,
-imperceptibles, les petites cloches de l'_angélus_ qui sonnaient aux
+imperceptibles, les petites cloches de l'angélus qui sonnaient aux
 environs de Féterne. «Ceci est encore assez Pelléas, fis-je remarquer à
 Mme de Cambremer-Legrandin. Vous savez la scène que je veux dire.--Je
 crois bien que je sais»; mais «je ne sais pas du tout» était proclamé
@@ -8216,10 +8216,10 @@ toujours cachées. Nous reparlions de Combray. Ma mère me dit que là-bas
 du moins je lisais, et qu'à Balbec je devrais bien faire de même, si
 je ne travaillais pas. Je répondis que, pour m'entourer justement des
 souvenirs de Combray et des jolies assiettes peintes, j'aimerais relire
-les _Mille et une Nuits_. Comme jadis à Combray, quand elle me donnait
+les Mille et une Nuits. Comme jadis à Combray, quand elle me donnait
 des livres pour ma fête, c'est en cachette, pour me faire une surprise,
-que ma mère me fit venir à la fois les _Mille et une Nuits_ de Galland
-et les _Mille et une Nuits_ de Mardrus. Mais, après avoir jeté un coup
+que ma mère me fit venir à la fois les Mille et une Nuits de Galland
+et les Mille et une Nuits de Mardrus. Mais, après avoir jeté un coup
 d'oeil sur les deux traductions, ma mère aurait bien voulu que je m'en
 tinsse à celle de Galland, tout en craignant de m'influencer, à cause
 du respect qu'elle avait de la liberté intellectuelle, de la peur
@@ -8246,10 +8246,10 @@ choses les plus simples, à se faire un devoir religieux, en lequel il
 croyait que consistait le talent littéraire, d'adopter une orthographe
 grecque. Ayant, par exemple, à dire dans une lettre que le vin qu'on
 buvait chez lui était un vrai nectar, il écrivait un vrai nektar, avec
-un _k_, ce qui lui permettait de ricaner au nom de Lamartine. Or si une
-_Odyssée_ d'où étaient absents les noms d'Ulysse et de Minerve n'était
-plus pour elle l'_Odyssée_, qu'aurait-elle dit en voyant déjà déformé
-sur la couverture le titre de ses _Mille et Une Nuits_, en ne retrouvant
+un k, ce qui lui permettait de ricaner au nom de Lamartine. Or si une
+Odyssée d'où étaient absents les noms d'Ulysse et de Minerve n'était
+plus pour elle l'Odyssée, qu'aurait-elle dit en voyant déjà déformé
+sur la couverture le titre de ses Mille et Une Nuits, en ne retrouvant
 plus, exactement transcrits comme elle avait été de tout temps habituée
 à les dire, les noms immortellement familiers de Sheherazade, de
 Dinarzade, où, débaptisés eux-mêmes, si l'on ose employer le mot pour
@@ -8357,7 +8357,7 @@ il faudrait aux mots écrits confronter les regards, la voix. On prend
 rendez-vous, et--sans qu'elle ait changé peut-être--là où on croyait,
 sur la description faite ou le souvenir personnel, rencontrer la fée
 Viviane, on trouve le Chat botté. On lui donne rendez-vous pour le
-lendemain quand même, car c'est tout de même _elle_ et ce qu'on
+lendemain quand même, car c'est tout de même elle et ce qu'on
 désirait, c'est elle. Or ces désirs pour une femme dont on a rêvé ne
 rendent pas absolument nécessaire la beauté de tel trait précis. Ces
 désirs sont seulement le désir de tel être; vagues comme des parfums,
@@ -8382,7 +8382,7 @@ inénarrable, descendant, joyeux, vers les sacrifices des Orgiophantes».
 
 Mais bientôt la saison battit son plein; c'était tous les jours une
 arrivée nouvelle, et à la fréquence subitement croissante de mes
-promenades, remplaçant la lecture charmante des _Mille et Une Nuits_, il
+promenades, remplaçant la lecture charmante des Mille et Une Nuits, il
 y avait une cause dépourvue de plaisir et qui les empoisonnait tous. La
 plage était maintenant peuplée de jeunes filles, et l'idée que m'avait
 suggérée Cottard m'ayant, non pas fourni de nouveaux soupçons, mais
@@ -8459,7 +8459,7 @@ son chez lui, qui était en réalité leur chez eux. Mais jamais il ne
 déjeunait chez lui. Tous les jours il était à midi au Grand-Hôtel. C'est
 qu'il entretenait, comme d'autres, un rat d'opéra, un: «commis», assez
 pareil à ces chasseurs dont nous avons parlé, et qui nous faisaient
-penser aux jeunes israélites d'_Esther_ et d'_Athalie_. A vrai dire,
+penser aux jeunes israélites d'Esther et d'Athalie. A vrai dire,
 les quarante années qui séparaient M. Nissim Bernard du jeune commis
 auraient dû préserver celui-ci d'un contact peu aimable. Mais, comme le
 dit Racine avec tant de sagesse dans les mêmes choeurs:
@@ -8511,7 +8511,7 @@ même plaisait à M. Nissim Bernard par tout ce qu'elle dissimulait; que
 ce fût par atavisme hébraïque ou par profanation du sentiment chrétien,
 il se plaisait singulièrement, qu'elle fût juive ou catholique, à la
 cérémonie racinienne. Si elle eût été une véritable représentation
-d'_Esther_ ou d'_Athalie_ M. Bernard eût regretté que la différence des
+d'Esther ou d'Athalie M. Bernard eût regretté que la différence des
 siècles ne lui eût pas permis de connaître l'auteur, Jean Racine, afin
 d'obtenir pour son protégé un rôle plus considérable. Mais la cérémonie
 du déjeuner n'émanant d'aucun écrivain, il se contentait d'être en bons
@@ -8563,7 +8563,7 @@ détours.
 
 Tandis que, se risquant jusqu'aux sous-sols et cherchant malgré tout
 à ne pas être vu et à éviter le scandale, M. Nissim Bernard, dans sa
-recherche des jeunes lévites, faisait penser à ces vers de la _Juive_:
+recherche des jeunes lévites, faisait penser à ces vers de la Juive:
 
   O Dieu de nos pères,
   Parmi nous descends,
@@ -8629,7 +8629,7 @@ pas cédé. Ceux d'hier avaient fait leur course, mais aujourd'hui ils
 viennent seulement d'être mis, et déjà il faudra les changer. Ah!
 j'avais raison de dire qu'il n'était pas fait pour naître parmi les
 pauvres. Regarde, ses cheveux se hérissent, ils se boursouflent par
-la colère comme les plumes des oiseaux. Pauvre _ploumissou_!» Ici ce
+la colère comme les plumes des oiseaux. Pauvre ploumissou!» Ici ce
 n'était pas seulement Marie qui protestait, mais moi, car je ne me
 sentais pas seigneur du tout. Mais Céleste ne croyait jamais à la
 sincérité de ma modestie et, me coupant la parole: «Ah! sac à ficelles,
@@ -8653,7 +8653,7 @@ peut jamais savoir ce qu'il peut y avoir dans une vie.» Pour changer
 le sujet, je lui parlais de celle de mon père, qui travaillait nuit et
 jour. «Ah! Monsieur, ce sont des vies dont on ne garde rien pour soi,
 pas une minute, pas un plaisir; tout, entièrement tout est un sacrifice
-pour les autres, ce sont des vies _données_.--Regarde, Céleste, rien que
+pour les autres, ce sont des vies données.--Regarde, Céleste, rien que
 pour poser sa main sur la couverture et prendre son croissant, quelle
 distinction! il peut faire les choses les plus insignifiantes, on dirait
 que toute la noblesse de France, jusqu'aux Pyrénées, se déplace dans
@@ -8702,8 +8702,8 @@ Un jour pourtant, elles trouvèrent sur mon lit un volume. C'étaient
 des poèmes admirables mais obscurs de Saint-Léger Léger. Céleste lut
 quelques pages et me dit: «Mais êtes-vous bien sûr que ce sont des vers,
 est-ce que ce ne serait pas plutôt des devinettes?» Évidemment pour une
-personne qui avait appris dans son enfance une seule poésie: _Ici-bas
-tous les lilas meurent_, il y avait manque de transition. Je crois que
+personne qui avait appris dans son enfance une seule poésie: Ici-bas
+tous les lilas meurent, il y avait manque de transition. Je crois que
 leur obstination à ne rien apprendre tenait un peu à leur pays malsain.
 Elles étaient pourtant aussi douées qu'un poète, avec plus de modestie
 qu'ils n'en ont généralement. Car si Céleste avait dit quelque chose de
@@ -8880,7 +8880,7 @@ Nous étions, Albertine et moi, devant la station Balbec du petit train
 d'intérêt local. Nous nous étions fait conduire par l'omnibus de
 l'hôtel, à cause du mauvais temps. Non loin de nous était M. Nissim
 Bernard, lequel avait un oeil poché. Il trompait depuis peu l'enfant
-des choeurs d'_Athalie_ avec le garçon d'une ferme assez achalandée du
+des choeurs d'Athalie avec le garçon d'une ferme assez achalandée du
 voisinage, «Aux Cerisiers». Ce garçon rouge, aux traits abrupts, avait
 absolument l'air d'avoir comme tête une tomate. Une tomate exactement
 semblable servait de tête à son frère jumeau. Pour le contemplateur
@@ -9004,12 +9004,12 @@ Nous nous hâtâmes pour gagner un wagon vide où je pusse embrasser
 Albertine tout le long du trajet. N'ayant rien trouvé nous montâmes dans
 un compartiment où était déjà installée une dame à figure énorme, laide
 et vieille, à l'expression masculine, très endimanchée, et qui lisait la
-_Revue des Deux-Mondes_. Malgré sa vulgarité, elle était prétentieuse
+Revue des Deux-Mondes. Malgré sa vulgarité, elle était prétentieuse
 dans ses goûts, et je m'amusai à me demander à quelle catégorie sociale
 elle pouvait appartenir; je conclus immédiatement que ce devait être
 quelque tenancière de grande maison de filles, une maquerelle en voyage.
 Sa figure, ses manières le criaient. J'avais ignoré seulement jusque-là
-que ces dames lussent la _Revue des Deux-Mondes_. Albertine me la
+que ces dames lussent la Revue des Deux-Mondes. Albertine me la
 montra, non sans cligner de l'oeil en me souriant. La dame avait
 l'air extrêmement digne; et comme, de mon côté, je portais en moi la
 conscience que j'étais invité pour le lendemain, au point terminus de
@@ -9018,7 +9018,7 @@ station intermédiaire j'étais attendu par Robert de Saint-Loup, et qu'un
 peu plus loin j'aurais fait grand plaisir à Mme de Cambremer en venant
 habiter Féterne, mes yeux pétillaient d'ironie en considérant cette dame
 importante qui semblait croire qu'à cause de sa mise recherchée, des
-plumes de son chapeau, de sa _Revue des Deux-Mondes_, elle était
+plumes de son chapeau, de sa Revue des Deux-Mondes, elle était
 un personnage plus considérable que moi. J'espérais que la dame ne
 resterait pas beaucoup plus que M. Nissim Bernard et qu'elle descendrait
 au moins à Toutainville, mais non. Le train s'arrêta à Evreville, elle
@@ -9048,7 +9048,7 @@ me demanda si je ne voulais pas essayer de trouver, parmi les amis avec
 lesquels il me faisait dîner chaque soir à Doncières quand j'y avais
 séjourné, ceux qui y étaient encore. Et comme il donnait lui-même dans
 le genre de prétention agaçante qu'il réprouvait: «A quoi ça te sert-il
-d'avoir _fait du charme_ pour eux avec tant de persévérance si tu ne
+d'avoir fait du charme pour eux avec tant de persévérance si tu ne
 veux pas les revoir?» je déclinai sa proposition, car je ne voulais
 pas risquer de m'éloigner d'Albertine, mais aussi parce que maintenant
 j'étais détaché d'eux. D'eux, c'est-à-dire de moi. Nous désirons
@@ -9061,7 +9061,7 @@ que ces changements qui se produisent au cours de la vie, si, dans
 cette autre vie, nous rencontrions le moi que nous avons été, nous nous
 détournerions de nous comme de ces personnes avec qui on a été lié mais
 qu'on n'a pas vues depuis longtemps--par exemple les amis de Saint-Loup
-qu'il me plaisait tant chaque soir de retrouver au _Faisan Doré_ et dont
+qu'il me plaisait tant chaque soir de retrouver au Faisan Doré et dont
 la conversation ne serait plus maintenant pour moi qu'importunité et que
 gêne. A cet égard, parce que je préférais ne pas aller y retrouver ce
 qui m'y avait plu, une promenade dans Doncières aurait pu me paraître
@@ -9234,7 +9234,7 @@ me flatter. Et je m'étais rendu compte ensuite qu'elle l'avait dit
 sincèrement, en pensant à ce qui m'intéressait, à mes lectures, et parce
 qu'elle savait que c'était cela qu'aimait Saint-Loup, comme il devait
 m'arriver de dire sincèrement à quelqu'un faisant une histoire de son
-ancêtre La Rochefoucauld, l'auteur des _Maximes_, et qui eût voulu aller
+ancêtre La Rochefoucauld, l'auteur des Maximes, et qui eût voulu aller
 demander des conseils à Robert: «Il sera si heureux.» C'est que j'avais
 appris à le connaître. Mais, en le voyant la première fois, je n'avais
 pas cru qu'une intelligence parente de la mienne pût s'envelopper de

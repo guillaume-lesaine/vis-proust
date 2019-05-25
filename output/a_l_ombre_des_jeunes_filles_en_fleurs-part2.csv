@@ -29,6 +29,7 @@ Allez===2
 Allons-nous===1
 Allons===3
 Alors===14
+Andromaque===2
 Anglais===1
 Angleterre===1
 Antoine===1
@@ -71,6 +72,7 @@ Beauvais===1
 Bec===1
 Beethoven===1
 Belgique===1
+Belle-Hélène===1
 Bergotte===9
 Berma===1
 Bernard===1
@@ -160,6 +162,7 @@ Chopin===1
 Choufleury===1
 Christ===1
 Cimmériens===1
+Cinq-Mars===1
 Citons===1
 Clara===1
 Club===1
@@ -263,7 +266,7 @@ Geneviève===1
 Gilberte===94
 Giroux===1
 Glaukonomèné===1
-Good===1
+Good===2
 Gramont===1
 Grand-Hôtel===8
 Grand===1
@@ -324,6 +327,7 @@ Jean===2
 Jethro===1
 Joad===1
 Jockey===1
+Joconde===1
 John===1
 Joli===1
 Joseph===1
@@ -368,9 +372,10 @@ Leconte===2
 Legrandin===8
 Lenôtre===2
 Les===20
-Lettres===1
+Lettres===2
 Lisle===2
 Listz===1
+Lohengrin===3
 Loménie===1
 Londres===1
 Longtemps===1
@@ -391,6 +396,7 @@ Mac-Mahon===1
 Macette===1
 Macédoine===1
 Madame===16
+Magnificat===2
 Maineville===1
 Maintenant===4
 Maintenon===1
@@ -432,7 +438,7 @@ Montmorency===2
 Montretout===1
 Monégasque===1
 Moreau===2
-Moïse_===1
+Moïse===1
 Musset===2
 Mémoires===1
 Ménier===1
@@ -500,6 +506,7 @@ Peu===1
 Peut-être===9
 Pharaon===1
 Phrase===1
+Phèdre===2
 Phénix===1
 Pie===1
 Pierre===1
@@ -624,6 +631,7 @@ Sous===1
 Souvent===3
 Stendhal===1
 Stermaria===16
+Stones===1
 Stuart===1
 Suez===1
 œufs===3
@@ -634,9 +642,9 @@ Surtout===1
 Suède===1
 Swann===83
 Sweaters===1
-Sévigné===21
-Sévigné_===1
+Sévigné===22
 Tandis===3
+Tannhauser===1
 Tansonville===3
 Tant===1
 Taratata===1
@@ -664,7 +672,7 @@ Une===15
 Université===1
 Vatican===1
 Velasquez===1
-Venaïce_===1
+Venaïce===1
 Vendredi===1
 Venice===1
 Venise===3
@@ -674,6 +682,7 @@ Verlaine===1
 Vezelay===1
 Victoire===1
 Victor===5
+Vie===1
 Vierge===7
 Vigny===7
 Villeparisis===96
@@ -695,28 +704,6 @@ XV===2
 XVIIIe===2
 Yseult===1
 Zeus===1
-_===1
-_Andromaque_===2
-_Belle-Hélène_===1
-_Cinq-Mars_===1
-_Good===1
-_Joconde_===1
-_Lettres===1
-_Lohengrin_===3
-_Magnificat_===2
-_Phèdre_===2
-_Stones===1
-_Tannhauser_===1
-_Vie===1
-_aï_===1
-_cri_===1
-_de_===1
-_des===1
-_good===1
-_i_===1
-_nec===1
-_tous===1
-_très===1
 a-t-il===4
 a-t-on===1
 a===191
@@ -1171,8 +1158,7 @@ aquarelles===1
 aquarium===2
 arabesque===1
 arborescent===1
-arbres===10
-arbres_===1
+arbres===11
 arbrisseau===1
 arbustes===1
 architectural===1
@@ -1410,6 +1396,7 @@ azur===1
 azurée===1
 aéré===1
 aînés===1
+aï===1
 aïeules===1
 aïeux===1
 babas===1
@@ -1497,8 +1484,7 @@ bibliothèques===4
 biche===1
 bicyclette===1
 bien-être===2
-bien===164
-bien_===1
+bien===165
 bienfaisant===1
 bienfaisante===1
 bienfaiteurs===1
@@ -2538,7 +2524,7 @@ creux===1
 crever===1
 crevette===1
 crevé===1
-cri===3
+cri===4
 criaient===1
 criards===1
 criblée===1
@@ -2640,6 +2626,7 @@ d'Escompte===2
 d'Excellences===1
 d'Habitude===1
 d'Hadès===1
+d'Hernani===1
 d'Heures===1
 d'Horace===1
 d'Israélites===1
@@ -2649,7 +2636,6 @@ d'Ovide===1
 d'œil===6
 d'œuvres===1
 d'Uzès===1
-d'_Hernani_===1
 d'abord===15
 d'abriter===1
 d'accomplir===1
@@ -2920,7 +2906,7 @@ date===1
 dater===1
 dates-là===1
 davantage===13
-de===3200
+de===3201
 debout===2
 dedans===4
 degré===3
@@ -2971,7 +2957,7 @@ derniers===6
 dernière===18
 dernières===1
 derrière===17
-des===627
+des===628
 descendait===3
 descendant===3
 descendions===1
@@ -3837,7 +3823,7 @@ eut-il===1
 eut===11
 eux-mêmes===3
 eux===41
-evening_===1
+evening===1
 exacte===1
 exactement===6
 exagération===2
@@ -4421,6 +4407,7 @@ gobeuse===1
 golf===2
 gommeux===2
 gonflée===1
+good===1
 gorge===4
 gothiques===2
 gourde===1
@@ -4651,6 +4638,7 @@ hôtel===7
 hôteliers===1
 hôtels===1
 hôtes===1
+i===1
 ici===14
 identique===2
 identiques===1
@@ -5186,8 +5174,7 @@ journalier===1
 journaux===6
 journée===16
 journées===2
-jours===45
-jours_===1
+jours===46
 joué===1
 joués===1
 joyeuse===1
@@ -5225,6 +5212,7 @@ justifie===1
 jésuites===2
 knickerbockers===1
 l'Académie===1
+l'Alleluia===1
 l'Arc===1
 l'Empire===1
 l'Enchantement===1
@@ -5240,10 +5228,9 @@ l'Italie===1
 l'Océan===1
 l'Océanie===2
 l'Odéon===1
+l'Orestie===1
 l'Orgueilleuse===1
 l'œuvre===2
-l'_Alleluia_===1
-l'_Orestie_===1
 l'abri===1
 l'absence===4
 l'absorption===1
@@ -6550,6 +6537,7 @@ naïf===2
 naïfs===1
 naïve===2
 ne===697
+nec===1
 nectar===1
 nef===2
 nefs===1
@@ -7735,7 +7723,6 @@ pût===10
 qu'Aimé===1
 qu'Esther===1
 qu'Odette===2
-qu'_on_===1
 qu'accompli===1
 qu'affoler===1
 qu'agréable===1
@@ -7784,7 +7771,7 @@ qu'il===269
 qu'illuminait===1
 qu'ils===75
 qu'intermittente===1
-qu'on===155
+qu'on===156
 qu'ont===4
 qu'opposent===1
 qu'un===35
@@ -9599,7 +9586,7 @@ tournure===2
 tourné===2
 tournée===1
 tours===2
-tous===79
+tous===80
 tout===216
 toute===55
 toutefois===3
@@ -9727,7 +9714,7 @@ trouvées===2
 trouvés===2
 truites-là===1
 trèfles===1
-très===49
+très===50
 trébuché===1
 trésors===3
 tu===26
@@ -9762,7 +9749,7 @@ témoin===1
 témoins===1
 tête===16
 tôt===7
-ultra_===1
+ultra===1
 ultérieur===1
 ultérieures===1
 un===719

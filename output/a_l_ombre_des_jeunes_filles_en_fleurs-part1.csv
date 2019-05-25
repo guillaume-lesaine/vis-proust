@@ -1,6 +1,6 @@
 !===138
 %===1
-'===199
+'===201
 's===1
 (===110
 )===110
@@ -33,6 +33,7 @@ Altesses===1
 Amérique===1
 Anacharsis===1
 Anatole===1
+Andromaque===1
 Anglais===4
 Angleterre===2
 Antoine===1
@@ -102,6 +103,7 @@ C'est===65
 C'eût===1
 C'était===17
 Cabinet===3
+Cachet===1
 Cachée===1
 Café===1
 Cafés===1
@@ -132,7 +134,7 @@ Cette===10
 Chacun===1
 Champs-Élysées===23
 Chandelier===1
-Chanteurs_===1
+Chanteurs===1
 Chantre===2
 Chaque===3
 Charles===9
@@ -146,6 +148,7 @@ Chine===6
 Choufleury===1
 Christmas===5
 Chère===1
+Cinq-Mars===1
 Cirro===1
 Claudel===1
 Clèves===1
@@ -165,6 +168,7 @@ Coquelin===1
 Cote===1
 Cottard===57
 Cousin===1
+Critique===1
 Croyant===1
 Création===1
 Crécy===2
@@ -186,14 +190,14 @@ Deffant===1
 Delft===1
 Delphes===1
 Demain===1
-Demi-Monde_===1
+Demi-Monde===1
 Depuis===3
 Dernièrement===1
 Des===3
 Deschanel===1
 Destin===1
 Dette===1
-Deux-Mondes_===2
+Deux-Mondes===2
 Deux===1
 Devant===1
 Dieu===12
@@ -214,7 +218,7 @@ Ducamp===1
 Duchesses===1
 Dumas===1
 Dès===3
-Débats_===1
+Débats===1
 Décidément===2
 Déesse===2
 Défense===1
@@ -228,7 +232,7 @@ Elles===1
 En===31
 Enchanté===1
 Encore===4
-Enfers_===1
+Enfers===1
 Enfin===12
 Ensuite===2
 Entre===1
@@ -332,12 +336,13 @@ Jeanne===1
 Jockey===4
 Joconde===2
 John===1
+Journal===1
 Jugement===1
 Juive===1
 Jules===1
 Jusqu'ici===1
 Jésus-Christ===1
-Jésus_===1
+Jésus===1
 Kant===1
 Klingsor===1
 Koraï===1
@@ -358,11 +363,11 @@ Lachaume===3
 Lady===2
 Lapérouse===1
 Laumes===1
-Le===40
+Le===41
 Legouvé===1
 Legrand===1
 Lemaître===2
-Les===35
+Les===37
 Lespinasse===1
 Leur===2
 Leurs===1
@@ -395,7 +400,7 @@ Malgré===4
 Malheureusement===5
 Maman===2
 Mantegna===1
-Marianne_===2
+Marianne===2
 Mars===1
 Marsantes===3
 Maspero===1
@@ -404,6 +409,7 @@ Mathilde===2
 Maurras===1
 Maxime===1
 Maître===1
+Maîtres===1
 Meer===2
 Mentor===1
 Merci===1
@@ -460,6 +466,7 @@ Noblesse===1
 Non===21
 Norpois===111
 Nos===2
+Notre-Dame===1
 Notre===1
 Nous===10
 Noël===3
@@ -473,6 +480,7 @@ Oh===11
 Olida===1
 On===40
 Or===22
+Orphée===1
 Ou===2
 Oui===11
 Où===2
@@ -490,8 +498,7 @@ Par===4
 Paradis===1
 Pardon===1
 Parfois===4
-Paris===22
-Paris_===1
+Paris===23
 Parisien===2
 Parlez-lui===1
 Parme===3
@@ -503,19 +510,20 @@ Patronne===9
 Pauvre===1
 Pendant===5
 Pensez===3
+Per===2
 Permettez-moi===1
 Persée===1
 Peu===2
 Peut-être===12
 Pharaons===1
-Phèdre===9
+Phèdre===27
 Pie===1
 Pietraganta===1
 Plantes===1
 Plongée===1
 Plus===1
 Plusieurs===2
-Poirier_===1
+Poirier===1
 Pont-aux-Chantres===1
 Port-Royal===1
 Porte-Saint-Martin===1
@@ -563,12 +571,14 @@ Rapporté===1
 Raspail===1
 Raspelière===1
 Raudnitz===1
+Redfern===1
 Regardez===2
 Reims===1
 Relation===1
 Rembrandt===1
 Renan===1
-Revue===1
+René===1
+Revue===4
 Ribot===1
 Rien===2
 Œnone===2
@@ -696,6 +706,7 @@ Versailles===1
 Victor===1
 Victoria-Nyanza===1
 Victorienne===1
+Vie===1
 Vienne===1
 Vigny===1
 Villars===1
@@ -724,44 +735,6 @@ XV===1
 XVI===1
 XVIIIe===1
 York===1
-_===2
-_Andromaque_===1
-_Cachet===1
-_Cinq-Mars_===1
-_Critique===1
-_Journal===1
-_Le===1
-_Les===2
-_Maîtres===1
-_Notre-Dame===1
-_Orphée===1
-_Per===2
-_Phèdre_===18
-_Redfern===1
-_René_===1
-_Revue===2
-_Revue_===1
-_Vie===1
-_agileté_===1
-_cosa===2
-_des===1
-_directeur_===1
-_i_===1
-_je===1
-_l'Aventurière_===1
-_le===1
-_misères_===1
-_moi_===1
-_mutatis===1
-_niveau===1
-_odieux_===1
-_patronising_===1
-_royalties_===1
-_se===1
-_t_===1
-_terra===1
-_tract_===1
-_urbi===1
 a-t-elle===2
 a-t-il===5
 a-t-on===1
@@ -916,6 +889,7 @@ agaçants===1
 agents===2
 aggraver===1
 agi===2
+agileté===1
 agir===1
 agissait===1
 agisse===1
@@ -2417,6 +2391,7 @@ corrompu===1
 corruption===1
 cortège===1
 cortèges===2
+cosa===2
 cosmique===1
 costume===1
 costumes===1
@@ -2611,6 +2586,7 @@ d'Allemagne===1
 d'Angleterre===1
 d'Aquarellistes===1
 d'Arc===1
+d'Atala===1
 d'Halévy===1
 d'Henry===1
 d'Hégeso===1
@@ -2623,8 +2599,6 @@ d'Orsay===2
 d'œil===3
 d'œuvres===1
 d'York===2
-d'_Atala_===1
-d'_art_===1
 d'abattement===1
 d'abattre===1
 d'abord===15
@@ -2697,7 +2671,7 @@ d'après===6
 d'argent===9
 d'arriver===4
 d'arrêter===1
-d'art===10
+d'art===11
 d'artifice===1
 d'artiste===1
 d'artistes===1
@@ -2965,7 +2939,7 @@ dernière===9
 dernièrement===1
 dernières===4
 derrière===12
-des===612
+des===613
 descendait===1
 descendant===1
 descendrait===1
@@ -3073,7 +3047,7 @@ dirais===1
 dirait===4
 dire===108
 directement===3
-directeur===2
+directeur===3
 directeurs===1
 direction===2
 direz===1
@@ -3979,8 +3953,7 @@ faire===164
 fais-je===1
 fais===5
 faisaient===12
-faisais===9
-faisais_===1
+faisais===10
 faisait-elle===1
 faisait===66
 faisant===18
@@ -4642,6 +4615,7 @@ hésité===2
 hétérogènes===1
 hôtel===2
 hôtels===3
+i===1
 ici===4
 identique===3
 idiot===1
@@ -4778,7 +4752,7 @@ inclina===1
 inclinant===1
 inclination===1
 incluses===1
-incognita_===1
+incognita===1
 incohérence===1
 incohérentes===1
 incohérents===1
@@ -5154,7 +5128,7 @@ jardinières===1
 jardins===1
 jarret===1
 jaune===1
-je===695
+je===696
 jeta===1
 jetai===1
 jetaient===1
@@ -5256,6 +5230,7 @@ l'Ambassade===1
 l'Ambassadeur===8
 l'Angleterre===3
 l'Art===2
+l'Aventurière===1
 l'Elysée===1
 l'Empereur===2
 l'Espagne===1
@@ -5271,8 +5246,6 @@ l'Olympe===2
 l'Opéra===1
 l'œuvre===12
 l'Union===1
-l'_aman_===1
-l'_o_===2
 l'abandonnerait===1
 l'abattement===1
 l'absence===3
@@ -5330,6 +5303,7 @@ l'ajoutent===1
 l'alcool===1
 l'alliance===1
 l'amabilité===2
+l'aman===1
 l'amant===6
 l'ambassadeur===8
 l'ambition===1
@@ -5685,7 +5659,7 @@ l'évolution===1
 l'événement===2
 l'évêque===1
 l'être===12
-l===14
+l===16
 la===1480
 labiales===1
 laboratoire===1
@@ -5740,7 +5714,7 @@ lavabo===1
 lavages===1
 lavant===1
 lavis===1
-le===1035
+le===1036
 leader===1
 lecteur===3
 lecteurs===1
@@ -6171,8 +6145,7 @@ mensongers===1
 mensongère===1
 mensongères===1
 mental===1
-mentale===1
-mentale_===2
+mentale===3
 mentalité===1
 menteur===1
 mentir===1
@@ -6251,6 +6224,7 @@ mis===16
 mise===7
 mission===1
 missions===1
+misères===1
 misérable===2
 miséricorde===1
 mit===4
@@ -6271,7 +6245,7 @@ modifier===1
 modèle===2
 modération===1
 moi-même===15
-moi===170
+moi===171
 moindre===4
 moindres===6
 moins===102
@@ -6381,7 +6355,8 @@ musiciens===1
 musique===9
 musée===1
 musées===1
-mutandis_===1
+mutandis===1
+mutatis===1
 mutisme===1
 mycénien===1
 myope===1
@@ -6603,7 +6578,7 @@ ni===24
 niaise===1
 nie===1
 ninitive===1
-niveau===2
+niveau===3
 nièce===5
 nièces===1
 noble===6
@@ -6700,6 +6675,7 @@ néphrétiques===1
 névropathes===1
 nôtre===5
 o'clock===1
+o===2
 objectif===2
 objections===2
 objective===1
@@ -6740,7 +6716,7 @@ occupé===1
 occupée===1
 octogénaire===1
 odeur===3
-odieux===2
+odieux===3
 odoriférants===1
 offensive===1
 offensé===1
@@ -6789,7 +6765,7 @@ oracle===2
 orange===1
 orantes===1
 orateurs===1
-orbi_===1
+orbi===1
 ordinaires===1
 ordonnances===1
 ordonné===1
@@ -7009,6 +6985,7 @@ patienter===1
 patine===1
 patrie===1
 patriotes===1
+patronising===1
 patronne===8
 patronner===1
 pauvre===11
@@ -7087,8 +7064,7 @@ permettait===1
 permettant===1
 permettra===1
 permettrait===2
-permettre===6
-permettre_===1
+permettre===7
 permettront===1
 permis===6
 permission===2
@@ -7703,8 +7679,7 @@ puisé===1
 pulmonaire===1
 pupilles===1
 pur===3
-pure===4
-pure_===1
+pure===5
 purement===7
 purent===1
 pureté===1
@@ -8007,7 +7982,7 @@ recouvre===1
 recouvré===1
 recrudescence===1
 recrue===1
-rectam_===2
+rectam===2
 rectangle===1
 rectangulaire===1
 rectifiait===1
@@ -8404,8 +8379,7 @@ rondeur===1
 rose===10
 roses===8
 roues===1
-rouge===7
-rouge_===1
+rouge===8
 rougeole===1
 rouges===2
 rougi===1
@@ -8418,6 +8392,7 @@ routinier===1
 royal===1
 royale===3
 royales===1
+royalties===1
 royaume===2
 rubis===1
 rude===2
@@ -8837,7 +8812,7 @@ sculpture===1
 sculptés===1
 scène===14
 scènes===5
-se===323
+se===324
 sec===2
 second===8
 secondaire===1
@@ -9388,7 +9363,7 @@ sûreté===1
 sût===3
 t'ai===1
 t'apprécier===1
-t===4
+t===5
 ta===5
 table===14
 tableau===4
@@ -9469,6 +9444,7 @@ termes===4
 terminaison===1
 terminaisons===1
 terminé===1
+terra===1
 terre===3
 terrible===3
 terribles===1
@@ -9567,6 +9543,7 @@ toxi-alimentaire===2
 toxine===1
 tracas===1
 traces===1
+tract===1
 tracé===2
 tracée===2
 tradition===1
@@ -9751,6 +9728,7 @@ unité===1
 univers===2
 universelle===1
 uns===3
+urbi===1
 urgentes===1
 usage===3
 usages===3
@@ -10256,7 +10234,7 @@ zut===2
 étendue===1
 éternel===3
 éternelle===1
-éternités_===1
+éternités===1
 étiez===4
 étinceler===1
 étions===9

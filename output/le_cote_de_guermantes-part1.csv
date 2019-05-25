@@ -95,7 +95,7 @@ C'était===19
 Café===1
 Caisse===1
 Cambremer===11
-Campagne_===2
+Campagne===2
 Canada===2
 Cannes===5
 Cantorum===1
@@ -129,8 +129,7 @@ Chaque===3
 Charlus===3
 Charmant===1
 Chartres===1
-Chartreuse===1
-Chartreuse_===1
+Chartreuse===2
 Chef===1
 Chez===1
 Childebert===1
@@ -184,7 +183,7 @@ Duc===4
 Duchesse===6
 Duroc===5
 Dès===7
-Débutante_===1
+Débutante===1
 Déclaration===1
 Déesse===1
 Déjà===1
@@ -248,13 +247,13 @@ Gilberte===7
 Giletier===1
 Giotto===1
 Gisèle===1
+Gloire===1
 Goethe===1
 Grand'mère===2
 Grand===1
 Grâce===1
 Guermantes-Bavière===2
-Guermantes===147
-Guermantes_===1
+Guermantes===148
 Guise===3
 Gutenberg===1
 Hercule===1
@@ -321,7 +320,7 @@ L'obscurité===1
 L'un===3
 L'une===2
 L'étude===1
-La===35
+La===37
 Lancés===1
 Lannes===1
 Laon===1
@@ -355,17 +354,19 @@ Mais===179
 Malgré===5
 Malheureusement===2
 Mangin===1
+Mari===1
 Marquise===1
 Mars===1
 Marsantes===2
 Masséna===1
 Mater===1
 Meilhac===2
-Meister_===1
+Meister===1
 Mercure===1
 Mes===2
 Messagères===1
 Midi===1
+Mille===1
 Minerve===1
 Mis===1
 Mlle===5
@@ -404,7 +405,7 @@ Notre===1
 Nous===15
 Noël===1
 Nuit===1
-Nuits_===1
+Nuits===1
 Néanmoins===1
 Négrier===3
 Octave===1
@@ -443,7 +444,7 @@ Percepied===1
 Personne===4
 Peu===1
 Peut-être===8
-Phèdre===3
+Phèdre===15
 Picquart===1
 Pigalle===2
 Place===1
@@ -529,6 +530,7 @@ Scène===1
 Sedan===1
 Seigneur===5
 Semita===2
+Service===2
 Ses===1
 Seul===1
 Seule===1
@@ -597,7 +599,7 @@ Vivonne===6
 Voici===1
 Voilà===8
 Voulez-vous===1
-Vous===19
+Vous===20
 Voyant===1
 Voyez-vous===1
 Voyons===3
@@ -607,6 +609,7 @@ Wagram===1
 Waterloo===1
 Watteau===1
 Whistler===1
+Wilhelm===1
 Wissembourg===1
 X===1
 XIVe===1
@@ -617,27 +620,6 @@ XVIIe===3
 XVIe===1
 Zaïre===1
 Zézette===5
-_===1
-_Gloire===1
-_La===2
-_Mari===1
-_Mille===1
-_Phèdre_===12
-_Service===2
-_Vous_===1
-_Wilhelm===1
-_an_-nées===1
-_bien_===2
-_bureau===1
-_demeuré_===1
-_ex===1
-_five===1
-_joie===1
-_l'Iliade_===1
-_maîtres_===1
-_p_===1
-_penser_===1
-_peut_===1
 a-t-il===2
 a===213
 abaissa===1
@@ -946,6 +928,7 @@ amuse===2
 amuser===1
 amusés===1
 aménagé===1
+an-nées===1
 an===4
 analogue===4
 analogues===3
@@ -1426,7 +1409,7 @@ bibliothèque===2
 bibliothèques===1
 biceps===1
 bien-être===2
-bien===196
+bien===198
 bienfaisance===2
 bienfaisant===2
 biens===2
@@ -1590,7 +1573,7 @@ brûlure===1
 brûlées===1
 buffet===1
 bulle===1
-bureau===8
+bureau===9
 busqué===1
 but===8
 buts===1
@@ -2778,8 +2761,7 @@ d'envoyer===1
 d'erreurs===1
 d'escadron===1
 d'espoirs===1
-d'esprit===4
-d'esprit_===1
+d'esprit===5
 d'esthétique===2
 d'estime===1
 d'eux-mêmes===1
@@ -2945,6 +2927,7 @@ demandé===13
 demeure===10
 demeurer===2
 demeures===2
+demeuré===1
 demi-dieu===2
 demi-dieux===1
 demi-heure===1
@@ -3871,6 +3854,7 @@ eussé-je===2
 eut===7
 eux-mêmes===8
 eux===29
+ex===1
 exact===3
 exacte===1
 exactement===9
@@ -4147,6 +4131,7 @@ firent===5
 firmament===1
 fis===2
 fit===25
+five===1
 fixais===1
 fixait===2
 fixation===1
@@ -4859,8 +4844,7 @@ incomparable===2
 incompréhensibles===1
 inconcevables===1
 inconnu===5
-inconnue===6
-inconnue_===1
+inconnue===7
 inconnues===2
 inconnus===2
 inconscient===2
@@ -5216,7 +5200,7 @@ jeune===52
 jeunes===18
 jeunesse===3
 jeux===1
-joie===9
+joie===10
 joli===5
 jolie===8
 jolies===2
@@ -5302,6 +5286,7 @@ l'Envie===1
 l'Europe===1
 l'Exposition===1
 l'Hélicon===1
+l'Iliade===1
 l'Injustice===1
 l'Institut===4
 l'Intran===1
@@ -6246,7 +6231,7 @@ mauve===7
 maximum===1
 maçonnerie===1
 maître===15
-maîtres===10
+maîtres===11
 maîtresse===46
 me===410
 meilleur===5
@@ -6741,7 +6726,7 @@ ni===37
 nichaient===1
 nid===3
 niellait===1
-nihilo_===1
+nihilo===1
 niveau===1
 nièce===5
 noble===5
@@ -6836,7 +6821,7 @@ néréide===2
 nés===1
 nôtre===5
 nôtres===1
-o'clock_===1
+o'clock===1
 oasis===1
 objecter===1
 objectif===1
@@ -6980,6 +6965,7 @@ ouvriers===1
 ouvrir===6
 ovoïdes===1
 où===265
+p===1
 page===2
 pages===2
 paillasson===2
@@ -7212,7 +7198,7 @@ pensant===2
 pensasse===1
 pense===3
 pensent===2
-penser===29
+penser===30
 penserait===1
 penseur===2
 pensez===1
@@ -7305,7 +7291,7 @@ peuplés===1
 peur===8
 peut-il===1
 peut-être===86
-peut===51
+peut===52
 peuvent===15
 peux===13
 phalzard===3

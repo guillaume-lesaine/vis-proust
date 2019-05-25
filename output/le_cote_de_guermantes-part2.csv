@@ -4,7 +4,7 @@
 )===99
 ,===6310
 ...===32
-.===2609
+.===2611
 1===1
 20===1
 22===1
@@ -26,7 +26,7 @@ Accompagnée===1
 Ach===1
 Actuellement===2
 Adam===1
-Adieu===3
+Adieu===4
 Admirable===1
 Adolphe===4
 Affaires===1
@@ -47,9 +47,10 @@ Altesse===3
 Amours===1
 Amédée===1
 Andrée===1
-Anges_===1
+Anges===1
 Anténor===1
 Après===2
+Arcades===1
 Argencourt===3
 Aristote===2
 Arrivée===1
@@ -322,11 +323,13 @@ Faites-le===1
 Faites===1
 Fallières===2
 Fantin-Latour===1
+Farà===1
 Faubourg===1
 Faut-il===2
 Fayette===2
 Ferdinand===1
 Fezensac===1
+Figaro===1
 Florimond===1
 Folies-Bergère===1
 Fontainebleau===1
@@ -424,7 +427,7 @@ Jockey===5
 Joinville===3
 Joseph===2
 Joubert===2
-Journal_===1
+Journal===1
 Judet===1
 Judée===1
 Jugeant===1
@@ -480,6 +483,7 @@ Leur===2
 Ligne===3
 Ligue===1
 Liszt===2
+Livre===1
 Livres===1
 Lohengrin===1
 Londres===2
@@ -506,6 +510,7 @@ Ma===20
 Madame===21
 Madeleine===1
 Maeterlinck===1
+Magnificat===1
 Maintenant===8
 Mais===274
 Maison===2
@@ -532,6 +537,7 @@ Mascarille===1
 Matame===1
 Mater===1
 Matin===1
+Maximes===1
 Maître===1
 Me===2
 Mecklembourg===1
@@ -556,7 +562,7 @@ Molière===2
 Molé===3
 Momo===1
 Mon===17
-Mondes_===1
+Mondes===1
 Monseigneur===2
 Monsieur===42
 Montalembert===1
@@ -644,9 +650,11 @@ Percepied===1
 Persans===1
 Personnellement===1
 Persuadés===1
+Petit===1
 Peu===1
 Peut-être===29
 Phidias===1
+Phèdre===1
 Piazzetta===1
 Picarde===1
 Picquart===7
@@ -669,8 +677,8 @@ Pouvons-nous===1
 Presque===1
 Preuve===1
 Prince===2
-Princesses._===2
-Princesses_===5
+Princesses===7
+Principiis===1
 Probablement===1
 Profitant===1
 Promenant===1
@@ -678,6 +686,7 @@ Promettez-moi===1
 Prudhomme===1
 Présent===1
 Prévenues===1
+Psaumes===1
 Puis===17
 Puisque===5
 Python===2
@@ -716,6 +725,7 @@ Renoir===6
 Renommée===1
 Rentrant===1
 Revenons===1
+Revue===1
 Rhingrave===1
 Richer===1
 Rien===3
@@ -729,6 +739,7 @@ Roi===3
 Rongé===1
 Rostand===1
 Roumains===1
+Rousse===1
 Rousseau===1
 Royale===1
 Rufus===4
@@ -756,8 +767,7 @@ Saint-Ferréol===5
 Saint-Germain===5
 Saint-Honoré===1
 Saint-Loup-en-Bray===2
-Saint-Loup===46
-Saint-Loup_===1
+Saint-Loup===47
 Saint-Simon===1
 Saint===1
 Sainteté===1
@@ -778,6 +788,7 @@ Sciences===1
 Se===2
 Selon===1
 Semita===1
+Sept===7
 Serait-ce===1
 Ses===7
 Seulement===7
@@ -833,6 +844,7 @@ Thirion===2
 Thésée===1
 Théâtre-Français===1
 Tiens===7
+Times===1
 Tirésias===1
 Tolstoï===1
 Toujours===1
@@ -885,6 +897,7 @@ Voyez-vous===2
 Voyons===4
 Vraiment===5
 Vénus===3
+Walkyrie===1
 Watteau===1
 Wells===1
 Widal===1
@@ -898,60 +911,9 @@ Zeus===2
 Zola===1
 [===1
 ]===1
-_===4
-_Adieu===1
-_Arcades===1
-_Farà===1
-_Figaro_===1
-_Livre===1
-_Magnificat_===1
-_Maximes_===1
-_Petit===1
-_Phèdre_===1
-_Principiis===1
-_Psaumes_===1
-_Revue===1
-_Rousse_===1
-_Sept===7
-_Times_===1
-_Walkyrie_===1
-_a===2
-_absolument_===1
-_arbitraire_===1
-_assises===1
-_bien===1
-_bovine_===1
-_c_===1
-_d'une_===1
-_fac-similés_===1
-_faut===1
-_happy===1
-_hon_-neur===2
-_in===1
-_inter===1
-_intéressée===1
-_l'Enfer===1
-_l'honneur===1
-_l'honneur_===1
-_l'ultima===1
-_l_===1
-_mère_===1
-_n_===2
-_nec===1
-_pied===1
-_quand===1
-_r_===1
-_radicale_===1
-_radicalement_===1
-_réalisé_===1
-_s_===1
-_solennités_===1
-_t_===1
-_vice===2
-_à===1
 a-t-il===3
 a-t-on===3
-a===296
+a===298
 abaissa===2
 abaisser===1
 abandonne===1
@@ -975,7 +937,7 @@ absente===1
 absentes===1
 absolu===3
 absolue===2
-absolument===14
+absolument===15
 absorbant===1
 absorbé===2
 absoudre===1
@@ -1259,7 +1221,7 @@ ambigus===1
 ambiguïté===1
 ambitieux===1
 ambition===2
-ambo_===1
+ambo===1
 amenait===1
 amener===4
 amené===6
@@ -1422,7 +1384,7 @@ après===59
 aquarelle===1
 aquarelles===1
 aquarium===1
-arbitraire===3
+arbitraire===4
 arbitrairement===1
 arbitre===1
 arbre===1
@@ -1502,7 +1464,7 @@ assignant===1
 assimilé===1
 assis===7
 assise===9
-assises===3
+assises===4
 assistait===1
 assistance===1
 assister===3
@@ -1748,7 +1710,7 @@ bibliothèque===4
 biblique===1
 bien-aimée===1
 bien-être===2
-bien===233
+bien===234
 bienfaisant===1
 bienfaiteur===1
 bienheureuse===1
@@ -1840,6 +1802,7 @@ boutique===6
 boutonnière===4
 boutons===3
 bouts===1
+bovine===1
 bracelets===1
 branchages===1
 branche===3
@@ -1919,6 +1882,7 @@ c'est===170
 c'eût===1
 c'étaient===3
 c'était===88
+c===1
 cabine===1
 cabinet===4
 cachais===1
@@ -2882,7 +2846,7 @@ d'Aynard===1
 d'Elstir===1
 d'Emerson===1
 d'Esterhazy===1
-d'Esther_===1
+d'Esther===1
 d'Europe===1
 d'Henry===3
 d'Herculanum===1
@@ -3118,7 +3082,7 @@ d'ouvrir===4
 d'oxygène===3
 d'où===11
 d'un===239
-d'une===214
+d'une===215
 d'urticaires===1
 d'urémie===1
 d'usage===1
@@ -4273,6 +4237,7 @@ fable===2
 fables===1
 fabuleuse===1
 fabuleux===1
+fac-similés===1
 face===5
 facile===9
 facilement===7
@@ -4352,7 +4317,7 @@ faudrait===7
 fausse===5
 fausses===1
 fausseté===2
-faut===38
+faut===39
 faute===7
 fautes===1
 fauteuil===5
@@ -4397,7 +4362,7 @@ feu===5
 feuillage===1
 feuilles===2
 feuilletant===1
-few_===1
+few===1
 fiacre===10
 fiacres===2
 fiancé===1
@@ -4925,6 +4890,7 @@ halo===1
 halte===1
 hanche===1
 hante===1
+happy===1
 harcelant===1
 hardi===1
 hardiesses===1
@@ -4950,8 +4916,7 @@ herbivore===1
 hermétiquement===1
 heure===9
 heures===28
-heureuse===7
-heureuse_===1
+heureuse===8
 heureusement===3
 heureux===15
 heurter===1
@@ -4971,6 +4936,7 @@ hommage===1
 homme===58
 hommes===30
 homonymes===1
+hon-neur===2
 honneur===4
 honneurs===2
 honnête===1
@@ -5130,6 +5096,7 @@ impunité===1
 impénétrable===2
 impérieuse===1
 impérieux===2
+in===1
 inachevée===1
 inanimé===1
 inaperçu===1
@@ -5339,6 +5306,7 @@ intention===2
 intentionnel===1
 intentionnés===1
 intentions===3
+inter===1
 intercalait===1
 interdit===1
 interférence===1
@@ -5389,7 +5357,7 @@ intéressants===2
 intéressent===1
 intéresser===4
 intéresserait===1
-intéressée===2
+intéressée===3
 intéressées===1
 intérieur===1
 intérieure===2
@@ -5630,6 +5598,7 @@ l'Albertine===1
 l'Ambassadeur===12
 l'Angleterre===1
 l'Empire===1
+l'Enfer===1
 l'Espagne===1
 l'Est===2
 l'Europe===2
@@ -5899,7 +5868,7 @@ l'historien===25
 l'hiver===1
 l'homme===6
 l'homonymie===1
-l'honneur===8
+l'honneur===10
 l'horizon===1
 l'horloger===1
 l'horrible===1
@@ -6022,6 +5991,7 @@ l'outre===1
 l'ouvrait===1
 l'ouvrier===1
 l'oxygène===5
+l'ultima===1
 l'un===13
 l'une===6
 l'uniformité===1
@@ -6087,7 +6057,7 @@ l'évidence===1
 l'événement===2
 l'être===5
 l'île===2
-l===17
+l===18
 la===1632
 laboratoire===1
 lacté===1
@@ -6705,8 +6675,7 @@ mon===183
 monarque===1
 mondain===4
 mondaine===10
-mondaines===2
-mondaines_===1
+mondaines===3
 mondains===2
 monde===101
 monocle===1
@@ -6818,7 +6787,7 @@ mèches===1
 mène===1
 mènera===1
 mèneront===1
-mère===75
+mère===76
 mères===3
 mécanique===2
 mécaniquement===1
@@ -6987,7 +6956,7 @@ n'étiez===1
 n'étions===2
 n'êtes===6
 n'être===4
-n===90
+n===92
 nacelle===1
 nacre===1
 nage===1
@@ -7016,6 +6985,7 @@ naïvement===1
 naïves===1
 naïveté===4
 ne===967
+nec===1
 nerveuse===13
 nerveuses===2
 nerveux===5
@@ -7153,7 +7123,7 @@ obscurs===1
 obscénités===1
 observation===1
 observer===2
-obsta_===1
+obsta===1
 obstacle===1
 obstinément===1
 obséquieuse===1
@@ -7380,7 +7350,7 @@ partager===1
 partagé===1
 partaient===1
 partant===1
-parte_===1
+parte===1
 partez===1
 parti===9
 partialité===1
@@ -7411,8 +7381,7 @@ parvenu===3
 parvenue===1
 parvenus===1
 parût===2
-pas===1047
-pas_===1
+pas===1048
 passa===6
 passaient===3
 passait===6
@@ -7508,8 +7477,7 @@ pensais-je===1
 pensais===7
 pensait-il===1
 pensait===15
-pensant===8
-pensant_===1
+pensant===9
 pensantes===1
 pensasse===1
 pense-t-on===1
@@ -7611,7 +7579,7 @@ petite===36
 petites===9
 petits-fils===1
 petits===17
-petto_===1
+petto===1
 peu===149
 peuple===5
 peuples===3
@@ -7643,7 +7611,7 @@ physiques===2
 phénix===1
 phénomène===1
 phénomènes===4
-pied===17
+pied===18
 pieds===10
 pierre===5
 pieuse===1
@@ -7737,7 +7705,7 @@ plénitude===1
 plût===1
 pochade===1
 poche===1
-pocula_===1
+pocula===1
 poids===5
 poignet===1
 poils===2
@@ -7919,7 +7887,7 @@ principe===3
 princière===3
 printanière===1
 printemps===1
-priori_===1
+priori===1
 pris===25
 prisait===1
 prise===4
@@ -8327,7 +8295,7 @@ qualifier===1
 qualifions===1
 qualité===3
 qualités===7
-quand===142
+quand===143
 quant===5
 quantité===1
 quantités===1
@@ -8382,6 +8350,7 @@ quotidien===1
 quotidienne===2
 quotidiennes===1
 quête===2
+r===1
 race===5
 races===3
 racheter===1
@@ -8394,7 +8363,8 @@ raconter===8
 raconté===6
 racontée===3
 racontées===1
-radicalement===1
+radicale===1
+radicalement===2
 radieux===1
 radiographie===1
 radioscopique===1
@@ -8483,7 +8453,7 @@ rassurant===1
 rassurèrent===1
 rassuré===1
 rassurée===2
-ratio_===1
+ratio===1
 rationaliste===1
 rationnel===1
 rationnelle===1
@@ -9001,8 +8971,7 @@ roses===13
 rosser===1
 roturier===1
 roublarde===1
-rouge===7
-rouge_===1
+rouge===8
 rouges===2
 rougeâtre===1
 rougi===1
@@ -9056,7 +9025,7 @@ réactions===1
 réagirait===1
 réalisation===1
 réaliser===1
-réalisé===1
+réalisé===2
 réalité===4
 réalités===1
 réapercevoir===1
@@ -9396,7 +9365,7 @@ s'évader===1
 s'évanouissent===1
 s'éveille===1
 s'être===3
-s===16
+s===17
 sa===348
 sables===1
 sac===1
@@ -9513,8 +9482,7 @@ sculpturale===1
 sculpture===2
 scène===12
 scènes===1
-se===404
-se_===1
+se===405
 second===4
 secondaires===2
 seconde===6
@@ -9551,8 +9519,7 @@ semblez===3
 semblèrent===2
 semblé===4
 sens-tu===1
-sens===26
-sens_===1
+sens===27
 sensation===1
 sensations===1
 sensibilité===4
@@ -9718,6 +9685,7 @@ solennel===4
 solennelle===1
 solennelles===1
 solennité===2
+solennités===1
 solide===2
 solidement===1
 solides===1
@@ -10090,6 +10058,7 @@ t'avoir===1
 t'embrasser===1
 t'en===2
 t'ennuie===1
+t===1
 ta===8
 tabatières===1
 table===6
@@ -10489,7 +10458,7 @@ tînt===1
 tôt===5
 tûmes===1
 ultra-violets===1
-ultra_===1
+ultra===1
 un===847
 une===752
 unes===2
@@ -10603,7 +10572,7 @@ verre===5
 verres===4
 verrez===1
 vers===53
-versa_===2
+versa===2
 versant===1
 version===1
 vert===1
@@ -10625,7 +10594,7 @@ veux===20
 vexé===1
 vexée===1
 vibra===1
-vice===1
+vice===3
 vices===3
 vicomtesse===1
 victimes===1
@@ -10856,7 +10825,7 @@ zéro===1
 Évidemment===2
 Êtes-vous===1
 Être===1
-à===1713
+à===1714
 âge===10
 âgés===2
 âme===2

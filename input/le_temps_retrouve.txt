@@ -158,7 +158,7 @@ alors il faudrait qu’il lui soit arrivé à lui-même de grands revers.
 C’est au cours d’un de ces entretiens, qu’ayant demandé le nom de
 famille de Théodore, qui vivait maintenant dans le Midi, je compris
 brusquement que c’était lui qui m’avait écrit pour mon article du
-/Figaro/ cette lettre, d’une écriture populaire et d’un langage
+Figaro cette lettre, d’une écriture populaire et d’un langage
 charmant, dont le nom du signataire m’était alors inconnu.
 
 Saint-Loup insistait pour que je restasse à Tansonville et laissa
@@ -258,7 +258,7 @@ toujours sur le nombre des personnes avec qui il a des liaisons, parce
 qu’on interprète faussement des amitiés comme des liaisons, ce qui est
 une erreur par addition, mais aussi parce qu’on croit qu’une liaison
 prouvée en exclut une autre, ce qui est un autre genre d’erreur. Deux
-personnes peuvent dire : « la maîtresse de X…, je la connais »,
+personnes peuvent dire : « la maîtresse de X..., je la connais »,
 prononcer deux noms différents et ne se tromper ni l’une ni l’autre. Une
 femme qu’on aime suffit rarement à tous nos besoins et on la trompe avec
 une femme qu’on n’aime pas. Quant au genre d’amours que Saint-Loup avait
@@ -271,7 +271,7 @@ leur. Les Courvoisier en usaient plus sagement. Le jeune vicomte de
 Courvoisier se croyait seul sur la terre, et depuis l’origine du monde,
 à être tenté par quelqu’un de son sexe. Supposant que ce penchant lui
 venait du diable, il lutta contre lui, épousa une femme ravissante, lui
-fit des enfants… Puis un de ses cousins lui enseigna que ce penchant est
+fit des enfants... Puis un de ses cousins lui enseigna que ce penchant est
 assez répandu, poussa la bonté jusqu’à le mener dans des lieux où il
 pouvait le satisfaire. M. de Courvoisier n’en aima que plus sa femme,
 redoubla de zèle prolifique et elle et lui étaient cités comme le
@@ -289,7 +289,7 @@ laissait jamais la conversation toucher à ce genre d’amours qui était le
 sien. Si je disais un mot : « Oh ! je ne sais pas, répondait-il avec un
 détachement si profond qu’il en laissait tomber son monocle, je n’ai pas
 soupçon de ces choses-là. Si tu désires des renseignements là-dessus,
-/mon cher/, je te conseille de t’adresser ailleurs. Moi, je suis un
+mon cher, je te conseille de t’adresser ailleurs. Moi, je suis un
 soldat, un point c’est tout. Autant ces choses-là m’indiffèrent, autant
 je suis avec passion la guerre balkanique. Autrefois cela t’intéressait,
 l’histoire des batailles. Je te disais alors qu’on reverrait, même dans
@@ -396,7 +396,7 @@ l’enchantement ait cessé.
 
 — Justement, reprit Gilberte, le livre que je tiens parle de ces choses.
 C’est un vieux Balzac que je pioche pour me mettre à la hauteur de mes
-oncles, /la Fille aux yeux d’Or/. Mais c’est absurde, invraisemblable,
+oncles, la Fille aux yeux d’Or. Mais c’est absurde, invraisemblable,
 un beau cauchemar. D’ailleurs, une femme peut, peut-être, être
 surveillée ainsi par une autre femme, jamais par un homme. — Vous vous
 trompez, j’ai connu une femme qu’un homme qui l’aimait était arrivé
@@ -408,7 +408,7 @@ feriez son bonheur. — Non, parce que j’ai trop mauvais caractère. —
 Quelle idée ! — Je vous assure ! J’ai, du reste, été fiancé, mais je
 n’ai pas pu.
 
-Je ne voulus pas emprunter à Gilberte /la Fille aux yeux d’Or/
+Je ne voulus pas emprunter à Gilberte la Fille aux yeux d’Or
 puisqu’elle le lisait. Mais elle me prêta, le dernier soir que je passai
 chez elle, un livre qui me produisit une impression assez vive et mêlée.
 C’était un volume du journal inédit des Goncourt.
@@ -439,7 +439,7 @@ Voici les pages que je lus jusqu’à ce que la fatigue me fermât les yeux :
 l’ancien critique de la Revue, l’auteur de ce livre sur Whistler où
 vraiment le faire, le coloriage artiste de l’original Américain est
 souvent rendu avec une grande délicatesse par l’amoureux de tous les
-raffinements, de toutes les /joliesses/ de la chose peinte qu’est
+raffinements, de toutes les joliesses de la chose peinte qu’est
 Verdurin. Et tandis que je m’habille pour le suivre, c’est, de sa part,
 tout un récit où il y a, par moments, comme l’épellement apeuré d’une
 confession sur le renoncement à écrire aussitôt après son mariage avec
@@ -450,7 +450,7 @@ jamais écrit, lui parlaient de Charles Blanc, de Saint-Victor, de
 Sainte-Beuve, de Burty, comme d’individus auxquels ils le croyaient,
 lui, tout à fait inférieur. « Voyons, vous Goncourt, vous savez bien, et
 Gautier le savait aussi, que mes salons étaient autre chose que ces
-piteux /Maîtres d’autrefois/ crus un chef-d’œuvre dans la famille de ma
+piteux Maîtres d’autrefois crus un chef-d’œuvre dans la famille de ma
 femme. » Puis, par un crépuscule où il y a près des tours du Trocadéro
 comme le dernier allumement d’une lueur qui en fait des tours absolument
 pareilles aux tours enduites de gelée de groseille des anciens
@@ -458,8 +458,8 @@ pâtissiers, la causerie continue dans la voiture qui doit nous conduire
 quai Conti où est leur hôtel, que son possesseur prétend être l’ancien
 hôtel des Ambassadeurs de Venise et où il y aurait un fumoir dont
 Verdurin me parle comme d’une salle transportée telle quelle, à la façon
-des /Mille et une Nuits/, d’un célèbre palazzo, dont j’oublie le nom,
-/palazzo/ à la margelle du puits représentant un couronnement de la
+des Mille et une Nuits, d’un célèbre palazzo, dont j’oublie le nom,
+palazzo à la margelle du puits représentant un couronnement de la
 Vierge que Verdurin soutient être absolument du plus beau Sansovino et
 qui servirait, pour leurs invités, à jeter la cendre de leurs cigares.
 Et ma foi, quand nous arrivons, dans le glauque et le diffus d’un clair
@@ -472,7 +472,7 @@ l’hôtel où du premier étage on ne voit pas le quai et par le dire
 diable si j’y avais jamais pensé — viendrait du bac sur lequel des
 religieuses d’autrefois, les Miramiones, se rendaient aux offices de
 Notre-Dame. Tout un quartier où a flâné mon enfance quand ma tante de
-Courmont l’habitait, et que je me prends à « /raimer/ » en retrouvant,
+Courmont l’habitait, et que je me prends à « raimer » en retrouvant,
 presque contiguë à l’hôtel des Verdurin, l’enseigne du « Petit
 Dunkerque », une des rares boutiques survivant ailleurs que vignettées
 dans le crayonnage et les frottis de Gabriel de Saint-Aubin, où le
@@ -599,7 +599,7 @@ chef-d’œuvre de Diderot, les lettres à Mademoiselle Volland. Puis, après
 le déjeuner, tout le monde sortait, même les jours de grains dans le
 coup de soleil, le rayonnement d’une ondée lignant de son filtrage
 lumineux les nodosités d’un magnifique départ de hêtres centenaires qui
-mettaient devant la grille le /beau/ végétal affectionné par le XVIII^e
+mettaient devant la grille le beau végétal affectionné par le XVIII^e
 siècle, et d’arbustes ayant pour boutons fleurissants dans la
 suspension de leurs rameaux des gouttes de pluie. On s’arrêtait pour
 écouter le délicat barbotis, énamouré de fraîcheur, d’un bouvreuil se
@@ -738,7 +738,7 @@ Cottard, chacun d’eux m’avait paru aussi commun qu’à ma grand’mère ce
 Basin dont elle ne se doutait guère qu’il était le neveu chéri, le jeune
 héros délicieux, de M^me de Beausergent, chacun d’eux m’avait semblé
 insipide ; je me rappelais les vulgarités sans nombre dont chacun était
-composé… « Et que tout cela fît un astre dans la nuit ! ! ! »
+composé... « Et que tout cela fît un astre dans la nuit ! ! ! »
 
 
 Je résolus de laisser provisoirement de côté les objections qu’avaient
@@ -832,8 +832,8 @@ d’arriver (comme c’était venu pour Elstir et comme cela arrive rarement)
 à un bon goût supérieur. Les lettres de Balzac, par exemple, ne
 sont-elles pas semées de termes vulgaires que Swann eût souffert mille
 morts d’employer ? Et cependant il est probable que Swann, si fin, si
-purgé de tout ridicule haïssable, eût été incapable d’écrire la /Cousine
-Bette/ et le /Curé de Tours/. Que ce soit donc les Mémoires qui aient
+purgé de tout ridicule haïssable, eût été incapable d’écrire la Cousine
+Bette et le Curé de Tours. Que ce soit donc les Mémoires qui aient
 tort de donner du charme à leur société alors qu’elle nous a déplu est
 un problème de peu d’importance, puisque, même si c’est l’écrivain de
 Mémoires qui se trompe, cela ne prouve rien contre la valeur de la vie
@@ -995,7 +995,7 @@ d’ailleurs, avec une orgueilleuse conscience d’artistes, avouaient que
 dégager pour les générations d’après la guerre une formule nouvelle du
 beau, telle était l’ambition qui les tourmentait, la chimère qu’ils
 poursuivaient, ainsi qu’on pouvait s’en rendre compte en venant visiter
-leurs salons délicieusement installés rue de la …, où effacer par une
+leurs salons délicieusement installés rue de la ..., où effacer par une
 note lumineuse et gaie les lourdes tristesses de l’heure semble être le
 mot d’ordre, avec la discrétion toutefois qu’imposent les circonstances.
 Les tristesses de l’heure, il est vrai, pourraient avoir raison des
@@ -1063,7 +1063,7 @@ Paris. Les dames du Premier Directoire avaient une reine qui était jeune
 et belle et s’appelait Madame Tallien. Celles du second en avaient deux
 qui étaient vieilles et laides et qui s’appelaient M^me Verdurin et M^me
 Bontemps. Qui eût pu tenir rigueur à M^me Bontemps que son mari eût joué
-un rôle, âprement critiqué par l’/Écho de Paris/, dans l’affaire
+un rôle, âprement critiqué par l’Écho de Paris, dans l’affaire
 Dreyfus ? Toute la Chambre étant à un certain moment devenue
 révisionniste, c’était forcément parmi d’anciens révisionnistes, comme
 parmi d’anciens socialistes, qu’on avait été obligé de recruter le parti
@@ -1093,7 +1093,7 @@ contre celui-là il n’y a jamais eu rien à dire. » De même il y avait
 certainement eu dreyfusisme et dreyfusisme, et celui qui allait chez la
 duchesse de Montmorency et faisait passer la loi de trois ans ne pouvait
 être mauvais. En tout cas, à tout péché miséricorde. Cet oubli qui était
-octroyé au dreyfusisme l’était /a fortiori/ aux dreyfusards. Il n’y
+octroyé au dreyfusisme l’était a fortiori aux dreyfusards. Il n’y
 avait plus qu’eux, du reste, dans la politique, puisque tous à un moment
 l’avaient été s’il voulaient être du Gouvernement, même ceux qui
 représentaient le contraire de ce que le dreyfusisme, dans sa choquante
@@ -1120,8 +1120,8 @@ eux l’ordre du temps en les faisant contemporains d’un autre temps de
 leur vie. Un chant d’oiseau dans le parc de Montboissier, ou une brise
 chargée de l’odeur de réséda, sont évidemment des événements de moindre
 conséquence que les plus grandes dates de la Révolution et de l’Empire.
-Ils ont cependant inspiré à Chateaubriand, dans les /Mémoires
-d’Outre-tombe/, des pages d’une valeur infiniment plus grande.
+Ils ont cependant inspiré à Chateaubriand, dans les Mémoires
+d’Outre-tombe, des pages d’une valeur infiniment plus grande.
 
 M. Bontemps ne voulait pas entendre parler de paix avant que l’Allemagne
 eût été réduite au même morcellement qu’au moyen âge, la déchéance de la
@@ -1313,7 +1313,7 @@ hypocritement de déplorer l’intimité d’en haut, étaient ravis au fond —
 en faisant bande à part comme jadis dans le petit chemin de fer — d’être
 un objet de spectacle et d’envie pour les tables voisines. Sans doute
 dans les temps habituels de la paix une note mondaine subrepticement
-envoyée au /Figaro/ ou au /Gaulois/ aurait fait savoir à plus de monde
+envoyée au Figaro ou au Gaulois aurait fait savoir à plus de monde
 que n’en pouvait tenir la salle à manger du Majestic que Brichot avait
 dîné avec la duchesse de Duras. Mais depuis la guerre, les courriéristes
 mondains ayant supprimé ce genre d’informations (ils se rattrapaient sur
@@ -1430,10 +1430,10 @@ assez d’ironie pour lui-même qui ne reprenait pas de service et j’avais
 été presque choqué de la violence de son ton. Saint-Loup revenait de
 Balbec. « Non, s’écria-t-il avec force et gaîté, tous ceux qui ne se
 battent pas, quelque raison qu’ils donnent, c’est qu’ils n’ont pas envie
-d’être tués, c’est par /peur/. » Et avec le même geste d’affirmation
+d’être tués, c’est par peur. » Et avec le même geste d’affirmation
 plus énergique encore que celui avec lequel il avait souligné la peur
 des autres, il ajouta : « Et moi, si je ne reprends pas de service,
-c’est tout bonnement par /peur, na/. » J’avais déjà remarqué chez
+c’est tout bonnement par peur, na. » J’avais déjà remarqué chez
 différentes personnes que l’affectation des sentiments louables n’est
 pas la seule couverture des mauvais, mais qu’une plus nouvelle est
 l’exhibition de ces mauvais, de sorte qu’on n’ait pas l’air au moins de
@@ -1458,7 +1458,7 @@ jamais cessé de tromper sa femme, de l’insulter, de la brutaliser, de la
 priver d’argent. Ce serait si naturel qu’elle le quitte que c’est une
 raison pour que ce soit vrai, mais aussi pour que cela ne le soit pas
 parce que c’en est une pour qu’on en ait l’idée et qu’on le dise. Et
-puis du moment qu’elle l’a supporté si longtemps… Maintenant je sais
+puis du moment qu’elle l’a supporté si longtemps... Maintenant je sais
 bien qu’il y a tant de choses qu’on annonce à tort, qu’on dément, et
 puis qui plus tard deviennent vraies. » Cela me fit penser à lui
 demander s’il avait jamais été question, avant son mariage avec
@@ -1694,7 +1694,7 @@ indirecte pour laquelle elle avait utilisé depuis quelque temps un
 certain « parce que sans doute ». N’osant pas me dire : « Est-ce que
 cette dame a un hôtel ? » elle me disait, les yeux timidement levés
 comme ceux d’un bon chien : « Parce que sans doute cette dame a un hôtel
-particulier… », évitant l’interrogation flagrante, moins pour être polie
+particulier... », évitant l’interrogation flagrante, moins pour être polie
 que pour ne pas sembler curieuse. Enfin, comme les domestiques que nous
 aimons le plus — surtout s’ils ne nous rendent presque plus les services
 et les égards de leur emploi — restent, hélas, des domestiques et
@@ -1880,7 +1880,7 @@ pointe de coquetterie à citer un ennemi que mettait, par exemple, le
 colonel du Paty de Clam, dans la salle des témoins de l’affaire Zola, à
 réciter en passant devant Pierre Quillard, poète dreyfusard de la plus
 extrême violence et que, d’ailleurs, il ne connaissait pas, des vers de
-son drame symboliste : /La Fille aux mains coupées/. Saint-Loup me
+son drame symboliste : La Fille aux mains coupées. Saint-Loup me
 parlait-il d’une mélodie de Schumann, il n’en donnait le titre qu’en
 allemand et ne prenait aucune circonlocution pour me dire que quand, à
 l’aube, il avait entendu un premier gazouillement à la lisière d’une
@@ -2010,13 +2010,13 @@ tout instant être tué, mais ceci n’existait pas chez Saint-Loup, à
 Paris, à propos d’un raid insignifiant. Je lui parlai de la beauté des
 avions qui montaient dans la nuit. « Et peut-être encore plus de ceux
 qui descendent, me dit-il. Je reconnais que c’est très beau le moment où
-ils montent, où ils vont faire /constellation/ et obéissent en cela à
+ils montent, où ils vont faire constellation et obéissent en cela à
 des lois tout aussi précises que celles qui régissent les
 constellations, car ce qui te semble un spectacle est le ralliement des
 escadrilles, les commandements qu’on leur donne, leur départ en chasse,
 etc. Mais est-ce que tu n’aimes pas mieux le moment où, définitivement
 assimilés aux étoiles, ils s’en détachent pour partir en chasse ou
-rentrer après la berloque, le moment où ils « font /apocalypse/ », même
+rentrer après la berloque, le moment où ils « font apocalypse », même
 les étoiles ne gardant plus leur place. Et ces sirènes, était-ce assez
 wagnérien, ce qui, du reste, était bien naturel pour saluer l’arrivée
 des Allemands, ça faisait très hymne national, très Wacht am Rhein, avec
@@ -2025,7 +2025,7 @@ demander si c’était bien des aviateurs et pas plutôt des Walkyries qui
 montaient. » Il semblait avoir plaisir à cette assimilation des
 aviateurs et des Walkyries et l’expliquait, d’ailleurs, par des raisons
 purement musicales : « Dame, c’est que la musique des sirènes était
-d’une /Chevauchée/. Il faut décidément l’arrivée des Allemands pour
+d’une Chevauchée. Il faut décidément l’arrivée des Allemands pour
 qu’on puisse entendre du Wagner à Paris. » À certains points de vue la
 comparaison n’était pas fausse. La ville semblait une masse informe et
 noire qui tout d’un coup passait des profondeurs de la nuit dans la
@@ -2284,7 +2284,7 @@ Molé, dont le premier mouvement obéissait plutôt au bon sens qu’à la
 rancune. — Mais non, il est Prussien, disait la Patronne, mais je vous
 le dis, je le sais, il nous l’a assez répété qu’il était membre
 héréditaire de la Chambre des Seigneurs de Prusse et Durchlaucht. —
-Pourtant la reine de Naples m’avait dit… — Vous savez que c’est une
+Pourtant la reine de Naples m’avait dit... — Vous savez que c’est une
 affreuse espionne, s’écriait M^me Verdurin qui n’avait pas oublié
 l’attitude que la souveraine déchue avait eue un soir chez elle. Je le
 sais et d’une façon précise, elle ne vivait que de ça. Si nous avions un
@@ -2320,9 +2320,9 @@ au-dessus de M. de Charlus des hommes qui lui étaient infiniment
 inférieurs, mais qui prétendaient mépriser le monde et, en revanche,
 professaient des théories de sociologie et d’économie politique. M. de
 Charlus s’enchantait à raconter des mots involontairement lyriques, et à
-décrire les toilettes savamment gracieuses de la duchesse de X…, la
+décrire les toilettes savamment gracieuses de la duchesse de X..., la
 traitant de femme sublime, ce qui le faisait considérer comme une espèce
-d’imbécile par des femmes du monde qui trouvaient la duchesse de X… une
+d’imbécile par des femmes du monde qui trouvaient la duchesse de X... une
 sotte sans intérêt, que les robes sont faites pour être portées mais
 sans qu’on ait l’air d’y faire aucune attention, et qui, elles, plus
 intelligentes, couraient à la Sorbonne ou à la Chambre, si Deschanel
@@ -2421,7 +2421,7 @@ persuader qu’il pouvait sans inconvénient continuer à venir à ses
 réceptions. « Le chagrin se porte dans le cœur. Vous voudriez aller au
 bal (elle n’en donnait pas), je serais la première à vous le
 déconseiller, mais ici, à mes petits mercredis ou dans une baignoire,
-personne ne s’en étonnera. On sait bien que vous avez du chagrin… »
+personne ne s’en étonnera. On sait bien que vous avez du chagrin... »
 Maintenant les hommes étaient plus rares, les deuils plus fréquents,
 inutiles même à les empêcher d’aller dans le monde, la guerre suffisait.
 Elle voulait leur persuader qu’ils étaient plus utiles à la France en
@@ -2560,7 +2560,7 @@ avait obtenu de Cottard une ordonnance qui lui permettait de s’en faire
 faire dans certain restaurant dont nous avons parlé. Cela avait été
 presque aussi difficile à obtenir des pouvoirs publics que la nomination
 d’un général. Elle reprit son premier croissant le matin où les journaux
-narraient le naufrage du /Lusitania/. Tout en trempant le croissant dans
+narraient le naufrage du Lusitania. Tout en trempant le croissant dans
 le café au lait et donnant des pichenettes à son journal pour qu’il pût
 se tenir grand ouvert sans qu’elle eût besoin de détourner son autre
 main des trempettes, elle disait : « Quelle horreur ! Cela dépasse en
@@ -2571,7 +2571,7 @@ sur sa figure, amené probablement là par la saveur du croissant, si
 précieux contre la migraine, était plutôt celui d’une douce satisfaction.
 
 
-⁂
+
 
 
 M. de Charlus allait plus loin que ne pas souhaiter passionnément la
@@ -2852,7 +2852,7 @@ d’alléguer que M. de Norpois, dans sa déposition, avait dit en regardant
 Caillaux atterré : « Monsieur Caillaux, vous êtes le Giolitti de la
 France. » Mais le couple charmant avait souri, tourné M. de Norpois en
 ridicule, cité des preuves de son gâtisme et conclu qu’il avait dit cela
-devant M. Caillaux atterré, disait le /Figaro/, mais probablement, en
+devant M. Caillaux atterré, disait le Figaro, mais probablement, en
 réalité, devant M. Caillaux narquois. Les opinions du duc de Guermantes
 n’avaient pas tardé à changer. Attribuer ce changement à l’influence
 d’une Anglaise n’est pas aussi extraordinaire que cela eût pu paraître
@@ -3024,7 +3024,7 @@ niais pour achever la phrase que voici : « Comme il y a de fortes
 présomptions du même genre que pour Ferdinand de Cobourg à l’égard de
 l’Empereur Guillaume, cela pourrait être la cause pour laquelle le tzar
 Ferdinand s’est mis du côté des « Empires de proie ». Dame, au fond,
-c’est très compréhensible, on est indulgent pour une /sœur/, on ne lui
+c’est très compréhensible, on est indulgent pour une sœur, on ne lui
 refuse rien. Je trouve que ce serait très joli comme explication de
 l’alliance de la Bulgarie avec l’Allemagne. » Et de cette explication
 stupide M. de Charlus rit longuement comme s’il l’avait vraiment trouvée
@@ -3139,7 +3139,7 @@ vous ne savez pas les délices que vous vous refusez. C’est-à-dire que
 c’est d’un ridicule à mourir. » Et contente au fond que quelqu’un n’eût
 pas encore lu le Brichot pour avoir l’occasion d’en mettre elle-même en
 lumière les ridicules, M^me Verdurin disait au maître d’hôtel d’apporter
-/le Temps/ et faisait elle-même la lecture à haute voix, en faisant
+le Temps et faisait elle-même la lecture à haute voix, en faisant
 sonner avec emphase les phrases les plus simples. Après le dîner,
 pendant toute la soirée ; cette campagne anti-brichotiste continuait,
 mais avec de fausses réserves. « Je ne le dis pas trop haut parce que
@@ -3172,17 +3172,17 @@ surtout parce que, ancien antidreyfusard militant qui flairait la
 préparation germanique bien longtemps avant la guerre, il s’était trouvé
 écrire très souvent : « J’ai dénoncé dès 1897 » ; « j’ai signalé en
 1901 » ; « j’ai averti dans ma petite brochure aujourd’hui rarissime
-(/habent sua fata libelli/) », et ensuite l’habitude lui était restée.
+(habent sua fata libelli) », et ensuite l’habitude lui était restée.
 Il rougit fortement de l’observation de M^me Verdurin, qui lui fut faite
 d’un ton aigre. « Vous avez raison, Madame, quelqu’un qui n’aimait pas
 plus les jésuites que M. Combes, encore qu’il n’ait pas eu de préface de
 notre doux maître en scepticisme délicieux, Anatole France, qui fut si
-je ne me trompe mon adversaire… avant le Déluge, a dit que le /moi/ est
-toujours haïssable. » À partir de ce moment Brichot remplaça /je/ par
-/on/, mais /on/ n’empêchait pas le lecteur de voir que l’auteur parlait
+je ne me trompe mon adversaire... avant le Déluge, a dit que le moi est
+toujours haïssable. » À partir de ce moment Brichot remplaça je par
+on, mais on n’empêchait pas le lecteur de voir que l’auteur parlait
 de lui et permit à l’auteur de ne plus cesser de parler de lui, de
 commenter la moindre de ses phrases, de faire un article sur une seule
-négation, toujours à l’abri de /on/. Par exemple, Brichot avait-il dit,
+négation, toujours à l’abri de on. Par exemple, Brichot avait-il dit,
 fût-ce dans un autre article, que les armées allemandes avaient perdu de
 leur valeur, il commençait ainsi : « On ne camoufle pas ici la vérité.
 On a dit que les armées allemandes avaient perdu de leur valeur. On n’a
@@ -3227,7 +3227,7 @@ servent mais parmi les clients qui consomment. Mais on pouvait revoir un
 servant, bien qu’ils changeassent souvent, mais allez donc savoir qui
 est et quand reviendra ce lieutenant anglais qui vient pour la première
 fois et sera peut-être tué demain. Quand Auguste de Pologne, comme
-raconte le charmant Morand, l’auteur délicieux de /Clarisse/, échangea
+raconte le charmant Morand, l’auteur délicieux de Clarisse, échangea
 un de ses régiments contre une collection de potiches chinoises, il fit
 à mon avis une mauvaise affaire. Pensez que tous ces grands valets de
 pied qui avaient deux mètres de haut et qui ornaient les escaliers
@@ -3367,7 +3367,7 @@ leur frivolité apparente, elles eussent peut-être empêché bien des
 excès. J’ai toujours honoré ceux qui défendent la grammaire, ou la
 logique. On se rend compte cinquante ans après qu’ils ont conjuré de
 grands périls. Or nos nationalistes sont les plus germanophobes, les
-plus jusqu’auboutistes des hommes… Mais après quinze ans leur
+plus jusqu’auboutistes des hommes... Mais après quinze ans leur
 philosophie a changé entièrement. En fait, ils poussent bien à la
 continuation de la guerre. Mais ce n’est que pour exterminer une race
 belliqueuse et par amour de la paix. Car une civilisation guerrière, ce
@@ -3377,7 +3377,7 @@ l’élément militaire, mais en tout temps ils pensent que les
 civilisations militaires furent destructrices de tout ce qu’ils trouvent
 maintenant précieux, non seulement les arts, mais même la galanterie. Il
 suffit qu’un de leurs critiques se soit converti au nationalisme pour
-qu’il soit devenu du même coup un ami de la paix… Il est persuadé que,
+qu’il soit devenu du même coup un ami de la paix... Il est persuadé que,
 dans toutes les civilisations guerrières, la femme avait un rôle humilié
 et bas. On n’ose lui répondre que les « Dames » des chevaliers au moyen
 âge et la Béatrice de Dante étaient peut-être placées sur un trône aussi
@@ -3467,7 +3467,7 @@ parlant à ce moment-là, M. de Charlus, noble comme une espèce de
 Saint-Vallier ou de Saint-Mégrin, était droit, rigide, solennel, parlait
 gravement, ne faisait pour un moment aucune des manières où se révèlent
 ceux de sa sorte. Et pourtant, pourquoi ne peut-il y en avoir aucun dont
-la voix soit jamais absolument juste ?… Même en ce moment où elle
+la voix soit jamais absolument juste ?... Même en ce moment où elle
 approchait le plus du grave, elle était fausse encore et aurait eu
 besoin de l’accordeur. D’ailleurs, M. de Charlus ne savait littéralement
 où donner de la tête et il la levait souvent avec le regret de ne pas
@@ -3610,7 +3610,7 @@ commence à le plaindre ; ce n’est pas par coquetterie, elle serait
 inutile ; ce n’est pas par paresse, il y a des journées entières où je
 reste à me tourner les pouces, non, ce n’est à cause de rien de tout
 cela ; c’est, ne le dites jamais à personne et je suis fou de vous le
-dire, c’est, c’est… c’est… par peur ! » Il se mit à trembler de tous ses
+dire, c’est, c’est... c’est... par peur ! » Il se mit à trembler de tous ses
 membres. Je lui avouai que je ne le comprenais pas. « Non, ne me
 demandez pas, n’en parlons plus, vous ne le connaissez pas comme moi, je
 peux dire que vous ne le connaissez pas du tout. — Mais quel tort
@@ -3659,7 +3659,7 @@ m’a témoignées, tout spécialement dans ma lutte contre le mal. Je dois à
 ce serviteur, je le dis dans la plénitude de ma foi et de mon
 intelligence, que le Père céleste ait inspiré à Morel de ne pas venir.
 Aussi, c’est moi maintenant qui me meurs. Votre fidèlement dévoué,
-/Semper idem/, P. G. Charlus. » Alors je compris la peur de Morel ;
+Semper idem, P. G. Charlus. » Alors je compris la peur de Morel ;
 certes il y avait dans cette lettre bien de l’orgueil et de la
 littérature. Mais l’aveu était vrai. Et Morel savait mieux que moi que
 le « côté presque fou » que M^me de Guermantes trouvait chez son
@@ -3719,7 +3719,7 @@ en nos poilus, aux petits Parigots, tenez, comme celui qui passe là,
 avec son air dessalé, sa mine éveillée et drôle. Il m’arrive souvent de
 les arrêter, de faire un brin de causette avec eux, quelle finesse, quel
 bon sens ! et les gars de province, comme ils sont amusants et gentils
-avec leur roulement d’r et leur jargon patoiseur !… Moi, j’ai toujours
+avec leur roulement d’r et leur jargon patoiseur !... Moi, j’ai toujours
 beaucoup vécu à la campagne, couché dans les fermes, je sais leur
 parler, mais notre admiration pour les Français ne doit pas nous faire
 déprécier nos ennemis, ce serait nous diminuer nous-mêmes. Et vous ne
@@ -3742,7 +3742,7 @@ appuyer jusqu’à me faire aussi mal qu’autrefois, quand je faisais mon
 service militaire, le recul contre l’omoplate du « 76 » ), il me dit
 comme pour adoucir le reproche : « Oui, nous nous sommes abîmés dans le
 dilettantisme, nous tous, vous aussi, rappelez-vous, vous pouvez faire
-comme moi votre /mea culpa/, nous avons été trop dilettantes. » Par
+comme moi votre mea culpa, nous avons été trop dilettantes. » Par
 surprise du reproche, manque d’esprit de repartie, déférence envers mon
 interlocuteur et attendrissement pour son amicale bonté, je répondis
 comme si, ainsi qu’il m’y invitait, j’avais aussi à me frapper la
@@ -3781,8 +3781,8 @@ choses et aux êtres qu’en peintre, en philosophe. D’ailleurs je suis
 trop vieux. Mais quel malheur, pour compléter le tableau, que l’un de
 nous deux ne soit pas une odalisque. » Ce ne fut pas l’Orient de
 Decamps, ni même de Delacroix qui commença de hanter mon imagination
-quand le baron m’eut quitté, mais le vieil Orient de ces /Mille et une
-Nuits/ que j’avais tant aimées, et, me perdant peu à peu dans le lacis
+quand le baron m’eut quitté, mais le vieil Orient de ces Mille et une
+Nuits que j’avais tant aimées, et, me perdant peu à peu dans le lacis
 de ces rues noires, je pensais au calife Haroun Al Raschid en quête
 d’aventures dans les quartiers perdus de Bagdad. D’autre part, la
 chaleur du temps et de la marche m’avait donné soif, mais depuis
@@ -3967,7 +3967,7 @@ qu’ils sont malades. Malades, je t’en fiche, c’est des gens à prendre de
 la coco, ils ont l’air à moitié piqués, il faut les foutre dehors.
 A-t-on mis une paire de draps au 22 ? Bon ! voilà le 7 qui sonne encore,
 cours-y voir. Allons, Maurice, qu’est-ce que tu fais là, tu sais bien
-qu’on t’attend, monte au 14 /bis/. Et plus vite que ça. » Et Maurice
+qu’on t’attend, monte au 14 bis. Et plus vite que ça. » Et Maurice
 sortit rapidement, suivant le patron qui, un peu ennuyé que j’eusse vu
 ses chaînes, disparut en les emportant. « Comment que tu viens si
 tard ? » demanda le jeune homme de vingt-deux ans au chauffeur.
@@ -4210,11 +4210,11 @@ par allusion à un journal qui paraissait à cette époque : « l’Homme
 enchaîné ». « Ce n’est pas long pour toi qui es allé prendre l’air,
 répondit Maurice, froissé qu’on vît qu’il avait déplu là-haut. Mais si
 tu étais obligé de taper à tour de bras comme moi, par cette chaleur !
-Si c’était pas les cinquante francs qu’il donne… — Et puis, c’est un
+Si c’était pas les cinquante francs qu’il donne... — Et puis, c’est un
 homme qui cause bien ; on sent qu’il a de l’instruction. Dit-il que ce
 sera bientôt fini ? — Il dit qu’on ne pourra pas les avoir, que ça
 finira sans que personne ait le dessus. — Bon sang de bon sang, mais
-c’est donc un Boche… — Je vous ai dit que vous causiez trop haut, dit le
+c’est donc un Boche... — Je vous ai dit que vous causiez trop haut, dit le
 plus vieux aux autres en m’apercevant. Vous avez fini avec la chambre ?
 — Ah ! ta gueule, tu n’es pas le maître ici. — Oui, j’ai fini, et je
 venais pour payer. — Il vaut mieux que vous payiez au patron. Maurice,
@@ -4289,7 +4289,7 @@ bougez pas. » Et après m’avoir poussé dans le noir, il me quitta.
 D’ailleurs, il n’avait pas d’autre chambre à me donner, son hôtel,
 malgré la guerre, étant plein. Celle que je venais de quitter avait été
 prise par le vicomte de Courvoisier qui, ayant pu quitter la Croix-Rouge
-de X… pour deux jours, était venu se délasser une heure à Paris avant
+de X... pour deux jours, était venu se délasser une heure à Paris avant
 d’aller retrouver au château de Courvoisier la vicomtesse, à qui il
 dirait n’avoir pas pu prendre le bon train. Il ne se doutait guère que
 M. de Charlus était à quelques mètres de lui, et celui-ci ne s’en
@@ -4356,7 +4356,7 @@ bravement tuer jusqu’au dernier », dit M. de Charlus comme si c’était la
 chose la plus simple du monde et bien qu’il n’eût lui-même l’intention
 de faire quoi que ce soit, mais pensant par là corriger l’impression de
 pacifisme qu’il donnait quand il s’oubliait. « Je n’en doute pas, mais
-je me demande jusqu’à quel point /Madame/ Sarah Bernhardt est qualifiée
+je me demande jusqu’à quel point Madame Sarah Bernhardt est qualifiée
 pour parler au nom de la France. Mais, ajouta-t-il, il me semble que je
 ne connais pas ce charmant, ce délicieux jeune homme », en avisant un
 autre qu’il ne reconnaissait pas ou qu’il n’avait peut-être jamais vu.
@@ -4410,7 +4410,7 @@ blairait pas les flics et pousser l’audace jusqu’à dire au baron :
 sentait le chiqué, comme dans les livres des auteurs qui s’efforcent
 pour parler argot. C’est en vain que le jeune homme détailla toutes les
 « saloperies » qu’il faisait avec sa femme. M. de Charlus fut seulement
-frappé combien ces saloperies se bornaient à peu de chose… Au reste, ce
+frappé combien ces saloperies se bornaient à peu de chose... Au reste, ce
 n’était pas seulement par insincérité. Rien n’est plus limité que le
 plaisir et le vice. On peut vraiment, dans ce sens-là et en changeant le
 sens de l’expression, dire qu’on tourne toujours dans le même cercle
@@ -4516,8 +4516,8 @@ unis, alternant l’un avec l’autre, chez M. de Charlus qui ne trouvait
 personne d’assez élégant pour ses relations mondaines, ni de frisant
 assez l’apache pour les autres. « Je déteste le genre moyen, disait-il,
 la comédie bourgeoise est guindée, il me faut ou les princesses de la
-tragédie classique ou la grosse farce. Pas de milieu, /Phèdre/ ou /Les
-Saltimbanques/. » Mais enfin l’équilibre entre ces deux snobismes avait
+tragédie classique ou la grosse farce. Pas de milieu, Phèdre ou Les
+Saltimbanques. » Mais enfin l’équilibre entre ces deux snobismes avait
 été rompu. Peut-être fatigue de vieillard, ou extension de la sensualité
 aux relations les plus banales, le baron ne vivait plus qu’avec des
 « inférieurs », prenant ainsi sans le savoir la succession de tel de ses
@@ -4597,8 +4597,8 @@ fait lui-même, quand il avait pour m’accueillir, Françoise ou moi, dans
 la cour de notre maison, de si gracieuses paroles : « Vous parlez de
 bien des contes des Mille et une Nuits, me dit-il. Mais j’en connais un
 qui n’est pas sans rapport avec le titre d’un livre que je crois avoir
-aperçu chez le baron (il faisait allusion à une traduction de /Sésame et
-les Lys/, de Ruskin, que j’avais envoyée à M. de Charlus). Si jamais
+aperçu chez le baron (il faisait allusion à une traduction de Sésame et
+les Lys, de Ruskin, que j’avais envoyée à M. de Charlus). Si jamais
 vous étiez curieux, un soir, de voir, je ne dis pas quarante, mais une
 dizaine de voleurs, vous n’avez qu’à venir ici ; pour savoir si je suis
 là vous n’avez qu’à regarder là-haut, je laisse ma petite fenêtre
@@ -4869,8 +4869,8 @@ ciel comme un habitant de Sodome. » Et il affectait de redouter les
 gothas, non qu’il en éprouvât l’ombre de peur, mais pour avoir le
 prétexte, dès que les sirènes retentissaient, de se précipiter dans les
 abris du métropolitain où il espérait quelque plaisir des frôlements
-dans la nuit, avec de vagues rêves de souterrains moyenâgeux et d’/in
-pace/. En somme, son désir d’être enchaîné, d’être frappé, trahissait
+dans la nuit, avec de vagues rêves de souterrains moyenâgeux et d’in
+pace. En somme, son désir d’être enchaîné, d’être frappé, trahissait
 dans sa laideur un rêve aussi poétique que chez d’autres le désir
 d’aller à Venise ou d’entretenir des danseuses. Et M. de Charlus tenait
 tellement à ce que ce rêve lui donnât l’illusion de la réalité, que
@@ -5009,7 +5009,7 @@ juste tomber sur notre maison. Du reste, Françoise commençait à être
 reprise par moment de son pacifisme de Combray. Elle avait presque des
 doutes sur les « atrocités allemandes ». « Au commencement de la guerre
 on nous disait que ces Allemands c’était des assassins, des brigands, de
-vrais bandits, des Bbboches… » (si elle mettait plusieurs b à Boches,
+vrais bandits, des Bbboches... » (si elle mettait plusieurs b à Boches,
 c’est que l’accusation que les Allemands fussent des assassins lui
 semblait après tout plausible, mais celle qu’ils fussent des Boches,
 presque invraisemblable à cause de son énormité). Seulement il était
@@ -5520,8 +5520,8 @@ qu’Albertine était allée avec Andrée, à la signification philosophique
 que semble prendre un chemin qu’on a suivi mille fois avec une passion
 qui ne dure plus et qui n’a pas porté de fruit, comme celui où, après le
 déjeuner, je faisais des courses si hâtives, si fiévreuses, pour
-regarder, toutes fraîches encore de colle, l’affiche de /Phèdre/ et
-celle du /Domino noir/. Arrivé aux Champs-Élysées, comme je n’étais pas
+regarder, toutes fraîches encore de colle, l’affiche de Phèdre et
+celle du Domino noir. Arrivé aux Champs-Élysées, comme je n’étais pas
 très désireux d’entendre tout le concert qui était donné chez les
 Guermantes, je fis arrêter la voiture et j’allais m’apprêter à descendre
 pour faire quelques pas à pied quand je fus frappé par le spectacle
@@ -5740,7 +5740,7 @@ Monsieur, il vaut mieux que je vous quitte et que je ne laisse pas un
 instant seul mon malade qui n’est plus qu’un grand enfant. »
 
 
-⁂
+
 
 
 Je descendis de nouveau de voiture un peu avant d’arriver chez la
@@ -6387,8 +6387,8 @@ je m’étais souvenu de ce que les Goncourt disent des belles éditions
 originales qu’elle contient, je m’étais promis de les regarder tant que
 j’étais enfermé ici. Et tout en poursuivant mon raisonnement, je tirais
 un à un, sans trop y faire attention du reste, les précieux volumes,
-quand, au moment où j’ouvrais distraitement l’un d’eux : /François le
-Champi/ de George Sand, je me sentis désagréablement frappé comme par
+quand, au moment où j’ouvrais distraitement l’un d’eux : François le
+Champi de George Sand, je me sentis désagréablement frappé comme par
 quelque impression trop en désaccord avec mes pensées actuelles,
 jusqu’au moment où, avec une émotion qui alla jusqu’à me faire pleurer,
 je reconnus combien cette impression était d’accord avec elles. Tel, à
@@ -6404,17 +6404,17 @@ Tel, je venais de reconnaître la douloureuse impression que j’avais
 éprouvée, en lisant le titre d’un livre dans la bibliothèque du prince
 de Guermantes, titre qui m’avait donné l’idée que la littérature nous
 offrait vraiment ce monde du mystère que je ne trouvais plus en elle. Et
-pourtant ce n’était pas un livre bien extraordinaire, c’était /François
-le Champi/, mais ce nom-là, comme le nom des Guermantes, n’était pas
+pourtant ce n’était pas un livre bien extraordinaire, c’était François
+le Champi, mais ce nom-là, comme le nom des Guermantes, n’était pas
 pour moi comme ceux que j’avais connus depuis. Le souvenir de ce qui
-m’avait semblé inexplicable dans le sujet de /François le Champi/,
+m’avait semblé inexplicable dans le sujet de François le Champi,
 tandis que maman me lisait le livre de George Sand, était réveillé par
 ce titre, aussi bien que le nom de Guermantes (quand je n’avais pas vu
 les Guermantes depuis longtemps) contenait pour moi tant de féodalité —
-comme /François le Champi/ l’essence du roman — et se substituait pour
+comme François le Champi l’essence du roman — et se substituait pour
 un instant à l’idée fort commune de ce que sont les romans berrichons de
 George Sand. Dans un dîner, quand la pensée reste toujours à la surface,
-j’aurais pu sans doute parler de /François le Champi/ et des Guermantes
+j’aurais pu sans doute parler de François le Champi et des Guermantes
 sans que ni l’un ni l’autre fussent ceux de Combray. Mais quand j’étais
 seul, comme en ce moment, c’est à une profondeur plus grande que j’avais
 plongé. À ce moment-là l’idée que telle personne dont j’avais fait la
@@ -6422,7 +6422,7 @@ connaissance dans le monde était la cousine de M^me de Guermantes,
 c’est-à-dire d’un personnage de lanterne magique, me semblait
 incompréhensible, et tout autant que les plus beaux livres que j’avais
 lus fussent — je ne dis pas même supérieurs, ce qu’ils étaient pourtant
-— mais égaux à cet extraordinaire /François le Champi/. C’était une
+— mais égaux à cet extraordinaire François le Champi. C’était une
 impression d’enfance bien ancienne, où mes souvenirs d’enfance et de
 famille étaient tendrement mêlés et que je n’avais pas reconnue tout de
 suite. Je m’étais au premier instant demandé avec colère quel était
@@ -6480,9 +6480,9 @@ nous lûmes ne restent pas unis à jamais seulement à ce qu’il y avait
 autour de nous ; il le reste aussi fidèlement à ce que nous étions
 alors, il ne peut plus être repassé que par la sensibilité, par la
 personne que nous étions alors ; si je reprends, même par la pensée,
-dans la bibliothèque, /François le Champi/, immédiatement en moi un
+dans la bibliothèque, François le Champi, immédiatement en moi un
 enfant se lève qui prend ma place, qui seul a le droit de lire ce
-titre : /François le Champi/, et qui le lit comme il le lut alors, avec
+titre : François le Champi, et qui le lit comme il le lut alors, avec
 la même impression du temps qu’il faisait dans le jardin, les mêmes
 rêves qu’il formait alors sur les pays et sur la vie, la même angoisse
 du lendemain. Que je revoie une chose d’un autre temps, c’est un autre
@@ -6521,7 +6521,7 @@ historique en quelque sorte, d’un livre ne serait pas perdue pour moi.
 Mais c’est plus volontiers de l’histoire de ma propre vie, c’est-à-dire
 non pas en simple curieux, que je la dégagerais ; et ce serait souvent
 non pas à l’exemplaire matériel que je l’attacherais, mais à l’ouvrage,
-comme à ce /François le Champi/ contemplé pour la première fois dans ma
+comme à ce François le Champi contemplé pour la première fois dans ma
 petite chambre de Combray, pendant la nuit peut-être la plus douce et la
 plus triste de ma vie — où j’avais, hélas (dans un temps où me
 paraissaient bien inaccessibles les mystérieux Guermantes), obtenu de
@@ -6560,7 +6560,7 @@ dangereux que, même en ce sens, le seul que je pusse comprendre, je ne
 serais pas tenté d’être bibliophile. Je sais trop combien ces images
 laissées par l’esprit sont aisément effacées par l’esprit. Aux anciennes
 il en substitue de nouvelles qui n’ont plus le même pouvoir de
-résurrection. Et si j’avais encore le /François le Champi/ que maman
+résurrection. Et si j’avais encore le François le Champi que maman
 sortit un soir du paquet de livres que ma grand’mère devait me donner
 pour ma fête, je ne le regarderais jamais ; j’aurais trop peur d’y
 insérer peu à peu de mes impressions d’aujourd’hui couvrant complètement
@@ -6571,7 +6571,7 @@ Combray, l’enfant, ne reconnaissant pas son accent, ne répondît plus à
 son appel et restât pour toujours enterré dans l’oubli.
 
 
-⁂
+
 
 
 L’idée d’un art populaire comme d’un art patriotique, si même elle
@@ -6596,10 +6596,10 @@ détruisaient pas, les œuvres de Watteau et de La Tour, peintres qui
 honoraient davantage la France que tous ceux de la Révolution.
 L’anatomie n’est peut-être pas ce que choisirait un cœur tendre, si l’on
 avait le choix. Ce n’est pas la bonté de son cœur vertueux, laquelle
-était fort grande, qui a fait écrire à Choderlos de Laclos les /Liaisons
-Dangereuses/, ni son goût pour la bourgeoisie, petite ou grande, qui a
-fait choisir à Flaubert comme sujets ceux de /Madame Bovary/ et de
-/l’Éducation Sentimentale/. Certains disaient que l’art d’une époque de
+était fort grande, qui a fait écrire à Choderlos de Laclos les Liaisons
+Dangereuses, ni son goût pour la bourgeoisie, petite ou grande, qui a
+fait choisir à Flaubert comme sujets ceux de Madame Bovary et de
+l’Éducation Sentimentale. Certains disaient que l’art d’une époque de
 hâte serait bref, comme ceux qui prédisaient avant la guerre qu’elle
 serait courte. Le chemin de fer devait aussi tuer la contemplation, il
 était vain de regretter le temps des diligences, mais l’automobile
@@ -7012,7 +7012,7 @@ monocle, tel pour la colère, tel pour le mouvement avantageux du bras,
 etc. Et alors l’écrivain se rend compte que si son rêve d’être un
 peintre n’était pas réalisable d’une manière consciente et volontaire,
 il se trouve pourtant avoir été réalisé et que l’écrivain lui aussi a
-fait son carnet de croquis sans le savoir… Car, mû par l’instinct qui
+fait son carnet de croquis sans le savoir... Car, mû par l’instinct qui
 était en lui, l’écrivain, bien avant qu’il crût le devenir un jour,
 omettait régulièrement de regarder tant de choses que les autres
 remarquent, ce qui le faisait accuser par les autres de distraction et
@@ -7386,7 +7386,7 @@ L’écrivain ne doit pas s’offenser que l’inverti donne à ses héroïnes u
 visage masculin. Cette particularité un peu aberrante permet seule à
 l’inverti de donner ensuite à ce qu’il lit toute sa généralité. Si M. de
 Charlus n’avait pas donné à l’« infidèle » sur qui Musset pleure dans la
-/Nuit d’Octobre/ ou dans le /Souvenir/ le visage de Morel, il n’aurait
+Nuit d’Octobre ou dans le Souvenir le visage de Morel, il n’aurait
 ni pleuré, ni compris, puisque c’était par cette seule voie, étroite et
 détournée, qu’il avait accès aux vérités de l’amour. L’écrivain ne dit
 que par une habitude prise dans le langage insincère des préfaces et des
@@ -7395,7 +7395,7 @@ lit, le propre lecteur de soi-même. L’ouvrage de l’écrivain n’est qu’u
 espèce d’instrument optique qu’il offre au lecteur afin de lui permettre
 de discerner ce que, sans ce livre, il n’eût peut-être pas vu en
 soi-même. La reconnaissance en soi-même, par le lecteur, de ce que dit
-le livre est la preuve de la vérité de celui-ci, et /vice versa/, au
+le livre est la preuve de la vérité de celui-ci, et vice versa, au
 moins dans une certaine mesure, la différence entre les deux textes
 pouvant être souvent imputée non à l’auteur mais au lecteur. De plus, le
 livre peut être trop savant, trop obscur pour le lecteur naïf et ne lui
@@ -7639,7 +7639,7 @@ jalousie de la belle fille dont déjà nous ne sommes plus jaloux et que
 nous n’aimons plus.
 
 
-⁂
+
 
 
 À ce moment le maître d’hôtel vint me dire que, le premier morceau étant
@@ -7693,14 +7693,14 @@ un trait qui m’était personnel, cependant j’étais rassuré en découvrant
 qu’il s’apparentait à des traits moins marqués, mais reconnaissables,
 discernables et, au fond, assez analogues chez certains écrivains.
 N’est-ce pas à mes sensations du genre de celle de la madeleine qu’est
-suspendue la plus belle partie des /Mémoires d’Outre-Tombe :/ « Hier au
-soir je me promenais seul… je fus tiré de mes réflexions par le
+suspendue la plus belle partie des Mémoires d’Outre-Tombe : « Hier au
+soir je me promenais seul... je fus tiré de mes réflexions par le
 gazouillement d’une grive perchée sur la plus haute branche d’un
 bouleau. À l’instant, ce son magique fit reparaître à mes yeux le
 domaine paternel ; j’oubliai les catastrophes dont je venais d’être le
 témoin et, transporté subitement dans le passé, je revis ces campagnes
 où j’entendis si souvent siffler la grive. » Et une des deux ou trois
-plus belles phrases de ces /Mémoires/ n’est-elle pas celle-ci : « Une
+plus belles phrases de ces Mémoires n’est-elle pas celle-ci : « Une
 odeur fine et suave d’héliotrope s’exhalait d’un petit carré de fèves en
 fleurs ; elle ne nous était point apportée par une brise de la patrie,
 mais par un vent sauvage de Terre-Neuve, sans relation avec la plante
@@ -7708,8 +7708,8 @@ exilée, sans sympathie de réminiscence et de volupté. Dans ce parfum,
 non respiré de la beauté, non épuré dans son sein, non répandu sur ses
 traces, dans ce parfum chargé d’aurore, de culture et de monde, il y
 avait toutes les mélancolies des regrets, de l’absence et de la
-jeunesse. » Un des chefs-d’œuvre de la littérature française, /Sylvie/,
-de Gérard de Nerval, a, tout comme le livre des /Mémoires d’Outre-Tombe/
+jeunesse. » Un des chefs-d’œuvre de la littérature française, Sylvie,
+de Gérard de Nerval, a, tout comme le livre des Mémoires d’Outre-Tombe
 relatif à Combourg, une sensation du même genre que le goût de la
 madeleine et « le gazouillement de la grive ». Chez Baudelaire enfin,
 ces réminiscences, plus nombreuses encore, sont évidemment moins
@@ -7910,7 +7910,7 @@ non d’un monument, mais d’une personne située dans la perspective
 déformante du Temps.
 
 Quant à la femme dont M. d’Argencourt avait été l’amant, elle n’avait
-pas beaucoup changé, /si on tenait compte du temps passé/, c’est-à-dire
+pas beaucoup changé, si on tenait compte du temps passé, c’est-à-dire
 que son visage n’était pas trop complètement démoli pour celui d’un être
 qui se déforme tout le long de son trajet dans l’abîme où il est lancé,
 abîme dont nous ne pouvons exprimer la direction que par des
@@ -7969,7 +7969,7 @@ participant vraiment à la vraie vie mystérieuse qu’on menait chez les
 Guermantes, un de ses amis au même titre que M. de Bréauté, que M. de
 Forestelle, que Swann, que tous ceux qui étaient morts, j’aurais pu en
 être flatté, j’en étais surtout malheureux. « Son plus vieil ami ! me
-dis-je, elle exagère ; peut-être un des plus vieux, mais suis-je donc… »
+dis-je, elle exagère ; peut-être un des plus vieux, mais suis-je donc... »
 À ce moment un neveu du prince s’approcha de moi : « Vous qui êtes un
 vieux Parisien », me dit-il. Un instant après on me remit un mot.
 J’avais rencontré, en arrivant, un jeune Létourville, dont je ne savais
@@ -8052,7 +8052,7 @@ bienveillant me rassura en me disant : « Non, cela atteint plutôt les
 personnes encore jeunes, les gens de votre âge ne risquent plus
 grand’chose. » Et on assura que le personnel m’avait bien reconnu. Ils
 avaient chuchoté mon nom, et même « dans leur langage », raconta une
-dame, elle les avait entendus dire : « Voilà le Père… » (cette
+dame, elle les avait entendus dire : « Voilà le Père... » (cette
 expression était suivie de mon nom. Et comme je n’avais pas d’enfant,
 elle ne pouvait se rapporter qu’à l’âge).
 
@@ -8132,7 +8132,7 @@ malgré ce que le problème avait d’ardu, sur la voie de la solution.
 Parfois pourtant, l’ancienne image renaissait assez précise pour que je
 puisse essayer une confrontation ; et comme un témoin mis en présence
 d’un inculpé qu’il a vu, j’étais forcé, tant la différence était grande,
-de dire : « Non… je ne le reconnais pas. »
+de dire : « Non... je ne le reconnais pas. »
 
 Une jeune femme me dit : « Voulez-vous que nous allions dîner tous les
 deux au restaurant ? » Comme je répondais : « Si vous ne trouvez pas
@@ -8585,7 +8585,7 @@ lesquelles on essaye, soit de tirer parti d’un avantage extérieur, soit
 de pallier un défaut ; ils avaient l’air d’être définitivement devenus
 d’immutables instantanés d’eux-mêmes.
 
-Tous ces gens avaient mis tant de /temps/ à revêtir leur déguisement que
+Tous ces gens avaient mis tant de temps à revêtir leur déguisement que
 celui-ci passait généralement inaperçu de ceux qui vivaient avec eux.
 Même un délai leur était souvent concédé où ils pouvaient continuer
 assez tard à rester eux-mêmes. Mais alors ce déguisement prorogé se
@@ -8960,7 +8960,7 @@ longtemps que tu me parlais de son charme incomparable, de sa
 merveilleuse beauté. Certes, je reconnais qu’elle a grand air, et elle a
 bien ces yeux extraordinaires dont tu me parlais, mais enfin je ne la
 trouve pas tellement inouïe que tu disais. Évidemment elle est très
-racée, mais enfin… » Je fus obligé de dire à Bloch qu’il ne me parlait
+racée, mais enfin... » Je fus obligé de dire à Bloch qu’il ne me parlait
 pas de la même personne. La princesse de Guermantes, en effet, était
 morte et c’est l’ex-Madame Verdurin que le prince, ruiné par la défaite
 allemande, avait épousée et que Bloch ne reconnaissait pas. « Tu te
@@ -9322,7 +9322,7 @@ aux gens du peuple et qui croient alternativement, selon leur journal,
 que M. Loubet et M. Reinach sont des voleurs ou de grands citoyens. Pour
 mon interlocutrice, M^me Leroi avait été une espèce de M^me Verdurin
 première manière, avec moins d’éclat et dont le petit clan eût été
-limité au seul Bergotte… Cette jeune femme est, d’ailleurs, une des
+limité au seul Bergotte... Cette jeune femme est, d’ailleurs, une des
 dernières qui, par un pur hasard, ait entendu le nom de M^me Leroi.
 Aujourd’hui personne ne sait plus qui c’est, ce qui est, du reste,
 parfaitement juste. Son nom ne figure même pas dans l’index des mémoires
@@ -9421,7 +9421,7 @@ une attention moins soutenue à mes ripostes que je n’avais fait
 autrefois à ses attaques, parce que j’étais alors pour lui un bien plus
 petit personnage qu’il n’était pour moi, il avait entièrement oublié
 notre inimitié. Mon nom lui rappelait tout au plus qu’il avait dû me
-voir, ou quelqu’un des miens, chez une de ses tantes… Et ne sachant pas
+voir, ou quelqu’un des miens, chez une de ses tantes... Et ne sachant pas
 au juste s’il se faisait présenter ou représenter, il se hâta de me
 parler de sa tante, chez qui il ne doutait pas qu’il avait dû me
 rencontrer, se rappelant qu’on y parlait souvent de moi, mais non de nos
@@ -9477,7 +9477,7 @@ d’Haussonville, un des premiers seigneurs du royaume, tirait vanité
 auprès de M. de Broglie de ne pas connaître le père de M^me de Staël et
 de ne pas pouvoir plus le présenter que M. de Broglie ne pouvait le
 présenter lui-même, ne se doutant guère que leurs fils épouseraient un
-jour l’un la fille, l’autre la petite-fille de l’auteur de /Corinne/. Je
+jour l’un la fille, l’autre la petite-fille de l’auteur de Corinne. Je
 me rendais compte, d’après ce que me disait la duchesse de Guermantes,
 que j’aurais pu faire dans ce monde la figure d’homme élégant non titré,
 mais qu’on croit volontiers affilié de tout temps à l’aristocratie, que
@@ -9555,7 +9555,7 @@ gastrique, mais selon qu’ils le lui empruntent à un moment plus ou moins
 avancé de l’ingestion du remède.
 
 
-⁂
+
 
 
 Ainsi, à chacun des moments de sa durée, le nom de Guermantes, considéré
@@ -9784,7 +9784,7 @@ rien retrouver de ce qui avait fait leur mystère, leur fièvre et leur
 douceur.
 
 
-⁂
+
 
 
 « Que devient la marquise d’Arpajon ? demanda M^me de Cambremer. — Mais
@@ -9865,7 +9865,7 @@ l’obligation de faire des visites. Toutefois, comme je l’ai dit, ce
 n’est pas ainsi que la mort de M. Verdurin avait été accueillie par Elstir.
 
 
-⁂
+
 
 
 Une dame sortit, car elle avait d’autres matinées et devait aller goûter
@@ -9920,7 +9920,7 @@ mi-s’excusant de ne pouvoir soutenir la gaîté longtemps, mais jusqu’au
 bout elle était décidée à « participer », à « faire clan ».
 
 
-⁂
+
 
 
 Je m’étais assis à côté de Gilberte de Saint-Loup. Nous parlâmes
@@ -9958,7 +9958,7 @@ marche foudroyante sur Paris, d’autres des coups de boutoir désordonnés
 pour détruire l’armée anglaise. Et même si les ordres donnés par le chef
 s’opposent à telles ou telles conceptions, il restera toujours aux
 critiques le moyen de dire, comme Mounet-Sully à Coquelin qui l’assurait
-que le /Misanthrope/ n’était pas la pièce triste, dramatique qu’il
+que le Misanthrope n’était pas la pièce triste, dramatique qu’il
 voulait jouer (car Molière, au témoignage des contemporains, en donnait
 une interprétation comique et y faisait rire) : « Hé bien, c’est que
 Molière se trompait. »
@@ -9986,8 +9986,8 @@ retrouver la tranchée de M^me de Sévigné — en Orient, à propos du siège
 de Kout-el-Amara (Kout-l’émir, comme nous disons Vaux-le-Vicomte et
 Boilleau-l’Évêque, aurait dit le curé de Combray, s’il avait étendu sa
 soif d’étymologie aux langues orientales), de voir revenir auprès de
-Bagdad ce nom de Bassorah dont il est tant question dans les /Mille et
-une Nuits/ et que gagne chaque fois, après avoir quitté Bagdad ou avant
+Bagdad ce nom de Bassorah dont il est tant question dans les Mille et
+une Nuits et que gagne chaque fois, après avoir quitté Bagdad ou avant
 d’y rentrer, pour s’embarquer ou débarquer, bien avant le général
 Townsend, aux temps des Khalifes, Simbad le Marin.
 
@@ -10216,8 +10216,8 @@ exemple, la femme de chambre de M^me Putbus, M^lle d’Orgeville, ou telle
 jeune fille dont j’avais vu le nom dans le compte rendu mondain d’un
 journal, parmi l’essaim des charmantes valseuses. Je la devinais belle,
 m’éprenais d’elle, et lui composais un corps idéal dominant de toute sa
-hauteur un paysage de la province où j’avais lu, dans l’/Annuaire des
-Châteaux/, que se trouvaient les propriétés de sa famille. Pour les
+hauteur un paysage de la province où j’avais lu, dans l’Annuaire des
+Châteaux, que se trouvaient les propriétés de sa famille. Pour les
 femmes que j’avais connues, ce paysage était au moins double. Chacune
 s’élevait, à un point différent de ma vie, dressée comme une divinité
 protectrice et locale, d’abord au milieu d’un de ces paysages rêvés dont
@@ -10371,7 +10371,7 @@ maîtresse de maison vint chercher Rachel dont c’était le moment de
 réciter et qui bientôt, ayant quitté la duchesse, parut sur l’estrade.
 
 
-⁂
+
 
 
 Or, pendant ce temps, avait lieu à l’autre bout de Paris un spectacle
@@ -10402,7 +10402,7 @@ sa fille, elle craignait, si elle le mécontentait, qu’il la privât, par
 méchanceté, de voir celle-ci. La fille de la Berma, qui n’était
 cependant pas positivement cruelle et était aimée en secret par le
 médecin qui soignait sa mère, s’était laissé persuader que ces
-représentations de /Phèdre/ n’étaient pas bien dangereuses pour la
+représentations de Phèdre n’étaient pas bien dangereuses pour la
 malade. Elle avait en quelque sorte forcé le médecin à le lui dire,
 n’ayant retenu que cela de ce qu’il lui avait répondu, et parmi des
 objections dont elle ne tenait pas compte ; en effet, le médecin avait
@@ -10520,7 +10520,7 @@ des deux c’était, achever de manger, avec sa fille et son gendre, les
 gâteaux funéraires.
 
 
-⁂
+
 
 
 La conversation que nous tenions, Gilberte et moi, fut interrompue par
@@ -10615,8 +10615,8 @@ du devoir, soit par désir d’ostentation.
 « C’était bien beau », dit-il à Rachel, et ayant dit ces simples mots,
 son désir étant satisfait, il repartit et fit tant de bruit pour
 regagner sa place que Rachel dut attendre plus de cinq minutes avant de
-réciter la seconde poésie. Quand elle eut fini celle-ci, /les Deux
-Pigeons/, M^me de Monrienval s’approcha de M^me de Saint-Loup, qu’elle
+réciter la seconde poésie. Quand elle eut fini celle-ci, les Deux
+Pigeons, M^me de Monrienval s’approcha de M^me de Saint-Loup, qu’elle
 savait fort lettrée sans se rappeler assez qu’elle avait l’esprit subtil
 et sarcastique de son père, et lui demanda : « C’est bien la fable de La
 Fontaine, n’est-ce pas ? » croyant bien l’avoir reconnue mais n’étant
@@ -10636,8 +10636,8 @@ Gilberte répondit sous cette forme fantaisiste de Swann à laquelle se
 trompaient les gens qui prennent tout au pied de la lettre : « Un quart
 est de l’invention de l’interprète, un quart de la folie, un quart n’a
 aucun sens, le reste est de La Fontaine », ce qui permit à M^me de
-Morienval de soutenir que ce qu’on venait d’entendre n’était pas /les
-Deux Pigeons/ de La Fontaine mais un arrangement où tout au plus un
+Morienval de soutenir que ce qu’on venait d’entendre n’était pas les
+Deux Pigeons de La Fontaine mais un arrangement où tout au plus un
 quart était de La Fontaine, ce qui n’étonna personne, vu
 l’extraordinaire ignorance de ce public.
 
@@ -10729,7 +10729,7 @@ donnait à sa voix quelque chose de rauque. Comme je lui parlais de
 Brichot : « Il m’a assez embêtée pendant vingt ans », et comme M^me de
 Cambremer disait : « Relisez ce que Schopenhauer dit de la musique »,
 elle nous fit remarquer cette phrase en disant avec violence :
-« /Relisez/ est un chef-d’œuvre ! Ah ! non, ça, par exemple, il ne faut
+« Relisez est un chef-d’œuvre ! Ah ! non, ça, par exemple, il ne faut
 pas nous la faire. » Alors le vieux d’Albon sourit en reconnaissant une
 des formes de l’esprit Guermantes.
 
@@ -10791,7 +10791,7 @@ plus frappant maintenant. » Cette ressemblance n’avait rien
 d’extraordinaire. On sait, en effet, que certaines femmes se projettent
 en quelque sorte elles-mêmes en un autre être avec la plus grande
 exactitude, la seule erreur est dans le sexe. Erreur dont on ne peut pas
-dire : /felix culpa/, car le sexe réagit sur la personnalité, et chez un
+dire : felix culpa, car le sexe réagit sur la personnalité, et chez un
 homme le féminisme devient afféterie, la réserve susceptibilité, etc.
 N’importe, dans la figure, fût-elle barbue, dans les joues, même
 congestionnées sous les favoris, il y a certaines lignes superposables à
@@ -10802,7 +10802,7 @@ d’une belle femme en sa jeunesse éternelle.
 
 « Je ne peux pas vous dire comme ça me fait plaisir de vous voir, reprit
 la duchesse. Mon Dieu, quand est-ce que je vous avais vu la dernière
-fois… — En visite chez M^me d’Agrigente où je vous trouvais souvent. —
+fois... — En visite chez M^me d’Agrigente où je vous trouvais souvent. —
 Naturellement, j’y allais souvent, mon pauvre petit, comme Basin
 l’aimait à ce moment-là. C’est toujours chez sa bonne amie du moment
 qu’on me rencontrait le plus parce qu’il me disait : « Ne manquez pas
@@ -11045,7 +11045,7 @@ vous rend malade. » Et c’était vrai parce qu’on me prend pour une femme
 sèche et que je suis, au fond, un paquet de nerfs. »
 
 
-⁂
+
 
 
 À ce moment se produisit un incident inattendu. Un valet de pied vint
@@ -11111,7 +11111,7 @@ meurent souvent victimes de complots domestiques noués autour d’elles,
 comme il leur arrivait tant de fois à la fin des pièces qu’elles jouaient.
 
 
-⁂
+
 
 
 Gilberte, nous l’avons vu, avait voulu éviter un conflit avec sa tante
@@ -11421,7 +11421,7 @@ de son neveu plus qu’avec un enfant inconnu rencontré par hasard à
 Saint-Hilaire de Combray ?
 
 
-⁂
+
 
 
 La duchesse avait pu un instant être heureuse de sentir son passé plus
@@ -11527,7 +11527,7 @@ ne disait pas du bien, quand elle vivait, de M^me Howland, la duchesse
 éclatait de rire devant ma naïveté : « Naturellement, l’autre avait chez
 elle tous les hommes et celle-ci cherchait à les attirer. » Elle
 reprit : « Mais dans de grandes machines comme ici, non, ça me passe que
-vous veniez. À moins que ce ne soit pour faire des études… »,
+vous veniez. À moins que ce ne soit pour faire des études... »,
 ajouta-t-elle d’un air de doute, de méfiance, et sans trop s’aventurer,
 car elle ne savait pas très exactement en quoi consistait le genre
 d’opérations improbables auquel elle faisait allusion.
@@ -11786,7 +11786,7 @@ pas le numéro du fil et les boutons qu’il fallait, et puis, parce que, à
 force de vivre ma vie, elle s’était fait du travail littéraire une sorte
 de compréhension instinctive, plus juste que celle de bien des gens
 intelligents, à plus forte raison que celle des gens bêtes. Ainsi quand
-j’avais autrefois fait mon article pour le /Figaro/, pendant que le
+j’avais autrefois fait mon article pour le Figaro, pendant que le
 vieux maître d’hôtel, avec une figure de commisération qui exagère
 toujours un peu ce qu’a de pénible un labeur qu’on ne pratique pas,
 qu’on ne conçoit même pas, et même une habitude qu’on n’a pas, comme les
@@ -12086,7 +12086,7 @@ de me donner un désir quelconque, et encore était-il trop brillant, si
 blême qu’il fût, pour mes yeux qui préféraient se fermer, et je me
 retournais du côté du mur. Il me semble, pour autant que je sentais le
 mouvement de mes lèvres, que je devais avoir un petit sourire infime
-d’un coin de la bouche quand une dame m’écrivait : « J’ai été /surprise/
+d’un coin de la bouche quand une dame m’écrivait : « J’ai été surprise
 de ne pas avoir de réponse à ma lettre. » Néanmoins, cela me rappelait
 la lettre, et je lui répondais. Je voulais tâcher, pour qu’on ne pût me
 croire ingrat, de mettre ma gentillesse actuelle au niveau de la
@@ -12129,7 +12129,7 @@ savoir si le Maître de ma destinée, moins indulgent que le sultan
 Sheriar, le matin, quand j’interromprais mon récit, voudrait bien
 surseoir à mon arrêt de mort et me permettrait de reprendre la suite le
 prochain soir. Non pas que je prétendisse refaire, en quoi que ce fût,
-les /Mille et une Nuits/, pas plus que les /Mémoires/ de Saint-Simon,
+les Mille et une Nuits, pas plus que les Mémoires de Saint-Simon,
 écrits eux aussi la nuit, pas plus qu’aucun des livres que j’avais tant
 aimés et desquels, dans ma naïveté d’enfant, superstitieusement attaché
 à eux comme à mes amours, je ne pouvais sans horreur imaginer une œuvre
@@ -12139,7 +12139,7 @@ aussi, comme mon être de chair, finiraient un jour par mourir. Mais il
 faut se résigner à mourir. On accepte la pensée que dans dix ans
 soi-même, dans cent ans ses livres, ne seront plus. La durée éternelle
 n’est pas plus promise aux œuvres qu’aux hommes. Ce serait un livre
-aussi long que les /Mille et une Nuits/ peut-être, mais tout autre. Sans
+aussi long que les Mille et une Nuits peut-être, mais tout autre. Sans
 doute, quand on est amoureux d’une œuvre, on voudrait faire quelque
 chose de tout pareil, mais il faut sacrifier son amour du moment et ne
 pas penser à son goût, mais à une vérité qui ne nous demande pas nos
@@ -12221,7 +12221,7 @@ transformer en équivalents d’intelligence, n’était-elle pas une des
 conditions, presque l’essence même de l’œuvre d’art telle que je l’avais
 conçue tout à l’heure dans la bibliothèque ? Ah ! si j’avais encore eu
 les forces qui étaient intactes dans la soirée que j’avais alors évoquée
-en apercevant /François le Champi ?/ C’était de cette soirée, où ma mère
+en apercevant François le Champi ? C’était de cette soirée, où ma mère
 avait abdiqué, que datait, avec la mort lente de ma grand’mère, le
 déclin de ma volonté, de ma santé. Tout s’était décidé au moment où, ne
 pouvant plus supporter d’attendre au lendemain pour poser mes lèvres sur
