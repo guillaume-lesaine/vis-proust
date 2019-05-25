@@ -1,31 +1,26 @@
 {
-  "function_simple_objects": {
-    "arguments": "x, y, element, result",
-    "values": [
-      ["a", "b", "/", "a/b"],
-      ["a", " ", "/", "a "],
-      [" ", "a", "/", " a"],
-      [" ", " ", "/", " "]
-    ]
-  },
   "lowerize": {
     "arguments": "df_filename, df_result_filename",
     "values": [
       ["input_lowerize.csv", "output_lowerize.csv"]
     ]
   },
-  "function_list": {
-    "arguments": "filename, case",
-    "values": [
-      ["function_list.json", "case_1"],
-      ["function_list.json", "case_2"],
-      ["function_list.json", "case_3"]
-    ]
-  },
   "interval": {
     "arguments": "df_filename, low, high, df_result_filename",
     "values": [
       ["input_interval.csv", 10, 20, "output_interval.csv"]
+    ]
+  },
+  "words": {
+    "arguments": "df_filename, df_result_filename",
+    "values": [
+      ["input_words.csv", "output_words.csv"]
+    ]
+  },
+  "punctuation": {
+    "arguments": "df_filename, df_result_filename",
+    "values": [
+      ["input_punctuation.csv", "output_punctuation.csv"]
     ]
   }
 }

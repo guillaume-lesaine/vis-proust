@@ -20,6 +20,6 @@ def load_json(filename, case=None):
             dict = json.load(f)
             return dict
 
-def load_csv(filename):
-    df = pd.read_csv("./tests/csv/" + filename)
+def load_csv(filename, index_col=None):
+    df = pd.read_csv("./tests/csv/" + filename, index_col=index_col)
     return df
