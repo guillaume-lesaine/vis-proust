@@ -7,8 +7,8 @@ import re
 for line in sys.stdin:
     line = line.strip()
     # Handling of paragraphs and thoughts
-    regex_swann = re.compile(r"«|»|--")
-    line = re.sub(regex_swann," ",line)
+    regex_white_space = re.compile(r"«|»|--")
+    line = re.sub(regex_white_space," ",line)
     # Create a list out of the sentence
     words = nltk.word_tokenize(line)
     for word in words:

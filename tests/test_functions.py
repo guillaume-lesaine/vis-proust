@@ -58,3 +58,14 @@ def test_punctuation(df_filename, df_result_filename):
     df_output = package.punctuation(df)
 
     tm.assert_frame_equal(df_output, df_result)
+
+### against
+
+arguments, values = dictionary_json["against"].values()
+@pytest.mark.parametrize(arguments, values)
+def test_against(df_filename, table_filename, df_result_filename):
+
+    df, table, df_result = load_csv(df_filename, index_col="token"), load_csv(table_filename, names=["token"]), load_csv(df_result_filename, index_col="token")
+    df_output = package.against(df, table)
+
+    tm.assert_frame_equal(df_output, df_result)

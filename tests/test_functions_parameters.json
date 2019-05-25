@@ -22,5 +22,11 @@
     "values": [
       ["input_punctuation.csv", "output_punctuation.csv"]
     ]
+  },
+  "against": {
+    "arguments": "df_filename, table_filename, df_result_filename",
+    "values": [
+      ["input_against_df.csv", "input_against_table.csv", "output_against.csv"]
+    ]
   }
 }

@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 import package
 
 def load_json(filename, case=None):
-    with open("./tests/json/" + filename, 'r') as f:
+    with open("./tests/" + filename, 'r') as f:
         if case:
             dict = json.load(f)[case]
             if len(dict) == 1:
@@ -20,6 +20,6 @@ def load_json(filename, case=None):
             dict = json.load(f)
             return dict
 
-def load_csv(filename, index_col=None):
-    df = pd.read_csv("./tests/csv/" + filename, index_col=index_col)
+def load_csv(filename, index_col=None, names=None):
+    df = pd.read_csv("./tests/csv/" + filename, index_col=index_col, names=names)
     return df
