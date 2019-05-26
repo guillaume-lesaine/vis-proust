@@ -28,5 +28,17 @@
     "values": [
       ["input_against_df.csv", "input_against_table.csv", "output_against.csv"]
     ]
+  },
+  "titlecase": {
+    "arguments": "df_filename, df_result_filename",
+    "values": [
+      ["input_titlecase.csv", "output_titlecase.csv"]
+    ]
+  },
+  "lowercase": {
+    "arguments": "df_filename, df_result_filename",
+    "values": [
+      ["input_lowercase.csv", "output_lowercase.csv"]
+    ]
   }
 }

@@ -26,3 +26,9 @@ def against(df,table):
     table = (table.add(df[df.index.isin(table.index)], fill_value = 0)
                         .astype(int))
     return table
+
+def titlecase(df):
+    return df[df.index.map(lambda x: True if x[0].isupper() else False)]
+
+def lowercase(df):
+    return df[df.index.map(lambda x: True if x[0].islower() else False)]

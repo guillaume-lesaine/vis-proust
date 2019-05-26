@@ -69,3 +69,25 @@ def test_against(df_filename, table_filename, df_result_filename):
     df_output = package.against(df, table)
 
     tm.assert_frame_equal(df_output, df_result)
+
+### titlecase
+
+arguments, values = dictionary_json["titlecase"].values()
+@pytest.mark.parametrize(arguments, values)
+def test_titlecase(df_filename, df_result_filename):
+
+    df, df_result = load_csv(df_filename, index_col="token"), load_csv(df_result_filename, index_col="token")
+    df_output = package.titlecase(df)
+
+    tm.assert_frame_equal(df_output, df_result)
+
+### lowercase
+
+arguments, values = dictionary_json["lowercase"].values()
+@pytest.mark.parametrize(arguments, values)
+def test_lowercase(df_filename, df_result_filename):
+
+    df, df_result = load_csv(df_filename, index_col="token"), load_csv(df_result_filename, index_col="token")
+    df_output = package.lowercase(df)
+
+    tm.assert_frame_equal(df_output, df_result)
