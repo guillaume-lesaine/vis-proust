@@ -1,0 +1,8 @@
+file,function
+ngrams2_common.csv,lowerize
+tokens_artists.csv,titlecase
+tokens_names.csv,titlecase
+tokens_cities.csv,titlecase
+tokens_punctuation.csv,punctuation
+tokens_nobility.csv,lowerize
+tokens_clergy.csv,lowerize

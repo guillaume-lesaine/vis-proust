@@ -3,7 +3,7 @@ import pandas as pd
 
 class Volume():
 
-    def __init__(self, df=pd.DataFrame(index=["token"],columns=["count"])):
+    def __init__(self, df=pd.DataFrame(index=["variable"],columns=["count"])):
         self.df = df
 
     def __len__(self):

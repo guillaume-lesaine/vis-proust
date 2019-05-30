@@ -1,13 +1,15 @@
 #!/bin/bash
 
+ngrams=$1
+
 echo "------- START -------"
 
-rm -r output_ngrams/*
+rm -r outputs/$ngrams/*
 
 for entry in "./input"/*
 do
   filename=$(basename $entry .txt)
-  cat ./input/$filename.txt | ./package/shaper.py | ./package/ngrammer.py | sort -k1,1 | ./package/reducer.py > ./output_ngrams/$filename.csv
+  cat ./input/$filename.txt | ./package/shaper.py | ./package/ngrammer.py $ngrams | sort -k1,1 | ./package/reducer.py > ./outputs/ngrams$ngrams/$filename.csv
   echo $filename
 done
 

@@ -4,16 +4,22 @@ import pandas as pd
 import re
 from functools import reduce
 import sys
-# from collections import namedtuple
-import itertools
+import argparse
 
 # Custom package
 import package as pkg
 
+# Variables
+
+parser = argparse.ArgumentParser(description='Variables')
+parser.add_argument('--case')
+
+args = parser.parse_args()
+
 # Main
 
 proust = {}
-filenames = tuple(os.listdir("./output"))
+filenames = tuple(os.listdir(f"./outputs/{args.case}"))
 
 books = (
     "du_cote_de_chez_swann",
@@ -27,34 +33,36 @@ books = (
 
 for book in books:
     parts = [file for file in filenames if book in file]
-    proust[book] = reduce(lambda x, y: x + y,
-        [pkg.Volume(pd.read_csv("./output/" + part, delimiter="===", engine='python', names=["token", "count"]).set_index("token")) for part in parts]
+    proust[book] = reduce(lambda acc, df: acc.add(df, fill_value = 0),
+        [pd.read_csv(f"./outputs/{args.case}/" + part, delimiter="===", engine='python', names=["variable", "count"]).set_index("variable") for part in parts]
     )
 
-proust_recherche = pkg.Volume(reduce(lambda df1, df2: df1.add(df2, fill_value = 0), [proust[book].df for book in books]).astype(int))
+proust_recherche = reduce(lambda acc, df: acc.add(df, fill_value = 0), [proust[book] for book in books])
 
 # Distribution
 
-list_titlecase = ["artists.csv", "names.csv", "cities.csv"]
-list_punctuation = ["punctuation.csv"]
+distrib_func = pd.read_csv(f"./utilitaries/distribution_functions.csv", index_col="file")
+distrib_func = distrib_func[distrib_func.index.map(lambda x: True if args.case in x else False)]
 
-dict_distribution = {
-    "artists.csv": pkg.titlecase,
-    "names.csv": pkg.titlecase,
-    "cities.csv": pkg.titlecase,
-    "punctuation.csv": pkg.punctuation,
-    "nobility.csv": pkg.lowerize,
-    "clergy.csv": pkg.lowerize,
-}
+for file in distrib_func.index:
+    dataframe_source = pd.read_csv(f"./utilitaries/{file}", sep="=", names=["variable"])
+    distribution = pd.concat([pkg.against(getattr(pkg, distrib_func.loc[file, "function"])(proust[book]),dataframe_source) for book in books], axis=1, sort=False, ignore_index=True)
+    #distribution["recherche"] = distribution.sum(axis=1)
+    # distribution = distribution.sort_values("recherche", ascending=False)
+    distribution.to_csv(f"./data/distribution_{file}", sep="=",  index_label="expression")
 
-for file in dict_distribution.keys():
-    dataframe_source = pd.read_csv(f"./utilitaries/{file}", sep="=", names=["token"])
-    distribution = pd.concat([pkg.against(dict_distribution[file](proust[book].df),dataframe_source) for book in books], axis=1, sort=False, ignore_index=True)
-    distribution["recherche"] = distribution.sum(axis=1)
-    distribution = distribution.sort_values("recherche", ascending=False)
-    distribution.to_csv(f"./data/distribution_{file}", sep="=",  index_label="token")
+# Frequence
 
-proust_words_lowerize = pkg.words(pkg.lowerize(proust_recherche.df))
-proust_gems = proust_words_lowerize[proust_words_lowerize.index.map(lambda x: pkg.gem(x))]
+dataframe_values = pd.read_csv(f"./utilitaries/frequence_values.csv", index_col="case")
+value = dataframe_values.loc[args.case, "value"]
 
-print(pkg.interval(proust_gems,5000,20000))
+valuable_ngrams = pkg.lowerize(proust_recherche).query(f"count >= {value}")
+frequent = pd.concat([pkg.against(pkg.lowerize(proust[book]), valuable_ngrams) for book in books], axis=1, sort=False, ignore_index=True)
+frequent.to_csv(f"./data/frequence_{args.case}.csv", sep=",",  index_label="expression")
+
+# Histogram des 2grams, 3grams, 4grams, 5grams, 6grams
+
+# proust_words_lowerize = pkg.words(pkg.lowerize(proust_recherche))
+# proust_gems = proust_words_lowerize[proust_words_lowerize.index.map(lambda x: pkg.gem(x))]
+#
+# print(pkg.interval(proust_gems,5000,20000))

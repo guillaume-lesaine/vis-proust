@@ -13,9 +13,4 @@ for line in sys.stdin:
     line = re.sub(regex_ignore," ",line)
     line = re.split(r"\.|!|\?|\.\.\.",line)
     line = tuple(filter(lambda x : True if x not in [""," "] else False,line))
-    # print(line)
-    # regex = re.compile(r'\s')
-    # line = filter(regex.search, line)
-    # line = tuple(filter(None,line))
-
     print(*line, sep="\n", end=" ")

@@ -1,5 +1,6 @@
 import copy
 import re
+import numpy as np
 
 def lowerize(df):
     df_c = copy.deepcopy(df)
@@ -23,9 +24,12 @@ def punctuation(df):
 
 def against(df,table):
     table["count"] = 0
-    table = table.set_index("token")
-    table = (table.add(df[df.index.isin(table.index)], fill_value = 0)
-                        .astype(int))
+    total = np.sum(df.loc[:,"count"])
+    try:
+        table = table.set_index("variable")
+    except:
+        pass
+    table = table.add(df[df.index.isin(table.index)]/total*100, fill_value = 0)
     return table
 
 def titlecase(df):
