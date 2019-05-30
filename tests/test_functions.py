@@ -91,3 +91,10 @@ def test_lowercase(df_filename, df_result_filename):
     df_output = package.lowercase(df)
 
     tm.assert_frame_equal(df_output, df_result)
+
+### gem
+
+arguments, values = dictionary_json["gem"].values()
+@pytest.mark.parametrize(arguments, values)
+def test_gem(s, s_result):
+    assert package.gem(s) == bool(s_result)

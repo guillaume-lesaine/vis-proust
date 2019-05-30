@@ -1,4 +1,5 @@
 import copy
+import re
 
 def lowerize(df):
     df_c = copy.deepcopy(df)
@@ -32,3 +33,10 @@ def titlecase(df):
 
 def lowercase(df):
     return df[df.index.map(lambda x: True if x[0].islower() else False)]
+
+def gem(s):
+    l = re.split(r"'|-|\.|\^",s)
+    if list(filter(lambda w: len(w)>=4, l)) != []:
+        return True
+    else :
+        return False

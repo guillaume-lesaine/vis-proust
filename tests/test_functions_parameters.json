@@ -40,5 +40,16 @@
     "values": [
       ["input_lowercase.csv", "output_lowercase.csv"]
     ]
+  },
+  "gem": {
+    "arguments": "s, s_result",
+    "values": [
+      ["grand'mère", "True"],
+      ["moi", ""],
+      ["œufs", "True"],
+      ["17^e", ""],
+      ["a-t-elle", "True"],
+      ["a.j.", ""]
+    ]
   }
 }
