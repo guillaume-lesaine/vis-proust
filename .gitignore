@@ -4,3 +4,4 @@ __pycache__
 *.log
 originals
 data
+test.txt
