@@ -29,7 +29,7 @@ def against(df,table):
         table = table.set_index("variable")
     except:
         pass
-    table = table.add(df[df.index.isin(table.index)]/total*100, fill_value = 0)
+    table = table.add(df[df.index.isin(table.index)], fill_value = 0)
     return table
 
 def titlecase(df):
