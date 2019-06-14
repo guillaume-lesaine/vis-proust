@@ -12,7 +12,6 @@ import numpy as np
 import package as pkg
 
 # Variables
-
 parser = argparse.ArgumentParser(description='Variables')
 parser.add_argument('--case')
 # tokens, sentences, ngrams2, ngrams3, ngrams4

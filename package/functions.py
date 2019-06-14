@@ -40,7 +40,6 @@ def lowercase(df):
 
 def gem(s):
     l = re.split(r"\s",s)
-    #common_words = ["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"]
     if list(filter(lambda w: len(w)>=4, l)) != []:
         return True
     else :
