@@ -15,6 +15,7 @@ import package as pkg
 
 parser = argparse.ArgumentParser(description='Variables')
 parser.add_argument('--case')
+# tokens, sentences, ngrams2, ngrams3, ngrams4
 
 args = parser.parse_args()
 
@@ -39,42 +40,42 @@ for i, book in enumerate(books):
         [pd.read_csv(f"./outputs/{args.case}/" + part, delimiter="===", engine='python', names=["variable", "count"]).set_index("variable") for part in parts]
     )
 
+proust_recherche = reduce(lambda acc, df: acc.add(df, fill_value = 0), [proust[book] for book in books]).astype(int)
+proust_recherche.to_csv(f"./data/recherche_{args.case}.csv", sep=",",  index_label="variable")
+
+# Macro Analysis
+
 if args.case == "sentences":
     sentences_comparison = pd.concat([proust[book] for book in books], axis=1, sort=False, ignore_index=True).fillna(0).astype(int)
     sentences_comparison.to_csv(f"./data/sentences.csv", sep=",",  index_label="variable")
     print(sentences_comparison)
 
-proust_recherche = reduce(lambda acc, df: acc.add(df, fill_value = 0), [proust[book] for book in books]).astype(int)
-proust_recherche.to_csv(f"./data/recherche_{args.case}.csv", sep=",",  index_label="variable")
+# N-grams Analysis
 
-if args.case != "sentences":
+elif "ngrams" in args.case:
 
-    # Distribution
+    dataframe_values = pd.read_csv(f"./utilitaries/frequence_values.csv", index_col="case")
+    value = dataframe_values.loc[args.case, "value"]
+
+    valuable_ngrams = pkg.lowerize(proust_recherche).query(f"count >= {value}")
+
+    proust_words_lowerize = pkg.words(valuable_ngrams)
+    proust_gems = proust_words_lowerize[proust_words_lowerize.index.map(lambda x: pkg.gem(x))]
+    proust_gems = proust_gems.sort_values("count", ascending = False)
+    proust_gems.to_csv(f"./data/recherche_{args.case}.csv", sep=",")
+
+# Thematic Analysis
+
+else:
 
     distrib_func = pd.read_csv(f"./utilitaries/distribution_functions.csv", index_col="file")
     distrib_func = distrib_func[distrib_func.index.map(lambda x: True if args.case in x else False)]
 
     for file in distrib_func.index:
         dataframe_source = pd.read_csv(f"./utilitaries/{file}", sep="=", names=["variable"])
+
         distribution = pd.concat([pkg.against(getattr(pkg, distrib_func.loc[file, "function"])(proust[book]), dataframe_source) for book in books], axis=1, sort=False, ignore_index=True).astype(int)
-        distribution.to_csv(f"./data/distribution_{file}", sep="=",  index_label="expression")
+        distribution.to_csv(f"./data/distribution_{file}", sep=",",  index_label="expression")
+
         distribution_recherche = pkg.against(getattr(pkg, distrib_func.loc[file, "function"])(proust_recherche), dataframe_source).astype(int)
         distribution_recherche.to_csv(f"./data/recherche_{file}", sep=",",  index_label="expression")
-
-
-    # Frequence
-
-    # dataframe_values = pd.read_csv(f"./utilitaries/frequence_values.csv", index_col="case")
-    # value = dataframe_values.loc[args.case, "value"]
-    #
-    # valuable_ngrams = pkg.lowerize(proust_recherche).query(f"count >= {value}")
-    # frequent = pd.concat([pkg.against(pkg.lowerize(proust[book]), valuable_ngrams) for book in books], axis=1, sort=False, ignore_index=True)
-    # frequent.to_csv(f"./data/frequence_{args.case}.csv", sep=",",  index_label="expression")
-
-
-# Histogram des 2grams, 3grams, 4grams, 5grams, 6grams
-
-# proust_words_lowerize = pkg.words(pkg.lowerize(proust_recherche))
-# proust_gems = proust_words_lowerize[proust_words_lowerize.index.map(lambda x: pkg.gem(x))]
-#
-# print(pkg.interval(proust_gems,5000,20000))

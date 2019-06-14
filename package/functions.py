@@ -16,7 +16,7 @@ def interval(df,low,high):
     return df_c
 
 def words(df):
-    return df[df.index.str.contains('[A-Za-z]')]
+    return df[~df.index.str.match(r'[^A-Za-z]')]
 
 def punctuation(df):
     punctuation_marks = ["!", ".", "?", ",", ";", "...", ":","-","--","'"]
@@ -39,7 +39,8 @@ def lowercase(df):
     return df[df.index.map(lambda x: True if x[0].islower() else False)]
 
 def gem(s):
-    l = re.split(r"'|-|\.|\^",s)
+    l = re.split(r"\s",s)
+    #common_words = ["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"]
     if list(filter(lambda w: len(w)>=4, l)) != []:
         return True
     else :
