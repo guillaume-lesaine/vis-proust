@@ -3,6 +3,5 @@ __pycache__
 .DS_Store
 *.log
 originals
-data
 outputs
 proust_env
