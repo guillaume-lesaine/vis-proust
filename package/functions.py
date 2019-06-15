@@ -26,7 +26,7 @@ def against(df,table):
     table["count"] = 0
     total = np.sum(df.loc[:,"count"])
     try:
-        table = table.set_index("variable")
+        table = table.set_index("expression")
     except:
         pass
     table = table.add(df[df.index.isin(table.index)], fill_value = 0)

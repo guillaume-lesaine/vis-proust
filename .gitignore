@@ -4,5 +4,5 @@ __pycache__
 *.log
 originals
 data
-test.txt
 outputs
+proust_env

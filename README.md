@@ -8,10 +8,79 @@ Available in this repository:
 - Package functions tests written with Pytest
 - The source CSV data and the refined CSV files feeding the notebook
 
-# Usage
+# Setup
 
-In order to make a script executable on macOS, run :
+All the following commands must be run from the root of the directory.
+
+To create the virtual environement run :
+
+```console
+virtualenv -p python3 proust_env
+```
+
+To access it run :
+
+```console
+source proust_env/bin/activate
+```
+
+The install the required packages with the requirements :
+
+```console
+pip install
+```
+
+Run this initial command to setup directory structure
+
+```console
+./setup.sh
+```
+
+The initial data processing scripts are launched with bash. In order to make a script executable on macOS, run:
 
 ```console
 chmod 755 ./path/file.ext
+```
+# Usage
+
+## Map Reduce - Tokens counter
+
+To generate the text outputs for the count of tokens, run:
+
+```console
+./tokens_counter.sh
+```
+
+## Map Reduce - Ngrams counter
+
+To generate the text outputs for the count of ngrams, with n in [2, 3, 4, 5], run:
+
+```console
+./ngrams_counter.sh n
+```
+
+## Map Reduce - Sentences counter
+
+To generate the text outputs for the count of words in sentences, run:
+
+```console
+./sentences_counter.sh
+```
+
+## Map Reduce - Sentences extractor
+
+To generate the sentences of the text, run:
+
+```console
+./sentences_extractor.sh
+```
+
+## Data Processing - main.py
+
+```console
+python3 consolidator.py --case tokens
+```
+
+```console
+python3 searcher.py --case tokens_cities
 ```
