@@ -4,7 +4,7 @@ ngrams=$1
 
 echo "------- START -------"
 
-rm -r outputs/$ngrams/*
+rm -r outputs/ngrams$ngrams/*
 
 for entry in "./input"/*
 do
