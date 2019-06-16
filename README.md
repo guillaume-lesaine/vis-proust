@@ -8,79 +8,71 @@ Available in this repository:
 - Package functions tests written with Pytest
 - The source CSV data and the refined CSV files feeding the notebook
 
-# Setup
+## Setup
 
-All the following commands must be run from the root of the directory.
+All the following commands must be run from the root of the directory. They are design to create a virtual environment, install packages and setup the structure of the work directory.
 
-To create the virtual environement run :
+To create the virtual environment run :
 
 ```console
-virtualenv -p python3 proust_env
+$ virtualenv -p python3 proust_env
 ```
 
 To access it run :
 
 ```console
-source proust_env/bin/activate
+$ source proust_env/bin/activate
 ```
 
 The install the required packages with the requirements :
 
 ```console
-pip install
+$ pip3 install -r requirements.txt
 ```
 
-Run this initial command to setup directory structure
+Make the setup file executable and run it in order to setup the directory structure.
 
 ```console
-./setup.sh
+$ chmod 755 setup.sh
+$ ./setup.sh
 ```
 
-The initial data processing scripts are launched with bash. In order to make a script executable on macOS, run:
+
+## Usage
+
+### 1 - Map Reduce
+
+To generate the text outputs for tokens, ngrams, sentences in the case of count, run the following:
 
 ```console
-chmod 755 ./path/file.ext
+$ ./tokens_counter.sh
+$ ./ngrams_counter.sh n
+$ ./sentences_counter.sh
 ```
-# Usage
-
-## Map Reduce - Tokens counter
-
-To generate the text outputs for the count of tokens, run:
-
-```console
-./tokens_counter.sh
-```
-
-## Map Reduce - Ngrams counter
-
-To generate the text outputs for the count of ngrams, with n in [2, 3, 4, 5], run:
-
-```console
-./ngrams_counter.sh n
-```
-
-## Map Reduce - Sentences counter
-
-To generate the text outputs for the count of words in sentences, run:
-
-```console
-./sentences_counter.sh
-```
-
-## Map Reduce - Sentences extractor
 
 To generate the sentences of the text, run:
 
 ```console
-./sentences_extractor.sh
+$ ./sentences_extractor.sh
 ```
 
-## Data Processing - main.py
+### 2 - Data Processing
+
+The data processing generates the final data files serving as inputs for the visualizations.
+
+In order to use the consolidator in all the cases run:
 
 ```console
-python3 consolidator.py --case tokens
+$ python3 consolidator.py --case tokens
+$ python3 consolidator.py --case ngrams2
+$ python3 consolidator.py --case ngrams3
+$ python3 consolidator.py --case sentences
 ```
 
+In order to use the searcher in all the cases run:
+
 ```console
-python3 searcher.py --case tokens_cities
-```
+$ python3 searcher.py --case ngrams2
+$ python3 searcher.py --case ngrams3
+$ python3 searcher.py --case tokens_characters
+$ python3 searcher.py --case tokens_cities
