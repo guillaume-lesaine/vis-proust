@@ -8,6 +8,14 @@ Available in this repository:
 - Package functions tests written with Pytest
 - The source CSV data and the refined CSV files feeding the notebook
 
+## Architecture
+
+Here is the architecture of the worflow that is used.
+
+<p align="center">
+  <img src="architecture.png" width="75%"/>
+</p>
+
 ## Setup
 
 All the following commands must be run from the root of the directory. They are design to create a virtual environment, install packages and setup the structure of the work directory.
@@ -41,6 +49,8 @@ $ ./setup.sh
 ## Usage
 
 ### 1 - Map Reduce
+
+A map reduce type of architecture is used in order to manage the text files. This architecture generates intermediary files feeding the data processing.
 
 To generate the text outputs for tokens, ngrams, sentences in the case of count, run the following:
 
@@ -76,3 +86,10 @@ $ python3 searcher.py --case ngrams2
 $ python3 searcher.py --case ngrams3
 $ python3 searcher.py --case tokens_characters
 $ python3 searcher.py --case tokens_cities
+```
+
+## Observable Inputs
+
+<p align="center">
+  <img src="table.png" width="75%"/>
+</p>
