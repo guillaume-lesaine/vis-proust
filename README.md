@@ -10,10 +10,10 @@ Available in this repository:
 
 ## Architecture
 
-Here is the architecture of the worflow that is used.
+Here is the architecture of the worflow that is used, from the initial text files to the inputs for Observable.
 
 <p align="center">
-  <img src="architecture.png" width="75%"/>
+  <img src="architecture.png" width="80%"/>
 </p>
 
 ## Setup
@@ -56,7 +56,8 @@ To generate the text outputs for tokens, ngrams, sentences in the case of count,
 
 ```console
 $ ./tokens_counter.sh
-$ ./ngrams_counter.sh n
+$ ./ngrams_counter.sh 2
+$ ./ngrams_counter.sh 3
 $ ./sentences_counter.sh
 ```
 
@@ -90,6 +91,8 @@ $ python3 searcher.py --case tokens_cities
 
 ## Observable Inputs
 
+Here are the tables appearing in the workflow.
+
 <p align="center">
-  <img src="table.png" width="75%"/>
+  <img src="table.png" width="80%"/>
 </p>

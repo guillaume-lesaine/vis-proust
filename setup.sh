@@ -1,10 +1,11 @@
-mkdir ./outputs/ngrams2
-mkdir ./outputs/ngrams3
-mkdir ./outputs/ngrams4
-mkdir ./outputs/ngrams5
-mkdir ./outputs/sentences
-mkdir ./outputs/sentences_extractor
-mkdir ./outputs/tokens
+mkdir outputs
+mkdir outputs/ngrams2
+mkdir outputs/ngrams3
+mkdir outputs/ngrams4
+mkdir outputs/ngrams5
+mkdir outputs/sentences
+mkdir outputs/sentences_extractor
+mkdir outputs/tokens
 
 chmod 755 ./sentences_counter.sh
 chmod 755 ./tokens_counter.sh
